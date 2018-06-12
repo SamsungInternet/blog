@@ -2,15 +2,29 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import FaArrowDown from "react-icons/lib/fa/arrow-down";
+import Ship from "./Ship.js";
+import Moon from "./Moon.js";
+import Star1 from "./Star1.js";
+import PinkPlanet from "./PinkPlanet.js";
+import Star2 from "./Star2.js";
+import GreenPlanet from "./GreenPlanet.js";
 
 const Hero = props => {
-  const { scrollToContent, backgrounds, theme } = props;
+  const { theme } = props;
 
   return (
     <React.Fragment>
       <section className="hero">
+        <Ship name="ship" />
+        <Moon name="moon" />
+        <Star1 name="star1" />
+        <Star2 name="star2" />
+        <PinkPlanet name="pp1" />
+        <GreenPlanet name="gp1" />
         <h1>
-         Welcome to the <br/>Samsung Internet<br/> Developer Hub
+          Welcome to the <br />
+          Samsung Internet<br />
+          Developer Hub
         </h1>
       </section>
 
@@ -18,11 +32,10 @@ const Hero = props => {
       <style jsx>{`
         .hero {
           align-items: center;
-          background: ${theme.hero.background};
-          background-image: url(${backgrounds.mobile});
-          background-size: cover;
+          background-color: ${theme.hero.backgroundColor};
           color: ${theme.text.color.primary.inverse};
           display: flex;
+          overflow: hidden;
           flex-flow: column nowrap;
           justify-content: center;
           min-height: 50vh;
@@ -38,6 +51,7 @@ const Hero = props => {
           color: ${theme.hero.h1.color};
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
+          z-index: 1;
 
           :global(strong) {
             position: relative;
@@ -56,68 +70,42 @@ const Hero = props => {
           }
         }
 
-        button {
-          background: ${theme.background.color.brand};
-          border: 0;
-          border-radius: 50%;
-          font-size: ${theme.font.size.m};
-          padding: ${theme.space.s} ${theme.space.m};
-          cursor: pointer;
-          width: ${theme.space.xl};
-          height: ${theme.space.xl};
-
-          &:focus {
-            outline-style: none;
-            background: ${theme.color.brand.primary.active};
-          }
-
-          :global(svg) {
-            fill: ${theme.color.neutral.white};
-            animation-duration: ${theme.time.duration.long};
-            animation-name: buttonIconMove;
-            animation-iteration-count: infinite;
-          }
+        :global(.ship) {
+          display: block;
+          width: 60px;
+          animation: spin1 50s infinite linear;
+          flex-shrink: 0;
+          transform-origin: 550px 1300px;
         }
 
-        @keyframes buttonIconMove {
+        :global(.moon) {
+          display: block;
+          width: 100px;
+          animation: spin1 200s infinite linear;
+          flex-shrink: 0;
+          transform-origin: 250px 300px;
+        }
+
+        @keyframes spin1 {
           0% {
-            transform: translateY(0);
-          }
-          50% {
-            transform: translateY(-10px);
+            transform: rotate(0deg);
           }
           100% {
-            transform: translateY(0);
+            transform: rotate(-360deg);
           }
         }
 
         @from-width tablet {
-          .hero {
-            background-image: url(${backgrounds.tablet});
-          }
-
           h1 {
             max-width: 90%;
             font-size: ${`calc(${theme.hero.h1.size} * 1.3)`};
           }
-
-          button {
-            font-size: ${theme.font.size.l};
-          }
         }
 
         @from-width desktop {
-          .hero {
-            background-image: url(${backgrounds.desktop});
-          }
-
           h1 {
             max-width: 80%;
             font-size: ${`calc(${theme.hero.h1.size} * 1.5)`};
-          }
-
-          button {
-            font-size: ${theme.font.size.xl};
           }
         }
       `}</style>
@@ -126,7 +114,6 @@ const Hero = props => {
 };
 
 Hero.propTypes = {
-  backgrounds: PropTypes.object.isRequired,
   theme: PropTypes.object.isRequired
 };
 

@@ -136,7 +136,7 @@ hero:
     size: *font-size-xxl
     color: *color-white
     lineHeight: *font-line-height-s
-  background: 'linear-gradient(0deg, #E0306E, #6438B5)'
+  backgroundColor: '#203869'
 blog:
   h1:
     size: *font-size-l
