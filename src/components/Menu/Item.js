@@ -46,7 +46,7 @@ const Item = props => {
         @from-width desktop {
           .item {
             :global(a) {
-              color: ${theme.text.color.primary};
+              color: ${theme.color.neutral.white};
               padding: ${theme.space.inset.s};
               transition: all ${theme.time.duration.default};
               border-radius: ${theme.size.radius.small};
@@ -57,7 +57,7 @@ const Item = props => {
             }
 
             :global(a:hover) {
-              color: ${theme.color.brand.primary};
+              color: ${theme.color.neutral.white};
               background: color(white alpha(-60%));
             }
 

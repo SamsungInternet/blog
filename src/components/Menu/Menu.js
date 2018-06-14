@@ -211,7 +211,7 @@ class Menu extends React.Component {
           @from-width desktop {
             .menu {
               border-top: none;
-              background: transparent;
+              background: ${theme.hero.backgroundColor};
               display: flex;
               position: relative;
               justify-content: flex-end;
@@ -255,7 +255,6 @@ class Menu extends React.Component {
 
               :global(.homepage):not(.fixed) & {
                 border: 1px solid transparent;
-                background: color(white alpha(-10%));
                 top: 50px;
 
                 &:after {

@@ -12,6 +12,8 @@ import GreenPlanet from "./GreenPlanet.js";
 const Hero = props => {
   const { theme } = props;
 
+  const pageWidth = window.outerWidth;
+
   return (
     <React.Fragment>
       <section className="hero">
@@ -40,6 +42,7 @@ const Hero = props => {
           justify-content: center;
           min-height: 50vh;
           height: 100px;
+          position: relative;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
         }
@@ -72,18 +75,28 @@ const Hero = props => {
 
         :global(.ship) {
           display: block;
-          width: 60px;
-          animation: spin1 50s infinite linear;
+          width: 100px;
           flex-shrink: 0;
-          transform-origin: 550px 1300px;
+          position: absolute;
+          bottom: -40px;
+          right: -40px;
+          transform: rotate(30deg);
         }
 
         :global(.moon) {
           display: block;
-          width: 100px;
-          animation: spin1 200s infinite linear;
+          width: 60px;
+          animation: spin1 300s infinite linear;
           flex-shrink: 0;
           transform-origin: 250px 300px;
+        }
+
+        :global(.star1) {
+          display: block;
+          width: 40px;
+          animation: spin1 200s infinite linear;
+          flex-shrink: 0;
+          transform-origin: 250px 270px;
         }
 
         @keyframes spin1 {

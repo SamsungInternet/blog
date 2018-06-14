@@ -71,7 +71,7 @@ class Header extends React.Component {
           .header {
             align-items: center;
             justify-content: center;
-            background-color: ${theme.color.neutral.white};
+            background-color: ${theme.hero.backgroundColor};
             display: flex;
             height: ${theme.header.height.default};
             position: relative;
@@ -92,7 +92,6 @@ class Header extends React.Component {
 
             &.homepage {
               position: absolute;
-              background-color: transparent;
               height: ${theme.header.height.homepage};
             }
           }
@@ -160,7 +159,7 @@ class Header extends React.Component {
                 color: ${theme.color.neutral.white};
               }
               h2 {
-                color: ${theme.color.neutral.gray.d};
+                color: ${theme.color.neutral.white};
               }
             }
           }
@@ -168,7 +167,7 @@ class Header extends React.Component {
           @from-width desktop {
             .header {
               align-items: center;
-              background-color: ${theme.color.neutral.white};
+              background-color: ${theme.hero.backgroundColor};
               display: flex;
               position: absolute;
               top: 0;
@@ -178,8 +177,6 @@ class Header extends React.Component {
 
               &.fixed {
                 height: ${theme.header.height.fixed};
-                background-color: ${theme.color.neutral.white};
-                border-bottom: 1px solid ${theme.color.neutral.gray};
                 left: 0;
                 padding: 0 ${theme.space.m};
                 position: fixed;
