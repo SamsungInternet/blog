@@ -8,6 +8,14 @@ import Seo from "../components/Seo";
 
 class IndexPage extends React.Component {
   separator = React.createRef();
+
+  componentDidMount() {
+      if(this.childWrap && this.childWrap.firstChild) {
+      let childHeight = this.childWrap.offsetHeight;
+      this.childHeight = childHeight;
+    }
+  }
+
   render() {
     const {
       data: {
@@ -35,11 +43,13 @@ class IndexPage extends React.Component {
 
     return (
       <React.Fragment>
-        <ThemeContext.Consumer>
-          {theme => (
-            <Hero backgrounds={backgrounds} theme={theme} />
-          )}
-        </ThemeContext.Consumer>
+        <div ref={el => {this.childWrap = el;}}>
+          <ThemeContext.Consumer>
+            {theme => (
+              <Hero backgrounds={backgrounds} theme={theme} heroHeight={this.childHeight}/>
+            )}
+          </ThemeContext.Consumer>
+        </div>
 
         <hr ref={this.separator} />
 

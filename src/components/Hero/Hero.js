@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import FaArrowDown from "react-icons/lib/fa/arrow-down";
 import Ship from "./Ship.js";
 import Moon from "./Moon.js";
 import Star1 from "./Star1.js";
@@ -10,9 +9,11 @@ import Star2 from "./Star2.js";
 import GreenPlanet from "./GreenPlanet.js";
 
 const Hero = props => {
-  const { theme } = props;
+  const { theme, backgrounds } = props;
 
-  const pageWidth = window.outerWidth;
+  const pageWidth = window.innerWidth;
+
+  const rocketAngle = Math.atan(props.heroHeight/pageWidth);
 
   return (
     <React.Fragment>
@@ -34,7 +35,8 @@ const Hero = props => {
       <style jsx>{`
         .hero {
           align-items: center;
-          background-color: ${theme.hero.backgroundColor};
+          background: url(${backgrounds.desktop}) ${theme.hero.backgroundColor} no-repeat center center;
+          background-size: cover;
           color: ${theme.text.color.primary.inverse};
           display: flex;
           overflow: hidden;
@@ -45,6 +47,7 @@ const Hero = props => {
           position: relative;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
+          text-shadow: 0px 0px 10px ${theme.hero.backgroundColor};
         }
 
         h1 {
@@ -55,6 +58,7 @@ const Hero = props => {
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
           z-index: 1;
+         
 
           :global(strong) {
             position: relative;
@@ -78,9 +82,10 @@ const Hero = props => {
           width: 100px;
           flex-shrink: 0;
           position: absolute;
-          bottom: -40px;
-          right: -40px;
+          bottom: 0px;
+          right: -100px;
           transform: rotate(30deg);
+          animation: rocket 5s linear;
         }
 
         :global(.moon) {
@@ -92,11 +97,56 @@ const Hero = props => {
         }
 
         :global(.star1) {
+          position: absolute;
+          left: 70%;
+          top: 30%;
           display: block;
           width: 40px;
-          animation: spin1 200s infinite linear;
+          animation: spin1 320s infinite linear;
           flex-shrink: 0;
-          transform-origin: 250px 270px;
+          transform-origin: 200px 70px;
+        }
+
+        :global(.star2) {
+          position: absolute;
+          left: 90%;
+          top: 90%;
+          display: block;
+          width: 40px;
+          animation: spin1 250s infinite linear;
+          flex-shrink: 0;
+          transform-origin: -250px 70px;
+        }
+
+        :global(.pp1) {
+          position: absolute;
+          left: 60%;
+          top: 80%;
+          display: block;
+          width: 40px;
+          animation: spin1 500s infinite linear;
+          flex-shrink: 0;
+          transform-origin: 0px 270px;
+        }
+
+        :global(.gp1) {
+          position: absolute;
+          display: block;
+          width: 40px;
+          animation: spin1 400s infinite linear;
+          flex-shrink: 0;
+          transform-origin: -500px -200px;
+          left: 10%;
+        }
+
+        @keyframes rocket {
+          0% {
+            transform: translate(0, 0) rotate(${rocketAngle}rad);
+          }
+
+          100% {
+            transform: translate(-${pageWidth}px, -${props.heroHeight}px) rotate(${rocketAngle}rad);
+          }
         }
 
         @keyframes spin1 {
@@ -127,6 +177,7 @@ const Hero = props => {
 };
 
 Hero.propTypes = {
+  backgrounds: PropTypes.object.isRequired,
   theme: PropTypes.object.isRequired
 };
 

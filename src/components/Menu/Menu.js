@@ -162,7 +162,6 @@ class Menu extends React.Component {
         <style jsx>{`
           .menu {
             align-items: center;
-            background: ${theme.color.neutral.white};
             bottom: 0;
             display: flex;
             flex-grow: 1;
@@ -173,6 +172,7 @@ class Menu extends React.Component {
             width: 100%;
             z-index: 1;
             transition: all ${theme.time.duration.default};
+            text-shadow: 0px 0px 10px ${theme.hero.backgroundColor};
           }
 
           .itemList {
@@ -195,7 +195,6 @@ class Menu extends React.Component {
                 right: ${theme.space.m};
                 top: 0;
                 height: 1px;
-                background: ${theme.color.brand.primary};
               }
 
               &.open {
@@ -211,7 +210,6 @@ class Menu extends React.Component {
           @from-width desktop {
             .menu {
               border-top: none;
-              background: ${theme.hero.backgroundColor};
               display: flex;
               position: relative;
               justify-content: flex-end;

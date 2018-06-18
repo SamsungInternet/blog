@@ -7,7 +7,7 @@ import { ScreenWidthContext, FontLoadedContext } from "../../layouts";
 import config from "../../../content/meta/config";
 import Menu from "../Menu";
 
-import avatar from "../../images/png/logo.png";
+import avatar from "../../images/png/silogo.svg";
 
 class Header extends React.Component {
   state = {
@@ -35,7 +35,7 @@ class Header extends React.Component {
 
     return (
       <React.Fragment>
-        <header className={`header ${this.getHeaderSize()}`}>
+        <header className={`header ${this.getHeaderSize()}`} >
           <Link to="/" className="logoType">
             <div className="logo">
               <img src={avatar} alt={config.siteTitle} />
@@ -87,6 +87,7 @@ class Header extends React.Component {
 
               .logo {
                 flex-shrink: 0;
+                z-index: 1;
               }
             }
 
@@ -114,16 +115,14 @@ class Header extends React.Component {
             height: 44px;
             margin: ${theme.space.inline.default};
             overflow: hidden;
-            width: 44px;
             transition: all 0.5s;
 
             .homepage & {
               height: 60px;
-              width: 60px;
             }
 
             img {
-              width: 100%;
+              height: 100%;
             }
           }
 
@@ -216,7 +215,6 @@ class Header extends React.Component {
 
               .fixed & {
                 height: 36px;
-                width: 36px;
               }
 
               .header.homepage:not(.fixed) & {

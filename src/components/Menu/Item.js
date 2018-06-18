@@ -26,6 +26,7 @@ const Item = props => {
           transition: all ${theme.time.duration.default};
           display: flex;
           align-items: center;
+          text-shadow: 0px 0px 10px ${theme.hero.backgroundColor};
 
           :global(a) {
             padding: ${theme.space.inset.s};

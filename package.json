@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hero-blog",
+  "name": "samsung-internet-devhub",
   "version": "1.0.0",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "author": "Samsung Internet",
   "license": "MIT",
   "dependencies": {
     "@jacobmischka/gatsby-plugin-react-svg": "^1.1.0",
