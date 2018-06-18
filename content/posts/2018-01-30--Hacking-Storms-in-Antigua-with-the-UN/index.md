@@ -3,6 +3,7 @@ title:  Hacking Storms in Antigua with the UN
 category: "Communities"
 cover: img.jpg
 author: Daniel Appelquist
+authorImg: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 ---
 
 ### Hacking Storms in Antigua with the UN

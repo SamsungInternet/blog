@@ -2,7 +2,8 @@
 title: Launching Samsung Internet Dev Rel
 category: "Web Development"
 cover: 1_Fs1Z2eolFwmr1oWAxO1qsw.png
-author: Daniel Appelquist
+author: Daniel Appelquist 
+authorImg: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 ---
 
 ### Launching Samsung Internet Dev Rel

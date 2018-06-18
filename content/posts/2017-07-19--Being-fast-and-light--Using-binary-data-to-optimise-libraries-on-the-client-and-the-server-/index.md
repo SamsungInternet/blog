@@ -3,6 +3,7 @@ title: Being fast and light - Using binary data to optimise libraries on the cli
 category: "Web Performance"
 cover: img.jpg
 author: Ada Rose Cannon
+authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png
 ---
 
 ### Being fast and light: Using binary data to optimise libraries on the client and the server.

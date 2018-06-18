@@ -3,6 +3,7 @@ title: Samsung Internet Beta now available without sign up
 category: "Browser"
 cover: img.jpg
 author: Ada Rose Cannon
+authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png
 ---
 
 ### Samsung Internet Beta now available without sign up

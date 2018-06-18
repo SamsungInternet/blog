@@ -3,6 +3,7 @@ title: Optimising A-Frame Assets for Faster Starts
 category: "Progressive Web App"
 cover: img.jpg
 author: Diego González
+authorImg: https://miro.medium.com/fit/c/240/240/1*3Xf5XjVdx87HHxiRKY8X1Q.jpeg
 ---
 
 ### Ava: a WebVR Archaeological experience

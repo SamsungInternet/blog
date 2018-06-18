@@ -3,6 +3,7 @@ title:  Bringing AR to the Web
 category: "Web XR"
 cover: img.jpg
 author: Winston Chen
+authorImg: https://miro.medium.com/fit/c/240/240/1*XJ8E-BWim09Gjsr7MckJSQ.jpeg
 ---
 
 ### Bringing AR to the Web

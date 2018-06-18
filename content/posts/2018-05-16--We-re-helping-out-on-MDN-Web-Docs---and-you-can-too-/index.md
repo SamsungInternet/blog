@@ -3,6 +3,7 @@ title: We’re helping out on MDN Web Docs — and you can too!
 category: "Web Development"
 cover: img.jpg
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### We’re helping out on MDN Web Docs — and you can too!

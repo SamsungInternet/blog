@@ -1,7 +1,6 @@
 import FaArrowRight from "react-icons/lib/fa/arrow-right";
 import FaCalendar from "react-icons/lib/fa/calendar";
 import FaTag from "react-icons/lib/fa/tag";
-import FaUser from "react-icons/lib/fa/user";
 import Img from "gatsby-image";
 import Link from "gatsby-link";
 import PropTypes from "prop-types";
@@ -17,12 +16,15 @@ const Item = props => {
         title,
         category,
         author,
+        authorImg,
         cover: {
           children: [{ sizes }]
         }
       }
     }
   } = props;
+
+  console.log(props.post.frontmatter.authorImg);
 
   return (
     <React.Fragment>
@@ -33,9 +35,9 @@ const Item = props => {
             {title} <FaArrowRight className="arrow" />
           </h1>
           <p className="meta">
-            <span>
-              <img className="author-img" src="https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg"/>
+            <span className="author-info">
               {author}
+              <img className="author-img" src={authorImg}/>
             </span>
             <span>
               <FaCalendar size={18} /> {prefix}
@@ -164,7 +166,7 @@ const Item = props => {
             top: ${`calc(${theme.space.default} * -2.75)`};
           }
           h1 {
-            font-size: 2.5em;
+            font-size: 2em;
             padding: ${`calc(${theme.space.default} * 1.2) calc(${theme.space.default} * 2) 0`};
           }
           .meta {
@@ -205,11 +207,16 @@ const Item = props => {
           }
         }
 
+        .author-info {
+          width: 100%;
+          text-align: right;
+        }
+
         .author-img {
           display: block;
           width: 50px;
           height: 50px;
-          margin-right: 10px;
+          margin-left: 10px;
           border-radius: 50%;
           z-index: 1; 
         }

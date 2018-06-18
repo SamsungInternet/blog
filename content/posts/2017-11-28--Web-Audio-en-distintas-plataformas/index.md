@@ -3,6 +3,7 @@ title: Web Audio en distintas plataformas
 category: "Web Audio"
 cover: img.jpg
 author: Diego González
+authorImg: https://miro.medium.com/fit/c/240/240/1*3Xf5XjVdx87HHxiRKY8X1Q.jpeg
 ---
 
 ### Web Audio en distintas plataformas

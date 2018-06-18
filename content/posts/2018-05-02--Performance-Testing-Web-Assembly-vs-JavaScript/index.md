@@ -3,6 +3,7 @@ title: Performance Testing Web Assembly vs JavaScript
 category: "Web Development"
 cover: img.jpg
 author: Winston Chen
+authorImg: https://miro.medium.com/fit/c/240/240/1*XJ8E-BWim09Gjsr7MckJSQ.jpeg
 ---
 
 ### Performance Testing Web Assembly vs JavaScript

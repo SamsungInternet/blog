@@ -3,6 +3,7 @@ title: Creating Inclusive Tech Communities
 category: "Communities"
 cover: img.jpg
 author: uve
+authorImg: https://miro.medium.com/fit/c/240/240/1*TPm8qJgZ_qpnl4XDOufR4Q.jpeg
 ---
 
 ### Creating Inclusive Tech Communities

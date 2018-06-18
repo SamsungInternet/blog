@@ -3,6 +3,7 @@ title: How exclusive tech events can foster an inclusive tech community
 category: "Communities"
 cover: img.jpg
 author: uve
+authorImg: https://miro.medium.com/fit/c/240/240/1*TPm8qJgZ_qpnl4XDOufR4Q.jpeg
 ---
 
 ### **How exclusive tech events can foster an inclusive tech community**

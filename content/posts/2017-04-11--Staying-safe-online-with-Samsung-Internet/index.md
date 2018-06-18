@@ -3,6 +3,7 @@ title: Staying safe online with Samsung Internet
 category: "Progressive Web App"
 cover: img.jpg
 author: Ada Rose Cannon
+authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png
 ---
 
 ### Staying safe online with Samsung Internet

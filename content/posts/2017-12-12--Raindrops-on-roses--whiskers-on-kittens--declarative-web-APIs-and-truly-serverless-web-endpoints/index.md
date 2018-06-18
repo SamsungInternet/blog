@@ -3,6 +3,7 @@ title: Raindrops on roses, whiskers on kittens, declarative web APIs and truly s
 category: "Wewb Development"
 cover: img.jpg
 author: Ada Rose Cannon
+authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png
 ---
 
 ### Raindrops on roses, whiskers on kittens, declarative web APIs and truly serverless web endpoints

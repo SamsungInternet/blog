@@ -3,6 +3,7 @@ title: Yes, mobile VR \*is\* real VR
 category: "Web VR"
 cover: img.jpg
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### Yes, mobile VR \*is\* real VR

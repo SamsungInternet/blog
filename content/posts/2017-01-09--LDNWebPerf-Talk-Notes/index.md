@@ -3,6 +3,7 @@ title: LDNWebPerf Talk Notes
 category: "Web Performance"
 cover: img.jpg
 author: Ada Rose Cannon
+authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png
 ---
 
 ### LDNWebPerf Talk Notes

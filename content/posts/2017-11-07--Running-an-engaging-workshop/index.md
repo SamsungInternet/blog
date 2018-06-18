@@ -3,6 +3,7 @@ title: Optimising A-Frame Assets for Faster Starts
 category: "Communities"
 cover: img.jpg
 author: uve
+authorImg: https://miro.medium.com/fit/c/240/240/1*TPm8qJgZ_qpnl4XDOufR4Q.jpeg
 ---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*RBHoETO0kB4hBgPjjqoE2g.jpeg)

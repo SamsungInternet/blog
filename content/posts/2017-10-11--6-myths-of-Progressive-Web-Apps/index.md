@@ -3,6 +3,7 @@ title: 6 myths of Progressive Web Apps
 category: "Progressive Web App"
 cover: img.jpg
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### 6 myths of Progressive Web Apps

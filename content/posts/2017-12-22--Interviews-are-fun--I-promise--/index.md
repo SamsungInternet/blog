@@ -3,6 +3,7 @@ title: Interviews are fun (I promise!)
 category: "Communities"
 cover: img.jpg
 author: Jo Franchetti
+authorImg: https://miro.medium.com/fit/c/240/240/1*Z3jj0qvOata1z4xlJPSqOA.jpeg
 ---
 
 ### Interviews are fun (I promise!)

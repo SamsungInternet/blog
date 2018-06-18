@@ -94,10 +94,11 @@ export const guery = graphql`
             title
             category
             author
+            authorImg
             cover {
               children {
                 ... on ImageSharp {
-                  sizes(maxWidth: 800, maxHeight: 360) {
+                  sizes(maxWidth: 600, maxHeight: 400) {
                     ...GatsbyImageSharpSizes_withWebp
                   }
                 }

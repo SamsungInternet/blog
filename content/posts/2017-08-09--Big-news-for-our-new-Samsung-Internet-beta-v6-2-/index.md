@@ -3,6 +3,7 @@ title: Big news for our new Samsung Internet beta v6.2!
 category: "Browser"
 cover: img.jpg
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### Big news for our new Samsung Internet beta v6.2!

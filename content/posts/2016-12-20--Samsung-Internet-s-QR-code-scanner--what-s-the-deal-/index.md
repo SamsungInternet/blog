@@ -3,6 +3,7 @@ title: "Samsung Internet’s QR code scanner: what’s the deal?"
 category: "Qr Code"
 cover: img.jpg
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### Samsung Internet’s QR code scanner: what’s the deal?

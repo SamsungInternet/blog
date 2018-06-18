@@ -3,6 +3,7 @@ title: Things I learned making a Progressive Web App for “super selfies”
 category: "Progressive Web App"
 cover: img.jpg
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### Things I learned making a Progressive Web App for “super selfies”

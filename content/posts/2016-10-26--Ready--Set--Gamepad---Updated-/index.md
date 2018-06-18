@@ -3,6 +3,7 @@ title: Ready. Set. Gamepad. \[Updated\]
 category: "Virtual Reality"
 cover: img.jpg
 author: Diego González
+authorImg: https://miro.medium.com/fit/c/240/240/1*3Xf5XjVdx87HHxiRKY8X1Q.jpeg
 ---
 
 ### Ready. Set. Gamepad. \[Updated\]

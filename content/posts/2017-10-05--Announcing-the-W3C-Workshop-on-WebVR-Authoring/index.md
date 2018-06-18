@@ -3,6 +3,7 @@ title: Announcing the W3C Workshop on WebVR Authoring
 category: "Web VR"
 cover: img.jpg
 author: Diego González
+authorImg: https://miro.medium.com/fit/c/240/240/1*3Xf5XjVdx87HHxiRKY8X1Q.jpeg
 ---
 
 ### Announcing the W3C Workshop on WebVR Authoring

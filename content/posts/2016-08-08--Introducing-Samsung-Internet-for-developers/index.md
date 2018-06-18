@@ -3,6 +3,7 @@ title: Introducing Samsung Internet for developers
 category: "Web Development"
 cover: img.png
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### Introducing Samsung Internet for developers

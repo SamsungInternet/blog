@@ -3,6 +3,7 @@ title: WebXR for Social Good
 category: "Web XR"
 cover: img.jpg
 author: Damon Hernandez
+authorImg: http://aechackathon.com/wp-content/uploads/2014/09/Damon-1.png
 ---
 
 ### WebXR for Social Good

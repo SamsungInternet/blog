@@ -3,6 +3,7 @@ title: Human Friendly Colours using HSL
 category: "Web Development"
 cover: img.jpg
 author: Ada Rose Cannon
+authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png
 ---
 
 ### Human Friendly Colours using HSL

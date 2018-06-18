@@ -3,6 +3,7 @@ title: Announcing Samsung Internet v5.4 stable!
 category: "Web Development"
 cover: img.jpg
 author: Peter O'Shaughnessy
+authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
 ---
 
 ### Announcing Samsung Internet v5.4 stable!

@@ -3,6 +3,7 @@ title: Empowering Enterprise & International Developers - Unite Europe 2017
 category: "Progressive Web App"
 cover: img.jpg
 author: Damon Hernandez
+authorImg: http://aechackathon.com/wp-content/uploads/2014/09/Damon-1.png
 ---
 
 ### Empowering Enterprise & International Developers - Unite Europe 2017
