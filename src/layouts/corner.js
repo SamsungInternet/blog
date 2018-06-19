@@ -9,7 +9,7 @@ const Feature = props => {
     <React.Fragment>
         <span className="corner corner-feature">
           <span className={`${type}-text`}>{type}</span>
-          <Icon icon={icon} fill="white" width="30px" height="30px"/>
+          <Icon icon={icon} fill="#3d3d3d" width="30px" height="30px"/>
         </span>
 
       {/* --- STYLES --- */}
@@ -25,7 +25,7 @@ const Feature = props => {
           border-top-left-radius: 10px;
 
           color: white;
-            background-color: rgba(61, 61, 61, 0.85);
+            background-color: #ecebea;
           }
 
         .feature-text {
