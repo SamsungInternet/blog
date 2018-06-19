@@ -7,9 +7,11 @@ import Star1 from "./Star1.js";
 import PinkPlanet from "./PinkPlanet.js";
 import Star2 from "./Star2.js";
 import GreenPlanet from "./GreenPlanet.js";
+import Feature from "./Feature";
+import Bg from "../../images/png/hero-background.png";
 
 const Hero = props => {
-  const { theme, backgrounds } = props;
+  const { theme } = props;
 
   const pageWidth = window.innerWidth;
 
@@ -18,30 +20,21 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
+        <Feature />
         <Ship name="ship" />
         <Moon name="moon" />
         <Star1 name="star1" />
         <Star2 name="star2" />
         <PinkPlanet name="pp1" />
         <GreenPlanet name="gp1" />
-        <h1>
-          Welcome to the <br />
-          Samsung Internet<br />
-          Developer Hub
-        </h1>
       </section>
 
       {/* --- STYLES --- */}
       <style jsx>{`
         .hero {
-          align-items: center;
-          background: url(${backgrounds.desktop}) ${theme.hero.backgroundColor} no-repeat center center;
-          background-size: cover;
+          background: url(${Bg}) ${theme.hero.backgroundColor} repeat;
           color: ${theme.text.color.primary.inverse};
-          display: flex;
           overflow: hidden;
-          flex-flow: column nowrap;
-          justify-content: center;
           min-height: 50vh;
           height: 100px;
           position: relative;
@@ -58,7 +51,6 @@ const Hero = props => {
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
           z-index: 1;
-         
 
           :global(strong) {
             position: relative;
@@ -79,13 +71,14 @@ const Hero = props => {
 
         :global(.ship) {
           display: block;
-          width: 100px;
+          width: 160px;
           flex-shrink: 0;
           position: absolute;
           bottom: 0px;
-          right: -100px;
+          right: -160px;
           transform: rotate(30deg);
           animation: rocket 5s linear;
+          animation-delay: 4s;
         }
 
         :global(.moon) {
@@ -101,7 +94,7 @@ const Hero = props => {
           left: 70%;
           top: 30%;
           display: block;
-          width: 40px;
+          width: 20px;
           animation: spin1 320s infinite linear;
           flex-shrink: 0;
           transform-origin: 200px 70px;
@@ -112,7 +105,7 @@ const Hero = props => {
           left: 90%;
           top: 90%;
           display: block;
-          width: 40px;
+          width: 10px;
           animation: spin1 250s infinite linear;
           flex-shrink: 0;
           transform-origin: -250px 70px;

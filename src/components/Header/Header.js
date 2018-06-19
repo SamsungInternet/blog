@@ -7,6 +7,7 @@ import { ScreenWidthContext, FontLoadedContext } from "../../layouts";
 import config from "../../../content/meta/config";
 import Menu from "../Menu";
 
+import Bg from "../../images/png/hero-background.png";
 import avatar from "../../images/png/silogo.svg";
 
 class Header extends React.Component {
@@ -69,6 +70,7 @@ class Header extends React.Component {
         {/* --- STYLES --- */}
         <style jsx>{`
           .header {
+            z-index: 3;
             align-items: center;
             justify-content: center;
             background-color: ${theme.hero.backgroundColor};
@@ -181,7 +183,8 @@ class Header extends React.Component {
                 position: fixed;
                 top: 0;
                 width: 100%;
-                z-index: 1;
+                z-index: 3;
+                background-image: url(${Bg});
 
                 h1 {
                   margin: ${theme.space.stack.xxs};

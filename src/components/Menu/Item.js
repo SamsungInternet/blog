@@ -14,7 +14,7 @@ const Item = props => {
           onClick={onClick}
           data-slug={to}
         >
-          {Icon && <Icon />} {label}
+          {label}
         </Link>
       </li>
 

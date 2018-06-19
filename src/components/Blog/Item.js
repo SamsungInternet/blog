@@ -1,10 +1,13 @@
 import FaArrowRight from "react-icons/lib/fa/arrow-right";
 import FaCalendar from "react-icons/lib/fa/calendar";
+
 import FaTag from "react-icons/lib/fa/tag";
 import Img from "gatsby-image";
 import Link from "gatsby-link";
 import PropTypes from "prop-types";
 import React from "react";
+
+import Corner from "../../layouts/corner";
 
 const Item = props => {
   const {
@@ -34,6 +37,7 @@ const Item = props => {
           <h1>
             {title} <FaArrowRight className="arrow" />
           </h1>
+          <Corner type="feature" icon="star" />
           <p className="meta">
             <span className="author-info">
               {author}
@@ -205,6 +209,28 @@ const Item = props => {
               }
             }
           }
+        }
+
+        .corner {
+          position: absolute;
+          top: 0;
+          left: 0;
+          display: block;
+          width: 80px;
+          height: 80px;
+          border-bottom-right-radius: 100%;
+          color: white;
+          background-color: #706cf5;
+        }
+
+        .feature-text {
+          text-indent: -999px;
+          display: block;
+          float: left;
+        }
+
+        :global(.icon) {
+          margin: 10px;
         }
 
         .author-info {

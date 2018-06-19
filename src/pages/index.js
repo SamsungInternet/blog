@@ -20,33 +20,18 @@ class IndexPage extends React.Component {
     const {
       data: {
         posts: { edges: posts = [] },
-        bgDesktop: {
-          resize: { src: desktop }
-        },
-        bgTablet: {
-          resize: { src: tablet }
-        },
-        bgMobile: {
-          resize: { src: mobile }
-        },
         site: {
           siteMetadata: { facebook }
         }
       }
     } = this.props;
 
-    const backgrounds = {
-      desktop,
-      tablet,
-      mobile
-    };
-
     return (
       <React.Fragment>
         <div ref={el => {this.childWrap = el;}}>
           <ThemeContext.Consumer>
             {theme => (
-              <Hero backgrounds={backgrounds} theme={theme} heroHeight={this.childHeight}/>
+              <Hero theme={theme} heroHeight={this.childHeight}/>
             )}
           </ThemeContext.Consumer>
         </div>
