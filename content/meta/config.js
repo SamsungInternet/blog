@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteTitle: "Samsung Internet Dev Hub - Resources for developers", // <title>
+  shortSiteTitle: "Samsung Internet Dev Hub - Resources for developers", // <title> ending for posts and pages
+  siteDescription: "Samsung Internet Dev Hub, blog, resources, demos and documentation",
   siteUrl: "https://gatsby-starter-hero-blog.samsunginternet.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
@@ -13,8 +13,8 @@ module.exports = {
   headerTitle: "SamsungInternet",
   headerSubTitle: "DevHub",
   // manifest.json
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Samsung Internet Dev Hub - a GatsbyJS starter",
+  manifestShortName: "Samsung Internet Dev Hub", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
