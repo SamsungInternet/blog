@@ -1,6 +1,6 @@
 ---
 title:  Progressive Web Apps are a toolkit, not a recipe
-category: "Progressive Web App"
+category: "PWA"
 cover: img.jpg
 author: Peter O'Shaughnessy
 authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg

@@ -1,6 +1,6 @@
 ---
 title: Leaving Samsung
-category: "Community"
+category: "Communities"
 cover: img.jpg
 author: Jungkee Song
 authorImg: https://miro.medium.com/fit/c/240/240/0*DWkUq6eXPPDR7UuI.

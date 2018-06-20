@@ -44,9 +44,6 @@ const Blog = props => {
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
           }
         }
-        @above desktop {
-        
-        }
       `}</style>
     </React.Fragment>
   );

@@ -1,6 +1,6 @@
 ---
 title: Speaking to the Web with the Web Speech API
-category: "Progressive Web App"
+category: "PWA"
 cover: img.jpg
 author: Winston Chen
 authorImg: https://miro.medium.com/fit/c/240/240/1*XJ8E-BWim09Gjsr7MckJSQ.jpeg

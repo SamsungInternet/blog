@@ -1,6 +1,6 @@
 ---
 title: WebXR for Social Good
-category: "Web XR"
+category: "WebXR"
 cover: img.jpg
 author: Damon Hernandez
 authorImg: http://aechackathon.com/wp-content/uploads/2014/09/Damon-1.png
@@ -32,7 +32,7 @@ Here are the questions and answers from the event.
 
 **EB:** I am the founder and CEO of EVRealities, the secure marketplace for News and Digital Publishers to source VR/AR content. I have worked in immersive media and the democratization of technology since 2013. EVRealities is promoting the use of WebXR combined with Blockchain encryption for immersive Journalism content publishing, licensing, and rights management.
 
-**JK:** I’m the Founder of Made in Asia, a communications and new media consultancy, and Director of the Made In Asia Creative Tech Lab at cultural and civic hub, Bangkok 1899. I produce tech and art initiatives and lead community driven immersive media projects, such as a collaborative Web VR painting program for kids and artists. My main goal is to provide accessibility to immersive media for Southeast Asian creative communities.
+**JK:** I’m the Founder of Made in Asia, a communications and new media consultancy, and Director of the Made In Asia Creative Tech Lab at cultural and civic hub, Bangkok 1899. I produce tech and art initiatives and lead community driven immersive media projects, such as a collaborative  painting program for kids and artists. My main goal is to provide accessibility to immersive media for Southeast Asian creative communities.
 
 **2\. What does social good mean to you?**
 

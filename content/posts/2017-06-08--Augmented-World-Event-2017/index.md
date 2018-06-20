@@ -1,6 +1,6 @@
 ---
 title: Augmented World Event 2017
-category: "Web VR"
+category: ""
 cover: img.jpg
 author: Damon Hernandez
 authorImg: http://aechackathon.com/wp-content/uploads/2014/09/Damon-1.png

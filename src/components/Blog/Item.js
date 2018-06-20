@@ -27,8 +27,6 @@ const Item = props => {
     }
   } = props;
 
-  console.log(props.post.frontmatter.authorImg);
-
   return (
     <React.Fragment>
       <li>
@@ -37,7 +35,7 @@ const Item = props => {
           <h1>
             {title} <FaArrowRight className="arrow" />
           </h1>
-          <Corner type="feature" icon="star" />
+          <Corner type={category} icon={category.replace(' ', '')} />
           <p className="meta">
             <span className="author-info">
               {author}

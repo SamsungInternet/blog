@@ -170,7 +170,6 @@ const Hero = props => {
 };
 
 Hero.propTypes = {
-  backgrounds: PropTypes.object.isRequired,
   theme: PropTypes.object.isRequired
 };
 

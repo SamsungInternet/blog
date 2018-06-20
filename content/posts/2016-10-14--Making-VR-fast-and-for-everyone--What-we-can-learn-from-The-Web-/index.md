@@ -1,6 +1,6 @@
 ---
 title: Making VR fast and for everyone - What we can learn from The Web
-category: "Web VR"
+category: ""
 cover: img.jpg
 author: Ada Rose Cannon
 authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png

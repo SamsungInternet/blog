@@ -1,6 +1,6 @@
 ---
 title: Writing software using a phone!
-category: "Progressive Web App"
+category: "PWA"
 cover: img.jpg
 author: Ada Rose Cannon
 authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png

@@ -1,5 +1,6 @@
 import React from "react";
-import FaStar from "react-icons/lib/fa/star-o";
+import PropTypes from "prop-types";
+
 import Icon from "../utils/icon"
 
 const Feature = props => {
@@ -8,8 +9,8 @@ const Feature = props => {
   return (
     <React.Fragment>
         <span className="corner corner-feature">
-          <span className={`${type}-text`}>{type}</span>
-          <Icon icon={icon} fill="#3d3d3d" width="30px" height="30px"/>
+          <span className="corner-text">{type}</span>
+          <Icon name="corner" icon={icon.toLowerCase()} fill="#3d3d3d" width="30px" height="30px"/>
         </span>
 
       {/* --- STYLES --- */}
@@ -28,18 +29,24 @@ const Feature = props => {
             background-color: #ecebea;
           }
 
-        .feature-text {
+        .corner-text {
           text-indent: -999px;
           display: block;
           float: left;
+          height: 1px;
         }
 
-        :global(.star-icon) {
+        :global(.corner-icon) {
           margin: 8px;
         }
       `}</style>
     </React.Fragment>
   );
+};
+
+Feature.propTypes = {
+  type: PropTypes.string,
+  icon: PropTypes.string
 };
 
 export default Feature;
