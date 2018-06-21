@@ -46,6 +46,12 @@ const Post = props => {
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />
         <Comments slug={slug} facebook={facebook} theme={theme} />
       </footer>
+        <style jsx>{`
+       img {
+         max-width: 100%;
+         display: block;
+       }
+        `}</style>
     </React.Fragment>
   );
 };

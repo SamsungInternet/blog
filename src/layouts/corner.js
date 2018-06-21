@@ -33,6 +33,7 @@ const Feature = props => {
           text-indent: -999px;
           display: block;
           float: left;
+          overflow: hidden;
           height: 1px;
         }
 

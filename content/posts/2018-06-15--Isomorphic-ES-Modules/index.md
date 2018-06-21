@@ -28,27 +28,26 @@ ES Modules have really high level of browser support in spite of being so new. S
 
 You may already be using a module system in the way you work. If you are a web developer who works in _node_ there is a good chance you have encountered CommonJS modules. CommonJS modules allow you to acquire snippets of JavaScript from other JavaScript files. For example:
 
-const formatDate = require('./time-utils/format-date.js');
+`const formatDate = require('./time-utils/format-date.js');`
 
 There is also the ability to pull JavaScript code from files provided by the _npm_ packaging system.
 
-const express = require('express');
+`const express = require('express');`
 
 These examples also can be used in the browser by using bundling tools like _rollup_, _browserify_ or _webpack_. This can result in shipping a large bundle of code to the browser rather than loading them when they are needed unless one sets your development environment to split your code automatically.
 
 ES Modules,  are similar to CommonJS modules in that they allow us to acquire snippets of JavaScript from other JavaScript files, except this time it is designed to work in the browser, over the network. For example:
 
-<script type="module">   
+`<script type="module">   
   import formatDate from 'https://site.com/time-utils/format.js';  
   formatDate(Date.now());  
-</script>
-
+</script>`
 or from a local URL:
 
-<script type="module">  
+`<script type="module">  
   import formatDate from './time-utils/format.js';  
   formatDate(Date.now());  
-</script>
+</script>`
 
 We will explore some the differences between CommonJS modules and ES modules throughout this article.
 
@@ -91,16 +90,16 @@ I like HyperHTML because it is very fast, it is very tiny (4.6kb minified and co
 
 So first we install HyperHTML via npm:
 
-npm install --save hyperhtml
+`npm install --save hyperhtml`
 
 Now we have to access it in the web browser. To do this I have to expose the files via my web server. In this case I am using _express_:
 
-app.use('/node\_modules/', express.static('./node\_modules'));
+`app.use('/node\_modules/', express.static('./node\_modules'));`
 
 Now I can access any file in my `node_modules` directory on the client. I can import HyperHTML from the `esm` directory on the server:
 
+```
 <script type="module">
-
   // \`wire\` is used for making templates in HyperHTML  
   // \`bind\` is for writing those templates to the DOM  
   import {wire, bind} from '/node_modules/hyperhtml/esm/index.js';
@@ -112,10 +111,13 @@ Now I can access any file in my `node_modules` directory on the client. I can im
   const render = bind(document.body);  
   render\`This is my template: ${myTemplate}\`;  
 </script>
+```
 
 The code we will share between the client and the server is the templates. They will contain logic to fetch information and display it in lists. I will store it in a seperate `.js` file to be referenced by both the client and the server:
 
+```
 // in `templates.js`
+```
 
 import {wire} from '/node_modules/hyperhtml/esm/index.js';
 
@@ -123,10 +125,11 @@ const myTemplate = wire()`<h1>My Template</h1>`;
 
 export {  
   myTemplate  
-};
+};`
 
 We can then import this file as usual in our script:
 
+```
 <!\-\- In main.html -->
 
 <script type="module">  
@@ -136,6 +139,7 @@ We can then import this file as usual in our script:
   const render = bind(document.body);  
   render\`This is my template: ${myTemplate}\`;  
 </script>
+```
 
 #### 2\. Responding to click events.
 
@@ -147,6 +151,7 @@ These links should include the appropriate app state information to allow us to 
 
 Once one of the ‘a’ tags are clicked we can intercept it and respond appropriately:
 
+```
 window.addEventListener('click', e => {  
   if (e.target.tagName === 'A' && e.target.href) {  
     const url = new URL(e.target.href);  
@@ -161,6 +166,7 @@ window.addEventListener('click', e => {
     e.preventDefault();  
   }  
 });
+```
 
 If you are using `<form>` tags for traversing the site, e.g. search functionalities, then you will need to intercept and handle those too.
 
@@ -170,6 +176,7 @@ But now we should have a basic Single Page App using our templates.
 
 Unfortunately users are unable to refresh the page or share the URL because we have not updated the URL bar so we should added some logic to handle that.
 
+```
 window.addEventListener('click', e => {
 
     // ... Our click handling logic ...
@@ -189,6 +196,7 @@ window.addEventListener('popstate', function () {
      renderToMain`${myTemplate(history.state.feed)}`;  
   }  
 });
+```
 
 The history handling logic is the simplest possible case. If you are relying on some kind of asynchronous operation which may fail, like network events, the logic may be more complicated to handle returning to the old URL if the async operation fails.
 
@@ -202,19 +210,24 @@ npm install --save esm
 
 Then we can change our start script to invoke `node` with `-r esm`. For example this is how I start node in my `package.json`:
 
+```
 "scripts": {  
   "start": "node -r esm server.js"  
 },
+```
 
 Esm allows us to use ES modules side by side with CommonJS. These two commands are equivalent:
 
+```
 const path = require('path');
 
 import path from 'path';
+```
+
 
 So let’s import our templates:
 
-import { myTemplate } from './static/templates.js'
+`import { myTemplate } from './static/templates.js'`
 
 This would normally work great for JavaScript dependencies in the same directory but in the case of depending on files from our `/node_modules` directory node will try to find that by the path `/node_modules` which is not a real directory along side the script. It is actually somewhere else.
 
@@ -224,10 +237,12 @@ In addition, on the server we want to use _viperhtml_, the node version of _hype
 
 In the video above, I solve this by creating a proxy file `/static/scripts/hyper/index.js` which gets loaded in node:
 
+```
 import {wire, bind} from 'viperhtml';  
 export {  
   wire, bind  
 }
+```
 
 When I try to load `/static/scripts/hyper/*` on the client side, express intercepts the route and returns `/node_modules/hyperhtml/esm/index.js` as before.
 
@@ -236,7 +251,7 @@ This works, but is a little messy. Fortunately since recording the video, [Andre
 [**esm-iso**  
 _Isomorphic ESM Loader_www.npmjs.com](https://www.npmjs.com/package/esm-iso "https://www.npmjs.com/package/esm-iso")[](https://www.npmjs.com/package/esm-iso)
 
-In case you preferto use `/node_modules/` for your URL to access node modules like I do in my examples, I forked it to map `import module from '/node_modules/module/index.js'` to `import module from 'module/index.js'`
+In case you prefer to use `/node_modules/` for your URL to access node modules like I do in my examples, I forked it to map `import module from '/node_modules/module/index.js'` to `import module from 'module/index.js'`
 
 [**slash-node-modules-loader**  
 _Use with -r slash-node-modules-loader to be able to require from require('/node_modules/:somedir/somefile.js') to have…_www.npmjs.com](https://www.npmjs.com/package/slash-node-modules-loader "https://www.npmjs.com/package/slash-node-modules-loader")[](https://www.npmjs.com/package/slash-node-modules-loader)
@@ -254,6 +269,7 @@ import myLibrary from '/node_modules/node-my-library';
 
 On the server we instead of serving `node-my-library` we serve `browser-my-library` instead so the browser version uses the correct file.
 
+```
 // server.js  
 ...  
 app.use(  
@@ -265,11 +281,13 @@ app.use(
   '/node_modules',  
   express.static('./node_modules')  
 )
+```
 
 #### 4\. Using the templates on the server
 
 This step will vary depending on the framework you are using, but here is how we render with viperHTML on the server:
 
+```
 import {myTemplate} from './static/templates.js';  
 import viperHTML from 'viperhtml';  
 import fetch from 'node-fetch';
@@ -296,6 +314,7 @@ app.get('/', (req,res) => {
   `)  
   .then(() => res.end())  
 });
+```
 
 We render the template according to what the url’s query parameter was by passing the foo query parameter into the template `req.query.foo`
 

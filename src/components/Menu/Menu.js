@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 require("core-js/fn/array/from");
 
 import FaHome from "react-icons/lib/fa/home";
-import FaEnvelope from "react-icons/lib/fa/envelope";
 import FaTag from "react-icons/lib/fa/tag";
 
 import Item from "./Item";
@@ -172,7 +171,15 @@ class Menu extends React.Component {
             width: 100%;
             z-index: 1;
             transition: all ${theme.time.duration.default};
-            text-shadow: 0px 0px 10px ${theme.hero.backgroundColor};
+           
+          }
+
+          @media (max-width: 1024px) {
+            .menu {
+              background-color: #fafafa;
+              border-top: 1px solid #ccc;
+              color: #ccc;
+            }
           }
 
           .itemList {
@@ -215,6 +222,7 @@ class Menu extends React.Component {
               justify-content: flex-end;
               padding-left: 50px;
               transition: none;
+              text-shadow: 0px 0px 10px ${theme.hero.backgroundColor};
             }
 
             .itemList {

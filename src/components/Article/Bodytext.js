@@ -61,6 +61,18 @@ const Bodytext = props => {
             color: inherit;
             padding: 0.1em 0.3em 0.2em;
             border-radius: 0.1em;
+            word-wrap: wrap;
+          }
+          :global(img) {
+            max-width: 100%;
+          }
+          :global(pre) {
+            max-width: 100%;
+          }
+          :global(blockquote) {
+            border-left: 8px solid #ccc;
+            padding-left: 10px;
+            font-style: italic;
           }
         }
 

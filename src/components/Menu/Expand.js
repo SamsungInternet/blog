@@ -19,8 +19,8 @@ const Expand = props => {
 
         @below desktop {
           .more {
-            background: ${theme.color.neutral.white};
-            border: 1px solid ${theme.color.brand.primary};
+            background: #fafafa;
+            border: 1px solid #ccc;
             border-radius: ${theme.size.radius.small} ${theme.size.radius.small} 0 0;
             border-bottom: none;
             position: absolute;

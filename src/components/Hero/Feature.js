@@ -17,6 +17,7 @@ const Feature = props => {
       {/* --- STYLES --- */}
       <style jsx>{`
         .feature {
+          grid-area: feature;
           width: 100%;
           height: 100%;
           background-color: grey;
@@ -32,9 +33,11 @@ const Feature = props => {
           background-color: rgba(29, 56, 105, 0.85);
           color: white;
           position: absolute;
-          bottom: 40px;
+          bottom: 20px;
           width: 100%;
-          padding: 20px;
+          padding: 10px;
+          line-height: 1.4em;
+          font-size: 1.1em;
         }
 
         img {
@@ -66,8 +69,9 @@ const Feature = props => {
         }
 
         @from-width tablet {
-          .feature {
-            width: 60%;
+          h2 {
+            padding: 20px;
+            font-size: 1.6em;
           }
         }
       `}</style>

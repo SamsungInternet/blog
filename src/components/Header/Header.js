@@ -42,7 +42,6 @@ class Header extends React.Component {
               <img src={avatar} alt={config.siteTitle} />
             </div>
             <div className="type">
-              <h1>{config.headerTitle}</h1>
               <h2>{config.headerSubTitle}</h2>
             </div>
           </Link>
@@ -70,16 +69,16 @@ class Header extends React.Component {
         {/* --- STYLES --- */}
         <style jsx>{`
           .header {
-            z-index: 3;
+            z-index: 2;
             align-items: center;
             justify-content: center;
-            background-color: ${theme.hero.backgroundColor};
             display: flex;
             height: ${theme.header.height.default};
             position: relative;
             top: 0;
             width: 100%;
             align-items: center;
+            background-image: url(${Bg});
 
             :global(a.logoType) {
               align-items: center;
@@ -168,7 +167,6 @@ class Header extends React.Component {
           @from-width desktop {
             .header {
               align-items: center;
-              background-color: ${theme.hero.backgroundColor};
               display: flex;
               position: absolute;
               top: 0;
