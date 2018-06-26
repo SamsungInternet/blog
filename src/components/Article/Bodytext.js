@@ -70,10 +70,11 @@ const Bodytext = props => {
             list-style: none;
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+            grid-gap: 20px;
+            padding: 20px;
           }
           :global(.doclist-item) {
             text-align: center;
-            background-color: #213868;
           }
           :global(.doclist-link img) {
             display: block;

@@ -168,7 +168,7 @@ const Item = props => {
             top: ${`calc(${theme.space.default} * -2.75)`};
           }
           h1 {
-            font-size: 2em;
+            font-size: 1.6em;
             padding: ${`calc(${theme.space.default} * 1.2) calc(${theme.space.default} * 2) 0`};
           }
           .meta {

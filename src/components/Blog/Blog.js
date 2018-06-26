@@ -46,7 +46,13 @@ const Blog = props => {
             padding: 0 ${`0 calc(${theme.space.default} * 1.5)`};
           }
           ul {
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+          }
+        }
+
+        @above desktop {
+          ul {
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
           }
         }
       `}</style>

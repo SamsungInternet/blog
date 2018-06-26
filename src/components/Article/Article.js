@@ -1,5 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+          
+import Bg from "../../images/png/hero-background.png";
 
 const Article = props => {
   const { children, theme, type } = props;
@@ -20,7 +22,8 @@ const Article = props => {
           padding-left: 0;
           padding-right: 0;
           max-width: 100%;
-          background-color: #213868;
+          background: url(${Bg}) ${theme.hero.backgroundColor} repeat;
+          background-attachment: fixed;
         }
         :global(.docs h1) {
           text-align: center;

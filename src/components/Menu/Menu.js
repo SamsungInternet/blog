@@ -137,14 +137,29 @@ class Menu extends React.Component {
   render() {
     const { screenWidth, theme } = this.props;
     const { open } = this.state;
+    const bloglink = {
+      label: "Blog",
+      to: "https://medium.com/samsung-internet-dev"
+    }
+    const supportLink = {
+      label: "Support",
+      to: "https://github.com/SamsungInternet/support/issues"
+    }
+    const demosLink = {
+      label: "Demos",
+      to: "https://github.com/SamsungInternet"
+    }
 
     return (
       <React.Fragment>
         <nav className={`menu ${open ? "open" : ""}`} rel="js-menu">
           <ul className="itemList" ref={this.itemList}>
             {this.items.map(item => (
-              <Item item={item} key={item.label} icon={item.icon} theme={theme} />
+              <Item item={item} key={item.label} theme={theme} external={false} />
             ))}
+            <Item item={bloglink} key="blog" theme={theme} external={true}/>
+            <Item item={supportLink} key="support" theme={theme}  external={true}/>
+            <Item item={demosLink} key="demos" theme={theme} external={true}/>
           </ul>
           {this.state.hiddenItems.length > 0 && <Expand onClick={this.toggleMenu} theme={theme} />}
           {open &&
@@ -153,6 +168,7 @@ class Menu extends React.Component {
                 {this.state.hiddenItems.map(item => (
                   <Item item={item} key={item.label} hiddenItem theme={theme} />
                 ))}
+                <li className="item"><a href="https://medium.com/samsung-internet-dev">Blog</a></li>
               </ul>
             )}
         </nav>
