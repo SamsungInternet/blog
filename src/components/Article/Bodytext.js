@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const Bodytext = props => {
-  const { html, theme } = props;
+  const { html, theme, type } = props;
 
   return (
     <React.Fragment>
@@ -33,15 +33,7 @@ const Bodytext = props => {
             line-height: ${theme.font.lineHeight.xxl};
             margin: 0 0 1.5em;
           }
-          :global(ul) {
-            list-style: circle;
-            margin: 0 0 1.5em;
-            padding: 0 0 0 1.5em;
-          }
-          :global(li) {
-            margin: 0.7em 0;
-            line-height: 1.5;
-          }
+        
           :global(a) {
             font-weight: ${theme.font.weight.bold};
             color: ${theme.color.brand.primary};
@@ -74,6 +66,56 @@ const Bodytext = props => {
             padding-left: 10px;
             font-style: italic;
           }
+          :global(.doclist) {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+          }
+          :global(.doclist-item) {
+            text-align: center;
+            background-color: #213868;
+          }
+          :global(.doclist-link img) {
+            display: block;
+            margin: 20px auto;
+            max-width: 120px;
+          }
+          :global(.green) {
+            background-color: hsl(187, 53%, 28%);
+            &:hover {
+              background-color: hsl(187, 53%, 38%);
+            }
+          }
+          :global(.blue) {
+            background-color: hsl(237, 53%, 33%);
+            &:hover {
+              background-color: hsl(237, 53%, 38%);
+            }
+          }
+          :global(.standard) {
+            background-color: hsl(250, 53%, 27%);
+            &:hover {
+              background-color: hsl(250, 53%, 38%);
+            }
+          }
+          :global(.purple) {
+            background-color: hsl(271, 53%, 32%);
+            &:hover {
+              background-color: hsl(271, 53%, 38%);
+            }
+          }
+          :global(.turquoise) {
+            background-color: hsl(204, 53%, 30%);
+            &:hover {
+              background-color: hsl(204, 53%, 38%);
+            }
+          }
+          :global(.doclist-link) {
+            color: white;
+            text-decoration: none;
+            padding: 20px 20px 40px;
+            display: block;
+          }
         }
 
         @keyframes bodytextEntry {
@@ -91,7 +133,8 @@ const Bodytext = props => {
 
 Bodytext.propTypes = {
   html: PropTypes.string.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
+  type: PropTypes.string
 };
 
 export default Bodytext;

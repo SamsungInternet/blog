@@ -36,6 +36,11 @@ const Blog = props => {
           grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));          
         }
 
+        :global(li) {
+          margin: 0.7em 0;
+          line-height: 1.5;
+        }
+        
         @above tablet {
           .main {
             padding: 0 ${`0 calc(${theme.space.default} * 1.5)`};

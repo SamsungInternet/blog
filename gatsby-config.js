@@ -14,6 +14,7 @@ const query = `{
         }
         frontmatter {
           title
+          type
         }
       }
     }
@@ -219,6 +220,7 @@ module.exports = {
                       }
                       frontmatter {
                         title
+                        type
                       }
                     }
                   }

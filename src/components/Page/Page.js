@@ -8,7 +8,7 @@ const Page = props => {
   const {
     page: {
       html,
-      frontmatter: { title }
+      frontmatter: { title, type }
     },
     theme
   } = props;
@@ -25,7 +25,8 @@ const Page = props => {
 
 Page.propTypes = {
   page: PropTypes.object.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
+  type: PropTypes.string
 };
 
 export default Page;

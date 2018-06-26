@@ -20,7 +20,7 @@ const PageTemplate = props => {
     <React.Fragment>
       <ThemeContext.Consumer>
         {theme => (
-          <Article theme={theme}>
+          <Article theme={theme} type={page.frontmatter.type}>
             <Page page={page} theme={theme} />
           </Article>
         )}
@@ -45,6 +45,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        type
       }
     }
     site {

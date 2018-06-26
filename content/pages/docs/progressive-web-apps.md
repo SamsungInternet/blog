@@ -48,7 +48,7 @@ If Samsung Internet detects that your website is a PWA, it will dynamically disp
 icon in the URL bar, making it even easier to add it to your home screen. For more information, 
 see [Ambient Badging](https://samsunginter.net/docs/ambient-badging) and [Adding web apps to your homescreen](https://samsunginter.net/docs/homescreen).
 
-![Plus icon when tapped](/images/docs/pwa-homescreen2.png)
+![Plus icon when tapped](/docs/pwa-homescreen2.png)
 
 In the same way, in Samsung Internet running on Samsung DeX, web apps can be added to the 
 desktop.

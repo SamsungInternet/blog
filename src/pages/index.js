@@ -77,6 +77,7 @@ export const guery = graphql`
           }
           frontmatter {
             title
+            type
             category
             author
             authorImg

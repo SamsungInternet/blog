@@ -2,7 +2,7 @@
 title: Remote debugging
 layout: page
 image: /images/header-images/keyboard.jpg
-twitter_image: https://samsunginter.net/images/docs/dev-tools.png
+twitter_image: https://samsunginter.net/docs/dev-tools.png
 description: Debugging Samsung Internet with Chrome DevTools
 ---
 This is a short guide for debugging a web page in Samsung Internet on your mobile device, via a
@@ -36,7 +36,7 @@ may need to open the Chrome app on your mobile device.
 
 1. On the `chrome://inspect` page, enable port forwarding for any ports you wish to access on your desktop computer:
 
-    ![Port forwarding](/images/docs/port-fowarding.png)
+    ![Port forwarding](/docs/port-fowarding.png)
 
 1. Open Samsung Internet on your mobile device and visit your local site via `127.0.0.1:` followed by
 the port number. For example, `127.0.0.1:4000`.
@@ -45,12 +45,12 @@ the port number. For example, `127.0.0.1:4000`.
 
 1. Click the 'inspect' link underneath the entry for the page you wish to debug:
 
-    ![Chrome inspect page](/images/docs/chrome-inspect.png)
+    ![Chrome inspect page](/docs/chrome-inspect.png)
 
 1. Now you can use the debugging tools in Chrome, as usual. Please see the
 [Chrome DevTools guide](https://developer.chrome.com/devtools) for more information.
 
-    <img src="/images/docs/dev-tools.png" width="600px" alt="Dev tools"/>
+    <img src="/docs/dev-tools.png" width="600px" alt="Dev tools"/>
 
 ## Wireless debugging
 

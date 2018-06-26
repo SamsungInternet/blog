@@ -2,7 +2,7 @@
 title: Content blockers
 layout: page
 image: /images/header-images/stop-sign.jpg
-twitter_image: https://samsunginter.net/images/docs/content-blocker-before-after.png
+twitter_image: https://samsunginter.net/docs/content-blocker-before-after.png
 description: How to enable content blocking in Samsung Internet
 ---
 Content blockers can help your browsing experience to be less cluttered with unwanted
@@ -11,7 +11,7 @@ save your data usage and even improve your battery life.
 
 <!--
 <figure>
-  <img src="/images/docs/content-blocker-before-after-anon.png" alt="Content blocking before and after">
+  <img src="/docs/content-blocker-before-after-anon.png" alt="Content blocking before and after">
   <figcaption>Example of a page without content blocking (left) and with content blocking (right)</figcaption>
 </figure>
 -->
@@ -26,21 +26,21 @@ In Samsung Internet, press the menu button (the 3 dots to the right of the addre
 can tap to install. (Alternatively you can search for ‘content blocker’ from the Google Play Store 
 or Galaxy Apps store and install your preferred app from there).
 
-![Installing content blockers](/images/docs/content-blocker-install.png)
+![Installing content blockers](/docs/content-blocker-install.png)
 
 ### Step 2
 
 Once you have installed a content blocker, activate it from the ‘Content blockers’ settings 
 (Extensions  —  Content Blockers). You can use up to 5 content blockers at the same time.
 
-![Activating content blockers](/images/docs/content-blocker-activate.png)
+![Activating content blockers](/docs/content-blocker-activate.png)
 
 ### Step 3
 
 Now you can enjoy browsing with content blocking enabled. If you take a look in the menu, 
 you’ll be able to check the number of blocked requests for the current page.
 
-![Viewing blocked requests](/images/docs/content-blocker-blocked.png)
+![Viewing blocked requests](/docs/content-blocker-blocked.png)
 
 To view the current page without content blocking, tap the ‘View without content blocker’ 
 menu item. You can also toggle content blockers on and off as you wish in the settings.

@@ -4,7 +4,6 @@ import PropTypes from "prop-types";
 import React from "react";
 
 import { getScreenWidth, timeoutThrottlerHandler } from "../utils/helpers";
-import Footer from "../components/Footer/";
 import Header from "../components/Header";
 
 export const ThemeContext = React.createContext(null);
@@ -167,7 +166,7 @@ export const postQuery = graphql`
           }
           frontmatter {
             title
-    
+            type
           }
         }
       }

@@ -16,14 +16,14 @@ To enable Secret Mode:
 Open up Samsung Internet.
 Tap on Tabs in the bottom right corner.
 
-![Samsung Interet viewing a PWA](/images/docs/secret-mode-1.jpg)
+![Samsung Interet viewing a PWA](/docs/secret-mode-1.jpg)
 
 
 ### Step 2
 
 Select TURN ON SECRET MODE in the bottom left corner.
 
-![Plus icon when tapped](/images/docs/secret-mode-2.jpg)
+![Plus icon when tapped](/docs/secret-mode-2.jpg)
 
 
 ### Step 3
@@ -32,13 +32,13 @@ You are now browsing in secret mode! You can switch between modes by pressing 
 
 Secret Mode can also be secured with a password. Uf you tap on the 3 dots next to CLOSE ALL on the tabs screen, then select SECRET MODE SECURITY, you can set a password so only you can access it. You can set a normal password and then use your fingerprint or irises to unlock it.
 
-![homescreen with new pwa icon](/images/docs/secret-mode-3.png)
+![homescreen with new pwa icon](/docs/secret-mode-3.png)
 
 ### Step 4
 
 If you enable a password you will be promoted to enter it whenever you tap on the ENTER SECRET MODE button. If you set up a fingerprint or iris you can use that and skip typing in a password.
 
-![homescreen with new pwa icon](/images/docs/secret-mode-4.png)
+![homescreen with new pwa icon](/docs/secret-mode-4.png)
 
 
 <h2 id="what-does-secret-mode-do">What does Secret Mode do?</h2>

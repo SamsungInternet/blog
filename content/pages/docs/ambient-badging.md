@@ -2,7 +2,7 @@
 title: Ambient Badging
 layout: page
 image: /images/header-images/dj.jpg
-twitter_image: https://samsunginter.net/images/docs/ambient-badging.png
+twitter_image: https://samsunginter.net/docs/ambient-badging.png
 description: Ambient Badging allows the user to conveniently add Web Apps to their homescreen.
 ---
 

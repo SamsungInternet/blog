@@ -1,8 +1,9 @@
 ---
 title: About
+type: pages
 ---
 
-![Samsung Internet icon on homescreen](/images/samsung-internet-phone-blur-5_4.png)
+![Samsung Internet icon on homescreen](/about/samsung-internet-phone-blur-5_4.png)
 
 [Samsung Internet for Android](http://developer.samsung.com/internet#android-overview) is the web browser that is pre-installed on Samsung Galaxy phones and tablets.
 It is based on the open source [Chromium project](https://www.chromium.org/), to which Samsung are a major contributor.
@@ -14,13 +15,13 @@ Samsung Internet has [hundreds of millions of active users](https://www.smashing
 who tend to rate it highly (at the time of writing, it has a 4.4 out of 5 star rating [on the Play Store](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser)).
 
 <figure>
-  <img src="/images/samsung-internet-logos-5_4.png" alt="Samsung Internet logos">
+  <img src="/about/samsung-internet-logos-5_4.png" alt="Samsung Internet logos">
   <figcaption>Samsung Internet logo evolution</figcaption>
 </figure>
 
 [Samsung Internet for Gear VR](http://developer.samsung.com/internet#gearvr-overview) is the virtual reality version of the browser that runs on the [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/). 
 
-![Samsung Internet for Gear VR](/images/samsung-internet-gear-vr.jpg)
+![Samsung Internet for Gear VR](/about/samsung-internet-gear-vr.jpg)
 
 ## Press coverage
 
