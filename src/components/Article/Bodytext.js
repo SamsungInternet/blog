@@ -72,6 +72,7 @@ const Bodytext = props => {
             grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
             grid-gap: 20px;
             padding: 20px;
+            background-color: white;
           }
           :global(.doclist-item) {
             text-align: center;
