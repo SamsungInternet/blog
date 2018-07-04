@@ -13,7 +13,7 @@ import Bg from "../../images/png/hero-background.png";
 const Hero = props => {
   const { theme } = props;
 
-  const pageWidth = window.innerWidth;
+  const pageWidth = window.innerWidth + 160;
 
   const rocketAngle = Math.atan(props.heroHeight/pageWidth);
 
