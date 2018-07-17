@@ -1,6 +1,6 @@
 ---
 title: Introducing Disconnect for Samsung Internet
-category: "Privacy"
+category: "Browser Features"
 cover: img.jpg
 author: Mahesh Kulkarni
 ---

@@ -1,6 +1,6 @@
 ---
 title: Think you know the top web browsers?
-category: "Browser"
+category: "Browser Features"
 cover: img.jpg
 author: Peter O'Shaughnessy
 authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg

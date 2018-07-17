@@ -1,6 +1,6 @@
 ---
 title: Samsung and the Polyfill Service
-category: "JavaScript"
+category: "Web Development"
 cover: img.png
 author: Ada Rose Cannon
 authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png

@@ -1,6 +1,6 @@
 ---
 title: US users can get rewarded for simply using Samsung Internet!
-category: "Browser"
+category: "Browser Features"
 cover: img.jpg
 author: Mahesh Kulkarni
 ---

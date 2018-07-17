@@ -1,6 +1,6 @@
 ---
 title: Smart Go Next
-category: "Browser"
+category: "Browser Features"
 cover: img.jpg
 author: AJITH KUMAR V
 ---
