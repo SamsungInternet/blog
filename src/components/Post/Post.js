@@ -44,7 +44,6 @@ const Post = props => {
         <Share post={post} theme={theme} />
         <Author note={authornote} theme={theme} />
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />
-        <Comments slug={slug} facebook={facebook} theme={theme} />
       </footer>
         <style jsx>{`
        img {
@@ -59,7 +58,7 @@ const Post = props => {
 Post.propTypes = {
   post: PropTypes.object.isRequired,
   authornote: PropTypes.string.isRequired,
-  facebook: PropTypes.object.isRequired,
+  facebook: PropTypes.object,
   next: PropTypes.object,
   prev: PropTypes.object,
   theme: PropTypes.object.isRequired

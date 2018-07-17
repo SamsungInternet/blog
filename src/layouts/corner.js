@@ -10,7 +10,7 @@ const Feature = props => {
     <React.Fragment>
         <span className="corner corner-feature">
           <span className="corner-text">{type}</span>
-          <Icon name="corner" icon={icon.toLowerCase()} fill="#3d3d3d" width="30px" height="30px"/>
+          <Icon name="corner" icon={icon.toLowerCase()} fill="#3d3d3d" width="50px" height="50px"/>
         </span>
 
       {/* --- STYLES --- */}
@@ -38,7 +38,7 @@ const Feature = props => {
         }
 
         :global(.corner-icon) {
-          margin: 8px;
+          margin: 0px;
         }
       `}</style>
     </React.Fragment>
