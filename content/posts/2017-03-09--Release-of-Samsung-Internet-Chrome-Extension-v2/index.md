@@ -1,6 +1,6 @@
 ---
 title: Release of Samsung Internet Chrome Extension v2
-category: "Browser"
+category: "Browser Features"
 cover: img.jpg
 author: Divjot Singh
 ---

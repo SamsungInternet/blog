@@ -1,6 +1,6 @@
 ---
 title: Promises, Promises
-category: "JavaScript"
+category: "Web Development"
 cover: img.jpg
 author: Jo Franchetti
 authorImg: https://miro.medium.com/fit/c/240/240/1*Z3jj0qvOata1z4xlJPSqOA.jpeg

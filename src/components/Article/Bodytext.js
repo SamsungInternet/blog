@@ -48,9 +48,8 @@ const Bodytext = props => {
             border: 1px solid ${theme.line.color};
           }
           :global(code.language-text) {
-            background: ${theme.color.neutral.gray.c};
             text-shadow: none;
-            color: inherit;
+            color: white;
             padding: 0.1em 0.3em 0.2em;
             border-radius: 0.1em;
             word-wrap: wrap;
@@ -118,6 +117,10 @@ const Bodytext = props => {
             padding: 20px 20px 40px;
             display: block;
           }
+        }
+    
+        :global(.bodytext li) {
+          margin: 0.2em 1.2em 0.6em;
         }
 
         @keyframes bodytextEntry {

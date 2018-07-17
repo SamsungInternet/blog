@@ -1,6 +1,6 @@
 ---
 title: Browsing for better battery life
-category: "Browser"
+category: "Browser Features"
 cover: img.jpg
 author: YONGHA LEE
 ---

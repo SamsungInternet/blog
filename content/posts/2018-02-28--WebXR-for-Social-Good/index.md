@@ -1,6 +1,6 @@
 ---
 title: WebXR for Social Good
-category: "WebXR"
+category: "Immersive Web"
 cover: img.jpg
 author: Damon Hernandez
 authorImg: http://aechackathon.com/wp-content/uploads/2014/09/Damon-1.png

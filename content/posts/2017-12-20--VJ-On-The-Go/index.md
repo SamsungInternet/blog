@@ -1,6 +1,6 @@
 ---
 title: VJ On The Go
-category: "Web Audio"
+category: "Web APIs"
 cover: img.jpg
 author: Ruth John
 ---

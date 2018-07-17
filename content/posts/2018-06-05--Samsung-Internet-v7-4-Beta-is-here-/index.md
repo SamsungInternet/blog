@@ -1,6 +1,6 @@
 ---
 title: Samsung Internet v7.4 Beta is here!
-category: "Browser"
+category: "Browser Features"
 cover: img.jpg
 author: Peter O'Shaughnessy
 authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg

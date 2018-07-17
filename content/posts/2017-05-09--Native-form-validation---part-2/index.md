@@ -1,6 +1,6 @@
 ---
 title: Native form validation — part 2
-category: "Android"
+category: "Browser Features"
 cover: img.jpg
 author: Peter-Paul Koch
 authorImg: https://miro.medium.com/fit/c/240/240/1*4VXDobnR6b7kKNiuySyWTQ.jpeg

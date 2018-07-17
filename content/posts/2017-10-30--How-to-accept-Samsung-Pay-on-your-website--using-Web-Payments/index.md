@@ -1,6 +1,6 @@
 ---
 title: How to accept Samsung Pay on your website, using Web Payments
-category: "Web Payments"
+category: "Web APIs"
 cover: img.jpg
 author: Winston Chen
 authorImg: https://miro.medium.com/fit/c/240/240/1*XJ8E-BWim09Gjsr7MckJSQ.jpeg
