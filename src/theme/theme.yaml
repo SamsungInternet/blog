@@ -66,8 +66,8 @@ color:
 font:
   # font options
   family:
-    initial: 'Arial, sans-serif'
-    target: &font-family-target 'Open Sans'
+    initial: 'samsungoneregular, Arial, sans-serif'
+    target: &font-family-target 'samsungoneregular'
   weight:
     standard: 400
     bold: 600

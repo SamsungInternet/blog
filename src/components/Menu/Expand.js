@@ -28,6 +28,7 @@ const Expand = props => {
             top: -35px;
             width: 60px;
             height: 36px;
+            color: white;
             overflow: hidden;
             z-index: 1;
             transform: translateX(-50%);
@@ -88,12 +89,12 @@ const Expand = props => {
             }
 
             :global(.open) & {
-              background-color: color(white alpha(-10%));
+              background-color: color(white alpha(100%));
               border-bottom-left-radius: 0;
               border-bottom-right-radius: 0;
 
               &:hover {
-                background-color: color(white alpha(-10%));
+                background-color: color(white alpha(100%));
               }
 
               :global(svg) {

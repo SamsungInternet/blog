@@ -47,12 +47,17 @@ const Bodytext = props => {
             overflow: hidden;
             border: 1px solid ${theme.line.color};
           }
-          :global(code.language-text) {
+          :global(.language-text) {
             text-shadow: none;
-            color: white;
             padding: 0.1em 0.3em 0.2em;
             border-radius: 0.1em;
             word-wrap: wrap;
+            background-color: #f2f2f2;
+            color: #666;
+            font-family: Monaco, "Courier New", Courier, monospace;
+          }
+          :global(pre.language-text) {
+            padding: 10px;
           }
           :global(img) {
             max-width: 100%;

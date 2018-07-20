@@ -1,0 +1,50 @@
+{
+  "_args": [
+    [
+      "typeface-open-sans@0.0.54",
+      "C:\\Users\\Jo\\Documents\\dev\\siteblog"
+    ]
+  ],
+  "_from": "typeface-open-sans@0.0.54",
+  "_id": "typeface-open-sans@0.0.54",
+  "_inBundle": false,
+  "_integrity": "sha512-w6wOd6EicZdZKf0jSU/K3EzEi3zFgvWQSN7NOpRIQI5KeMWmC5Pg/lqtBVJHB0pRChYRmLdhf4h8ROur0A3JZQ==",
+  "_location": "/typeface-open-sans",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "typeface-open-sans@0.0.54",
+    "name": "typeface-open-sans",
+    "escapedName": "typeface-open-sans",
+    "rawSpec": "0.0.54",
+    "saveSpec": null,
+    "fetchSpec": "0.0.54"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/typeface-open-sans/-/typeface-open-sans-0.0.54.tgz",
+  "_spec": "0.0.54",
+  "_where": "C:\\Users\\Jo\\Documents\\dev\\siteblog",
+  "author": {
+    "name": "Kyle Mathews",
+    "email": "mathews.kyle@gmail.com"
+  },
+  "description": "Open Sans typeface",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "open-sans"
+  ],
+  "license": "MIT",
+  "main": "index.css",
+  "name": "typeface-open-sans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleAMathews/typefaces/tree/master/packages/open-sans"
+  },
+  "version": "0.0.54"
+}

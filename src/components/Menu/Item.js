@@ -81,11 +81,16 @@ const Item = props => {
 
           .hiddenItem {
             text-align: left;
-            padding: ${theme.space.xs};
+            padding: 0;
 
             & :global(a.inHiddenItem) {
               color: ${theme.text.color.primary};
+              padding: 0.8em 20px;
+              width: 100%;
+              text-shadow: none;
+              display: block;
               &:hover {
+                background-color: #f2f2f2;
                 color: ${theme.color.brand.primary};
               }
             }

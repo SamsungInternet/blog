@@ -168,7 +168,6 @@ class Menu extends React.Component {
                 {this.state.hiddenItems.map(item => (
                   <Item item={item} key={item.label} hiddenItem theme={theme} />
                 ))}
-                <li className="item"><a href="https://medium.com/samsung-internet-dev">Blog</a></li>
               </ul>
             )}
         </nav>
@@ -257,10 +256,7 @@ class Menu extends React.Component {
               display: flex;
               flex-direction: column;
               justify-content: flex-start;
-              padding: ${theme.space.m};
-              border-radius: ${theme.size.radius.small};
-              border-top-right-radius: 0;
-
+              z-index: 3;
 
               &:after {
                 content: "";
@@ -277,7 +273,8 @@ class Menu extends React.Component {
 
               :global(.homepage):not(.fixed) & {
                 border: 1px solid transparent;
-                top: 50px;
+                top: 42px;
+                outline: 1px solid #213868;
 
                 &:after {
                   top: -11px;
@@ -290,6 +287,9 @@ class Menu extends React.Component {
               :global(.fixed) & {
                 top: 44px;
               }
+            }
+            a {
+              text-shadow: 0;
             }
           }
         `}</style>

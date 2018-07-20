@@ -36,7 +36,7 @@ const Blog = props => {
           grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));          
         }
 
-        :global(li) {
+        :global(.bodytext li) {
           margin: 0.7em 0;
           line-height: 1.5;
         }

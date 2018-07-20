@@ -1,4 +1,4 @@
-import "typeface-open-sans";
+import "../../static/typeface-samsungone";
 import FontFaceObserver from "fontfaceobserver";
 import PropTypes from "prop-types";
 import React from "react";
@@ -25,8 +25,8 @@ class Layout extends React.Component {
     };
 
     if (typeof window !== `undefined`) {
-      this.loadFont("font400", "Open Sans", 400);
-      this.loadFont("font600", "Open Sans", 600);
+      this.loadFont("font300", "samsungoneregular", 300);
+      this.loadFont("font600", "samsungoneregular", 600);
     }
   }
 
@@ -105,14 +105,14 @@ class Layout extends React.Component {
                   padding: 0;
                 }
                 body {
-                  font-family: ${this.state.font400loaded
-                    ? "'Open Sans', sans-serif;"
+                  font-family: ${this.state.font300loaded
+                    ? "'samsungoneregular', sans-serif;"
                     : "Arial, sans-serif;"};
                 }
                 h1,
                 h2,
                 h3 {
-                  font-weight: ${this.state.font600loaded ? 600 : 400};
+                  font-weight: ${this.state.font600loaded ? 600 : 300};
                   line-height: 1.1;
                   letter-spacing: -0.03em;
                   margin: 0;
@@ -124,7 +124,7 @@ class Layout extends React.Component {
                   margin: 0;
                 }
                 strong {
-                  font-weight: ${this.state.font600loaded ? 600 : 400};
+                  font-weight: ${this.state.font600loaded ? 600 : 300};
                 }
                 a {
                   text-decoration: none;

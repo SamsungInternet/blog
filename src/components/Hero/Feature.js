@@ -26,7 +26,6 @@ const Feature = props => {
           width: 100%;
           border: 1px solid #1d3869;
           position: relative;
-          z-index: 2;
         }
 
         h2 {
