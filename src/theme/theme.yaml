@@ -66,8 +66,8 @@ color:
 font:
   # font options
   family:
-    initial: 'samsungoneregular, Arial, sans-serif'
-    target: &font-family-target 'samsungoneregular'
+    initial: 'SamsungSharpSans-Regular, Arial, sans-serif'
+    target: &font-family-target 'SamsungSharpSans-Regular'
   weight:
     standard: 400
     bold: 600

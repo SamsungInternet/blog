@@ -17,17 +17,16 @@ const Feature = props => {
       <style jsx>{`
         .corner {
           position: absolute;
-          top: 0;
-          left: 0;
+          top: 0px;
+          left: 0px;
           display: block;
           width: 60px;
           height: 60px;
           border-bottom-right-radius: 100%;
           border-top-left-radius: 10px;
-
           color: white;
-            background-color: #ecebea;
-          }
+          background-color: #ecebea;
+        }
 
         .corner-text {
           text-indent: -999px;
@@ -40,6 +39,7 @@ const Feature = props => {
         :global(.corner-icon) {
           margin: 0px;
         }
+
       `}</style>
     </React.Fragment>
   );

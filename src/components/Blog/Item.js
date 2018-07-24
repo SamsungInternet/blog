@@ -65,7 +65,6 @@ const Item = props => {
           border: 1px solid transparent;
           border-radius: ${theme.size.radius.default};
           margin: ${`calc(${theme.space.default}) 20px calc(${theme.space.default} * 2)`};
-          padding: ${theme.space.inset.s};
           position: relative;
           transition: all ${theme.time.duration.default};
           background: transparent;
@@ -94,7 +93,6 @@ const Item = props => {
 
         h1 {
           padding: ${theme.space.m} ${theme.space.s} 0;
-          line-height: ${theme.blog.h1.lineHeight};
           font-size: ${theme.blog.h1.size};
           text-remove-gap: both;
 
@@ -134,9 +132,6 @@ const Item = props => {
 
         @from-width tablet {
           li {
-            margin: ${`calc(${theme.space.default} * 3) 0 calc(${theme.space.default} * 4)`};
-            padding: ${theme.space.default};
-
             &::after {
               bottom: ${`calc(${theme.space.default} * -2)`};
             }
@@ -169,13 +164,11 @@ const Item = props => {
           }
           h1 {
             font-size: 1.6em;
-            padding: ${`calc(${theme.space.default} * 1.2) calc(${theme.space.default} * 2) 0`};
+            padding: ${`calc(${theme.space.default} * 1.2) calc(${theme.space.default} * 1.5) 0`};
           }
-          .meta {
-            padding: ${`${theme.space.default} calc(${theme.space.default} * 2)`};
-          }
+          .meta,
           p {
-            padding: ${`0 calc(${theme.space.default} * 2)`};
+            padding: ${`0 calc(${theme.space.default} * 1.5)`};
           }
           @media (hover: hover) {
             li {

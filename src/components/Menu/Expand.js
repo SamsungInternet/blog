@@ -108,6 +108,12 @@ const Expand = props => {
             }
           }
         }
+
+        @below tablet {
+          .more {
+            border-bottom: 0;
+          }
+        }
       `}</style>
     </React.Fragment>
   );

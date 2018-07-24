@@ -21,9 +21,11 @@ class Menu extends React.Component {
     }));
 
     this.items = [
-      { to: "/", label: "Home", icon: FaHome },
       { to: "/category/", label: "Categories", icon: FaTag },
-      ...pages
+      ...pages,
+      { to: "https://medium.com/samsung-internet-dev", label: "Blog", icon: FaTag },
+      { to: "https://github.com/SamsungInternet/support/issues", label: "Support", icon: FaTag },
+      { to: "https://github.com/SamsungInternet", label: "Demos", icon: FaTag }
     ];
 
     this.renderedItems = []; // will contain references to rendered DOM elements of menu
@@ -137,18 +139,6 @@ class Menu extends React.Component {
   render() {
     const { screenWidth, theme } = this.props;
     const { open } = this.state;
-    const bloglink = {
-      label: "Blog",
-      to: "https://medium.com/samsung-internet-dev"
-    }
-    const supportLink = {
-      label: "Support",
-      to: "https://github.com/SamsungInternet/support/issues"
-    }
-    const demosLink = {
-      label: "Demos",
-      to: "https://github.com/SamsungInternet"
-    }
 
     return (
       <React.Fragment>
@@ -157,9 +147,6 @@ class Menu extends React.Component {
             {this.items.map(item => (
               <Item item={item} key={item.label} theme={theme} external={false} />
             ))}
-            <Item item={bloglink} key="blog" theme={theme} external={true}/>
-            <Item item={supportLink} key="support" theme={theme}  external={true}/>
-            <Item item={demosLink} key="demos" theme={theme} external={true}/>
           </ul>
           {this.state.hiddenItems.length > 0 && <Expand onClick={this.toggleMenu} theme={theme} />}
           {open &&
@@ -175,13 +162,10 @@ class Menu extends React.Component {
         {/* --- STYLES --- */}
         <style jsx>{`
           .menu {
-            align-items: center;
             bottom: 0;
-            display: flex;
             flex-grow: 1;
             left: 0;
             max-height: ${open ? "1000px" : "50px"};
-            padding: 0 ${theme.space.inset.s};
             position: fixed;
             width: 100%;
             z-index: 1;
@@ -210,6 +194,7 @@ class Menu extends React.Component {
 
           @below desktop {
             .menu {
+              padding: 20px;
               &::after {
                 position: absolute;
                 content: "";
@@ -220,7 +205,7 @@ class Menu extends React.Component {
               }
 
               &.open {
-                padding: ${theme.space.inset.m};
+                max-height: 300px;
               }
 
               :global(.homepage):not(.fixed) & {
@@ -234,15 +219,13 @@ class Menu extends React.Component {
               border-top: none;
               display: flex;
               position: relative;
-              justify-content: flex-end;
-              padding-left: 50px;
+              justify-content: center;
               transition: none;
-              text-shadow: 0px 0px 10px ${theme.hero.backgroundColor};
             }
 
             .itemList {
-              justify-content: flex-end;
               padding: 0;
+              justify-content: flex-end;
             }
 
             .hiddenItemList {
@@ -252,7 +235,7 @@ class Menu extends React.Component {
               background: ${theme.background.color.primary};
               border: 1px solid ${theme.line.color};
               top: 48px;
-              right: ${theme.space.s};
+              right: 0;
               display: flex;
               flex-direction: column;
               justify-content: flex-start;

@@ -25,8 +25,8 @@ class Layout extends React.Component {
     };
 
     if (typeof window !== `undefined`) {
-      this.loadFont("font300", "samsungoneregular", 300);
-      this.loadFont("font600", "samsungoneregular", 600);
+      this.loadFont("font300", "SamsungSharpSans-Regular", 300);
+      this.loadFont("font600", "SamsungSharpSans-Bold", 600);
     }
   }
 
@@ -106,25 +106,29 @@ class Layout extends React.Component {
                 }
                 body {
                   font-family: ${this.state.font300loaded
-                    ? "'samsungoneregular', sans-serif;"
+                    ? "'SamsungSharpSans-Regular', sans-serif;"
                     : "Arial, sans-serif;"};
                 }
                 h1,
                 h2,
                 h3 {
-                  font-weight: ${this.state.font600loaded ? 600 : 300};
-                  line-height: 1.1;
-                  letter-spacing: -0.03em;
+                  font-family: ${this.state.font600loaded
+                    ? "'SamsungSharpSans-Bold', sans-serif;"
+                    : "Arial, sans-serif;"};
+                  line-height: 1.4;
+                  letter-spacing: 0.05em;
                   margin: 0;
                 }
                 h1 {
-                  letter-spacing: -0.04em;
                 }
                 p {
                   margin: 0;
+                  line-height: 1.4;
                 }
                 strong {
-                  font-weight: ${this.state.font600loaded ? 600 : 300};
+                  font-family: ${this.state.font600loaded
+                    ? "'SamsungSharpSans-Bold', sans-serif;"
+                    : "Arial, sans-serif;"};
                 }
                 a {
                   text-decoration: none;

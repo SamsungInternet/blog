@@ -21,7 +21,7 @@ const Item = props => {
       {/* --- STYLES --- */}
       <style jsx>{`
         .item,
-        .showItem {
+        .showItem, .hideItem {
           background: transparent;
           transition: all ${theme.time.duration.default};
           display: flex;
@@ -39,13 +39,15 @@ const Item = props => {
           }
         }
 
-        :global(.itemList .hideItem) {
-          display: none;
-        }
-
         @from-width desktop {
           .item {
             :global(a) {
+            text-shadow:
+              -1px -1px 2px  ${theme.hero.backgroundColor}, 
+              1px -1px 2px ${theme.hero.backgroundColor},
+              -1px 1px 2px  ${theme.hero.backgroundColor},
+              1px 1px 2px  ${theme.hero.backgroundColor};
+
               color: ${theme.color.neutral.white};
               padding: ${theme.space.inset.s};
               transition: all ${theme.time.duration.default};
@@ -94,6 +96,9 @@ const Item = props => {
                 color: ${theme.color.brand.primary};
               }
             }
+          }
+          :global(.itemList .hideItem) {
+            display: none;
           }
         }
       `}</style>

@@ -38,24 +38,20 @@ class Header extends React.Component {
       <React.Fragment>
         <header className={`header ${this.getHeaderSize()}`} >
           <Link to="/" className="logoType">
-            <div className="logo">
-              <img src={avatar} alt={config.siteTitle} />
-            </div>
-            <div className="type">
-              <h2>{config.headerSubTitle}</h2>
-            </div>
+            <img className="logo-img" src={avatar} alt={config.siteTitle} />
           </Link>
+            <h2>Developer Hub</h2>
           <FontLoadedContext.Consumer>
             {loaded => (
               <ScreenWidthContext.Consumer>
                 {width => (
                   <Menu
-                    path={path}
-                    fixed={fixed}
-                    screenWidth={width}
-                    fontLoaded={loaded}
-                    pages={pages}
-                    theme={theme}
+                  path={path}
+                  fixed={fixed}
+                  screenWidth={width}
+                  fontLoaded={loaded}
+                  pages={pages}
+                  theme={theme}
                   />
                 )}
               </ScreenWidthContext.Consumer>
@@ -80,18 +76,6 @@ class Header extends React.Component {
             align-items: center;
             background-image: url(${Bg});
 
-            :global(a.logoType) {
-              align-items: center;
-              display: flex;
-              flex-direction: "column";
-              color: ${theme.text.color.primary};
-
-              .logo {
-                flex-shrink: 0;
-                z-index: 1;
-              }
-            }
-
             &.homepage {
               position: absolute;
               height: ${theme.header.height.homepage};
@@ -100,31 +84,30 @@ class Header extends React.Component {
 
           h1 {
             font-size: ${theme.font.size.m};
-            font-weight: ${theme.font.weight.standard};
             margin: ${theme.space.stack.xs};
           }
 
           h2 {
-            font-weight: ${theme.font.weight.standard};
-            font-size: ${theme.font.size.xxs};
+            width: max-content;
+            text-align: right;
+            font-size: 32px;
+            margin: 0 30px;
+            flex-shrink: 0;
+            font-family: SamsungSharpSans-Regular;
+            color: white;
             letter-spacing: 0;
-            margin: 0;
+            text-shadow:
+            -1px -1px 2px  ${theme.hero.backgroundColor}, 
+            1px -1px 2px ${theme.hero.backgroundColor},
+            -1px 1px 2px  ${theme.hero.backgroundColor},
+            1px 1px 2px  ${theme.hero.backgroundColor};
           }
 
-          .logo {
-            display: inline-block;
-            height: 44px;
+          .logo-img {
             margin: ${theme.space.inline.default};
             overflow: hidden;
             transition: all 0.5s;
-
-            .homepage & {
-              height: 60px;
-            }
-
-            img {
-              height: 100%;
-            }
+            height: 3em;   
           }
 
           .sensor {
@@ -143,7 +126,7 @@ class Header extends React.Component {
               padding: ${theme.space.inset.l};
 
               &.homepage {
-                height: ${theme.header.height.homepage};
+                height: 100px;
               }
             }
           }
@@ -201,17 +184,16 @@ class Header extends React.Component {
                 h2 {
                   color: ${theme.color.neutral.gray.d};
                 }
+                
               }
             }
 
             .header :global(a.logoType) {
               text-align: left;
-              flex-direction: row;
               flex-shrink: 0;
-              width: auto;
             }
 
-            .logo {
+            .logo-img {
               margin: ${theme.space.inline.default};
 
               .fixed & {

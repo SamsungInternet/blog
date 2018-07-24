@@ -22,7 +22,7 @@ const Hero = props => {
       <section className="hero">
         <div className="hero-info">
           <h1 className="intro">Welcome to the Developer Hub for the web browser Samsung Internet.</h1>
-          <h2>Here you will find demos, articles and documentation to help you make the most of the latest web features in Samsung Internet and other browsers too.</h2>
+          <p>Here you will find demos, articles and documentation to help you make the most of the latest web features in Samsung Internet and other browsers too.</p>
           <Feature />
         </div>
         <Ship name="ship" />
@@ -44,7 +44,11 @@ const Hero = props => {
           position: relative;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
-          text-shadow: 0px 0px 8px ${theme.hero.backgroundColor};
+          text-shadow:
+              -1px -1px 2px  ${theme.hero.backgroundColor}, 
+              1px -1px 2px ${theme.hero.backgroundColor},
+              -1px 1px 2px  ${theme.hero.backgroundColor},
+              1px 1px 2px  ${theme.hero.backgroundColor};
         }
 
         .hero-info {
@@ -57,16 +61,14 @@ const Hero = props => {
           font-size: ${theme.hero.h1.size};
           margin: 1em 0;
           color: ${theme.hero.h1.color};
-          line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
           z-index: 1;
         }
         
-        h2 {
+        p {
           grid-area: h2;
           margin-bottom: 40px;
           font-size: ${theme.hero.h2.size};
-          line-height: 1.4em;
           font-weight: normal;
           color: ${theme.hero.h1.color};
           z-index: 1;
@@ -172,7 +174,7 @@ const Hero = props => {
             grid-gap: 40px;
           }
           h1 {
-            font-size: 2.5vw;
+            font-size: 2.3vw;
             margin-bottom: 0;
           }
           h2 {
