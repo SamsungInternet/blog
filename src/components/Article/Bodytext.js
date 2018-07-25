@@ -62,6 +62,9 @@ const Bodytext = props => {
           :global(img) {
             max-width: 100%;
           }
+          :global(img.profile-img) {
+            max-width: 250px;
+          }
           :global(pre) {
             max-width: 100%;
           }
