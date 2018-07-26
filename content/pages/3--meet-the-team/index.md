@@ -2,12 +2,12 @@
 title: Meet the Team
 type: team
 ---
-The Developer Hub is maintained by the Samsung Internet Developer Advocacy team:
 
+<div class="profiles">
 <div class="profile">
   <h2>Daniel Appelquist</h2>
 
-<p class="location">Based in the UK</p>
+  <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/torgo.jpg" alt="Daniel Appelquist"/> 
   <p>Director of Web Advocacy and Open Source at Samsung Research UK. Dan is also co-chair of the <a href="http://w3.org/tag">Technical Architecture Group</a> at the W3C and sits on the <a href="https://www.gov.uk/government/groups/open-standards-board">Open Standards Board</a> for the UK Government. He lives and breathes the open web.</p>
@@ -27,7 +27,7 @@ The Developer Hub is maintained by the Samsung Internet Developer Advocacy team:
 </div>
 
 <div class="profile">
-  <h2>Damon Hernandez
+  <h2>Damon Hernandez</h2>
 
 <p class="location">Based in San Francisco</p>
 
@@ -70,3 +70,8 @@ The Developer Hub is maintained by the Samsung Internet Developer Advocacy team:
   </p>
   <p class="tags"><span>#ProgressiveWebApps</span></p>
 </div>
+</div>
+
+<h3 class="profile">
+  The Developer Hub is maintained by the Samsung Internet Developer Advocacy team:
+</h3>

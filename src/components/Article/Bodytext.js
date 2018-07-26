@@ -131,6 +131,14 @@ const Bodytext = props => {
           margin: 0.2em 1.2em 0.6em;
         }
 
+        @from-width desktop {
+          :global(img.profile-img) {
+            max-width: 250px;
+            float: right;
+            margin: 0 0 2em 2em;
+          }
+        }
+
         @keyframes bodytextEntry {
           from {
             opacity: 0;

@@ -17,7 +17,12 @@ const Article = props => {
           padding: ${theme.space.inset.default};
           margin: 0 auto;
         }
-        
+
+        :global(.profile) {
+          background-color: white;
+          padding: 0 2em ;
+        }
+
         .docs, .team {
           padding-left: 0;
           padding-right: 0;
@@ -42,8 +47,11 @@ const Article = props => {
             padding-right: 0;
             max-width: 100%;
           }
-          .team {
+          :global(.team .profiles) {
             display: grid;
+            grid-template-columns: 1fr;
+            grid-gap: 40px; 
+            padding: 40px;       
           }
         }
 
@@ -63,7 +71,12 @@ const Article = props => {
             padding-left: 40px;
             padding-right: 40px;
           }
-  
+          :global(.team .profiles) {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 40px;  
+            padding: 0;         
+          }
         }
       `}</style>
     </React.Fragment>
