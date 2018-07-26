@@ -63,7 +63,7 @@ const Bodytext = props => {
             max-width: 100%;
           }
           :global(img.profile-img) {
-            max-width: 250px;
+            max-width: 40%;
           }
           :global(pre) {
             max-width: 100%;
@@ -133,7 +133,7 @@ const Bodytext = props => {
 
         @from-width desktop {
           :global(img.profile-img) {
-            max-width: 250px;
+             width: 200px;
             float: right;
             margin: 0 0 2em 2em;
           }
