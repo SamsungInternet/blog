@@ -17,30 +17,36 @@ const Article = props => {
           padding: ${theme.space.inset.default};
           margin: 0 auto;
         }
-
-        .docs {
+        
+        .docs, .team {
           padding-left: 0;
           padding-right: 0;
           max-width: 100%;
           background: url(${Bg}) ${theme.hero.backgroundColor} repeat;
           background-attachment: fixed;
         }
-        :global(.docs h1) {
+
+        :global(.docs h1), 
+        :global(.team h1) {
           text-align: center;
           color: white;
         }
+
         @from-width tablet {
           .article {
             padding: ${`calc(${theme.space.default}) calc(${theme.space.default} * 2)`};
             max-width: ${theme.text.maxWidth.tablet};
           }
-          .docs {
+          .docs, .team {
             padding-left: 0;
             padding-right: 0;
             max-width: 100%;
           }
-         
+          .team {
+            display: grid;
+          }
         }
+
         @from-width desktop {
           .article {
             padding: ${`calc(${theme.space.default} * 2 + 90px) 0 calc(${
@@ -48,11 +54,16 @@ const Article = props => {
             } * 2)`};
             max-width: ${theme.text.maxWidth.desktop};
           }
-          .docs {
+          .docs, .team {
             padding-left: 0;
             padding-right: 0;
             max-width: 100%;
           }
+          .team {
+            padding-left: 40px;
+            padding-right: 40px;
+          }
+  
         }
       `}</style>
     </React.Fragment>
