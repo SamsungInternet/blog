@@ -194,7 +194,7 @@ class Menu extends React.Component {
 
           @below desktop {
             .menu {
-              padding: 20px;
+              padding: 10px;
               &::after {
                 position: absolute;
                 content: "";
@@ -234,7 +234,7 @@ class Menu extends React.Component {
               position: absolute;
               background: ${theme.background.color.primary};
               border: 1px solid ${theme.line.color};
-              top: 48px;
+              top: 40px;
               right: 0;
               display: flex;
               flex-direction: column;
@@ -254,18 +254,6 @@ class Menu extends React.Component {
                 border-right: 1px solid ${theme.line.color};
               }
 
-              :global(.homepage):not(.fixed) & {
-                border: 1px solid transparent;
-                top: 42px;
-                outline: 1px solid #213868;
-
-                &:after {
-                  top: -11px;
-                  border-left: 1px solid transparent;
-                  border-right: 1px solid transparent;
-                  background: color(white alpha(-10%));
-                }
-              }
 
               :global(.fixed) & {
                 top: 44px;

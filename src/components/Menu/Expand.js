@@ -55,37 +55,28 @@ const Expand = props => {
 
         @from-width desktop {
           .more {
+            display: flex;
             flex-shrink: 0;
             flex-grow: 0;
+            align-items: center;
+            justify-content: center;
             width: 44px;
             height: 38px;
-            background: transparent;
             margin-left: 10px;
-            border-radius: ${theme.size.radius.small};
-            border: 1px solid ${theme.line.color};
-            display: flex;
-            transition: background-color ${theme.time.duration.default};
-            justify-content: center;
-            align-items: center;
             padding: 0;
+            border: 0;
+            border-radius: ${theme.size.radius.small};
+            background-color: color(white alpha(-50%));
+            transition: background-color ${theme.time.duration.default};
             z-index: 1;
 
-            &:focus,
-            &:hover {
-              outline: none;
+            &:hover, 
+            &:focus, {
+              background-color: color(white alpha(-20%));
             }
 
             :global(svg) {
               transition: all ${theme.time.duration.default};
-            }
-
-            :global(.homepage) & {
-              border: 1px solid transparent;
-              background-color: color(white alpha(-90%));
-
-              &:hover {
-                background-color: color(white alpha(-60%));
-              }
             }
 
             :global(.open) & {
@@ -103,7 +94,6 @@ const Expand = props => {
             }
 
             :global(.fixed) & {
-              border: 1px solid ${theme.line.color};
               height: 30px;
             }
           }

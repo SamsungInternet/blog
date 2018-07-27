@@ -20,17 +20,17 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-        <div className="hero-info">
-          <h1 className="intro">Welcome to the Developer Hub for the web browser Samsung Internet.</h1>
-          <p>Here you will find demos, articles and documentation to help you make the most of the latest web features in Samsung Internet and other browsers too.</p>
-          <Feature />
-        </div>
         <Ship name="ship" />
         <Moon name="moon" />
         <Star1 name="star1" />
         <Star2 name="star2" />
         <PinkPlanet name="pp1" />
         <GreenPlanet name="gp1" />
+        <div className="hero-info">
+          <h1 className="intro">Welcome to the Developer Hub for the web browser Samsung Internet.</h1>
+          <p>Here you will find demos, articles and documentation to help you make the most of the latest web features in Samsung Internet and other browsers too.</p>
+          <Feature />
+        </div>
         
       </section>
 
@@ -42,7 +42,7 @@ const Hero = props => {
           min-height: 50vh;
           min-height: 100px;
           position: relative;
-          padding: ${theme.space.inset.l};
+          padding: 1em;
           padding-top: ${theme.header.height.homepage};
           text-shadow:
               -1px -1px 2px  ${theme.hero.backgroundColor}, 
@@ -120,12 +120,12 @@ const Hero = props => {
         :global(.pp1) {
           position: absolute;
           left: 60%;
-          top: 80%;
+          top: 20%;
           display: block;
           width: 40px;
           animation: spin1 500s infinite linear;
           flex-shrink: 0;
-          transform-origin: 0px 270px;
+          transform-origin: -100px 270px;
         }
 
         :global(.gp1) {
@@ -136,7 +136,7 @@ const Hero = props => {
           flex-shrink: 0;
           transform-origin: 60px -50px;
           left: 10%;
-          bottom: 10%;
+          bottom: 40%;
         }
 
         @keyframes rocket {
@@ -161,6 +161,13 @@ const Hero = props => {
         @from-width tablet {
           h1 {
             font-size: ${`calc(${theme.hero.h1.size} * 1.3)`};
+          }
+        }
+
+        @from-width tablet {
+          .hero {
+            padding: ${theme.space.inset.l};
+            padding-top: ${theme.header.height.homepage};
           }
         }
 
