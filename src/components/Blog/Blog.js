@@ -25,7 +25,7 @@ const Blog = props => {
       {/* --- STYLES --- */}
       <style jsx>{`
         .main {
-          padding: 0 ${theme.space.inset.default};
+          padding: 0;
         }
 
         ul {

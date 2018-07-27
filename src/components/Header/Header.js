@@ -37,7 +37,7 @@ class Header extends React.Component {
     return (
       <React.Fragment>
         <header className={`header ${this.getHeaderSize()}`} >
-          <Link to="/" className="logoType">
+          <Link to="/" className="logo-link">
             <img className="logo-img" src={avatar} alt={config.siteTitle} />
           </Link>
             <h2>Developer Hub</h2>
@@ -72,6 +72,7 @@ class Header extends React.Component {
             height: ${theme.header.height.default};
             position: relative;
             top: 0;
+            padding: 0 1em;
             width: 100%;
             align-items: center;
             background-image: url(${Bg});
@@ -90,7 +91,7 @@ class Header extends React.Component {
           h2 {
             width: max-content;
             text-align: right;
-            font-size: 32px;
+            font-size: 6vw;
             margin: 0 30px;
             flex-shrink: 0;
             font-family: SamsungSharpSans-Regular;
@@ -107,7 +108,13 @@ class Header extends React.Component {
             margin: ${theme.space.inline.default};
             overflow: hidden;
             transition: all 0.5s;
-            height: 3em;   
+            height: 3em;
+          }
+
+          :global(.logo-link) {
+            display: block;
+            width: 50px;
+            overflow: hidden;
           }
 
           .sensor {
@@ -129,6 +136,12 @@ class Header extends React.Component {
                 height: 100px;
               }
             }
+            h2 {
+              font-size: 32px;
+            }
+            :global(.logo-link) {
+              width: auto;
+            }
           }
 
           @below desktop {
@@ -137,7 +150,7 @@ class Header extends React.Component {
                 border: none;
               }
 
-              :global(a.logoType),
+              :global(a.logo-link),
               h1 {
                 color: ${theme.color.neutral.white};
               }
@@ -177,7 +190,7 @@ class Header extends React.Component {
               }
 
               &.homepage:not(.fixed) {
-                :global(a.logoType),
+                :global(a.logo-link),
                 h1 {
                   color: ${theme.color.neutral.white};
                 }
@@ -188,7 +201,7 @@ class Header extends React.Component {
               }
             }
 
-            .header :global(a.logoType) {
+            .header :global(a.logo-link) {
               text-align: left;
               flex-shrink: 0;
             }
