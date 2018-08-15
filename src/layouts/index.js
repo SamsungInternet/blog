@@ -139,6 +139,7 @@ class Layout extends React.Component {
                   display: block;
                 }
               `}</style>
+              <img src="https://samsung-internet-dev-hub-analytics.glitch.me/counter.png?fallback=https://samsunginter.net" alt="" width="1" height="1" aria-hidden="true"></img>
             </React.Fragment>
           </ScreenWidthContext.Provider>
         </FontLoadedContext.Provider>
