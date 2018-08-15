@@ -7,10 +7,10 @@ const Item = props => {
 
   let linky;
   if (!external) {
-    linky = <Link to={to} className={"hiddenItem" in props ? "inHiddenItem" : ""}onClick={onClick}data-slug={to}>{label}</Link>
+    linky = <Link to={to} className={"hiddenItem" in props ? "inHiddenItem" : ""} onClick={onClick} data-slug={to} data-external={external}>{label}</Link>
   }
   else {
-    linky = <a href={to}>{label}</a>
+    linky = <a href={to} className={"hiddenItem" in props ? "inHiddenItem" : ""} data-external={external}>{label}</a>
   }
   return (
     <React.Fragment>
@@ -43,7 +43,7 @@ const Item = props => {
           .item {
             :global(a) {
             text-shadow:
-              -1px -1px 2px  ${theme.hero.backgroundColor}, 
+              -1px -1px 2px  ${theme.hero.backgroundColor},
               1px -1px 2px ${theme.hero.backgroundColor},
               -1px 1px 2px  ${theme.hero.backgroundColor},
               1px 1px 2px  ${theme.hero.backgroundColor};
