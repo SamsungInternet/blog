@@ -23,9 +23,9 @@ class Menu extends React.Component {
     this.items = [
       { to: "/category/", label: "Categories", icon: FaTag },
       ...pages,
-      { to: "https://medium.com/samsung-internet-dev", label: "Blog", icon: FaTag },
-      { to: "https://github.com/SamsungInternet/support/issues", label: "Support", icon: FaTag },
-      { to: "https://github.com/SamsungInternet", label: "Demos", icon: FaTag }
+      { to: "https://medium.com/samsung-internet-dev", label: "Blog", icon: FaTag, external: true },
+      { to: "https://github.com/SamsungInternet/support/issues", label: "Support", icon: FaTag, external: true },
+      { to: "https://github.com/SamsungInternet", label: "Demos", icon: FaTag, external: true }
     ];
 
     this.renderedItems = []; // will contain references to rendered DOM elements of menu
@@ -90,8 +90,9 @@ class Menu extends React.Component {
           item.classList.add("hideItem");
           item.classList.remove("item");
           result.hiddenItems.push({
-            to: link.getAttribute("data-slug"),
-            label: link.text
+            to: link.getAttribute("href"),
+            label: link.text,
+            external: link.getAttribute("data-external")
           });
         }
         return result;
@@ -145,7 +146,7 @@ class Menu extends React.Component {
         <nav className={`menu ${open ? "open" : ""}`} rel="js-menu">
           <ul className="itemList" ref={this.itemList}>
             {this.items.map(item => (
-              <Item item={item} key={item.label} theme={theme} external={false} />
+              <Item item={item} key={item.label} theme={theme} external={item.external} />
             ))}
           </ul>
           {this.state.hiddenItems.length > 0 && <Expand onClick={this.toggleMenu} theme={theme} />}
@@ -153,7 +154,7 @@ class Menu extends React.Component {
             screenWidth >= 1024 && (
               <ul className="hiddenItemList">
                 {this.state.hiddenItems.map(item => (
-                  <Item item={item} key={item.label} hiddenItem theme={theme} />
+                  <Item item={item} key={item.label} hiddenItem theme={theme} external={item.external} />
                 ))}
               </ul>
             )}
@@ -170,7 +171,7 @@ class Menu extends React.Component {
             width: 100%;
             z-index: 1;
             transition: all ${theme.time.duration.default};
-           
+
           }
 
           @media (max-width: 1024px) {
