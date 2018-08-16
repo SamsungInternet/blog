@@ -13,7 +13,8 @@ import Bg from "../../images/png/hero-background.png";
 const Hero = props => {
   const { theme } = props;
 
-  const pageWidth = window.innerWidth + 160;
+  // `window` is unavailable in production build context
+  const pageWidth = typeof window !== 'undefined' ? window.innerWidth + 160 : 400;
 
   const rocketAngle = Math.atan(props.heroHeight/pageWidth);
 
@@ -31,7 +32,7 @@ const Hero = props => {
           <p>Here you will find demos, articles and documentation to help you make the most of the latest web features in Samsung Internet and other browsers too.</p>
           <Feature />
         </div>
-        
+
       </section>
 
       {/* --- STYLES --- */}
@@ -45,7 +46,7 @@ const Hero = props => {
           padding: 1em;
           padding-top: ${theme.header.height.homepage};
           text-shadow:
-              -1px -1px 2px  ${theme.hero.backgroundColor}, 
+              -1px -1px 2px  ${theme.hero.backgroundColor},
               1px -1px 2px ${theme.hero.backgroundColor},
               -1px 1px 2px  ${theme.hero.backgroundColor},
               1px 1px 2px  ${theme.hero.backgroundColor};
@@ -64,7 +65,7 @@ const Hero = props => {
           text-remove-gap: both 0 "Open Sans";
           z-index: 1;
         }
-        
+
         p {
           grid-area: h2;
           margin-bottom: 40px;
@@ -174,7 +175,7 @@ const Hero = props => {
         @from-width desktop {
           .hero-info {
             display: grid;
-            grid-template: 
+            grid-template:
             "h1 feature" auto
             "h2 feature" auto /
             auto 650px;
