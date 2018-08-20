@@ -3,7 +3,7 @@ title: NYC, if I can make WebVR here…
 category: "Communities"
 cover: img.jpg
 author: Damon Hernandez
-authorImg: http://aechackathon.com/wp-content/uploads/2014/09/Damon-1.png
+authorImg: /team/damon.jpg
 ---
 ### NYC, if I can make WebVR here…
 

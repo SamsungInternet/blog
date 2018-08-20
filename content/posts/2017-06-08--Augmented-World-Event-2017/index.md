@@ -3,7 +3,7 @@ title: Augmented World Event 2017
 category: ""
 cover: img.jpg
 author: Damon Hernandez
-authorImg: http://aechackathon.com/wp-content/uploads/2014/09/Damon-1.png
+authorImg: /team/damon.jpg
 ---
 
 ### Augmented World Event 2017
