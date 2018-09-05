@@ -29,7 +29,7 @@ const Hero = props => {
         <GreenPlanet name="gp1" />
         <div className="hero-info">
           <h1 className="intro">Welcome to the Developer Hub for the web browser Samsung Internet.</h1>
-          <p>Here you will find demos, articles and documentation to help you make the most of the latest web features in Samsung Internet and other browsers too.</p>
+          <p className="intro-text">Here you will find demos, articles and documentation to help you make the most of the latest web features in Samsung Internet and other browsers too.</p>
           <Feature />
         </div>
 
@@ -57,20 +57,19 @@ const Hero = props => {
           margin: 0 auto;
         }
 
-        .intro {
-          position: relative;
-        }
-
         h1 {
+          position: relative;
           grid-area: h1;
           font-size: ${theme.hero.h1.size};
           margin: 1em 0;
           color: ${theme.hero.h1.color};
           text-remove-gap: both 0 "Open Sans";
           z-index: 1;
+
         }
 
         p {
+          position: relative;
           grid-area: h2;
           margin-bottom: 40px;
           font-size: ${theme.hero.h2.size};
