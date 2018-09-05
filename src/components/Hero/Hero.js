@@ -57,6 +57,10 @@ const Hero = props => {
           margin: 0 auto;
         }
 
+        .intro {
+          position: relative;
+        }
+
         h1 {
           grid-area: h1;
           font-size: ${theme.hero.h1.size};
