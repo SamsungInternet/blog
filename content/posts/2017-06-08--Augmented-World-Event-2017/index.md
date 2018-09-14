@@ -73,4 +73,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Augmented 
 
 By [Damon Hernandez](https://medium.com/@MetaverseOne) on [June 8, 2017](https://medium.com/p/f29486c695ae).
 
-[Canonical link](https://medium.com/@MetaverseOne/augmented-world-event-2017-f29486c695ae)
+[Read this article on Medium](https://medium.com/@MetaverseOne/augmented-world-event-2017-f29486c695ae)

@@ -86,4 +86,4 @@ Tagged in [Android](https://medium.com/tag/android), [Samsung](https://medium.co
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [August 8, 2016](https://medium.com/p/6c3a3be42f72).
 
-[Canonical link](https://medium.com/@poshaughnessy/introducing-samsung-internet-for-developers-6c3a3be42f72)
+[Read this article on Medium](https://medium.com/@poshaughnessy/introducing-samsung-internet-for-developers-6c3a3be42f72)

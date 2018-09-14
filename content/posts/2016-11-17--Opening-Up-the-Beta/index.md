@@ -20,4 +20,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Beta](http
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [November 17, 2016](https://medium.com/p/d0f988fb77fb).
 
-[Canonical link](https://medium.com/@torgo/beta-d0f988fb77fb)
+[Read this article on Medium](https://medium.com/@torgo/beta-d0f988fb77fb)

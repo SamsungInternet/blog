@@ -60,4 +60,4 @@ Tagged in [Hackathons](https://medium.com/tag/hackathons), [Conferences](https:/
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [December 14, 2016](https://medium.com/p/48d05599356c).
 
-[Canonical link](https://medium.com/@poshaughnessy/over-the-air-2016-reporting-back-48d05599356c)
+[Read this article on Medium](https://medium.com/@poshaughnessy/over-the-air-2016-reporting-back-48d05599356c)

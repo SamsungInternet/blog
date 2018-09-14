@@ -104,4 +104,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Development](htt
 
 By [Diego González](https://medium.com/@diekus) on [December 12, 2016](https://medium.com/p/a43b1e04df9b).
 
-[Canonical link](https://medium.com/@diekus/inside-the-bubble-a43b1e04df9b)
+[Read this article on Medium](https://medium.com/@diekus/inside-the-bubble-a43b1e04df9b)

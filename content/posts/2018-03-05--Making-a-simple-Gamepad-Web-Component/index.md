@@ -98,4 +98,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Gamepad](h
 
 By [Diego González](https://medium.com/@diekus) on [March 5, 2018](https://medium.com/p/23b2ac262f56).
 
-[Canonical link](https://medium.com/@diekus/making-a-simple-gamepad-web-component-23b2ac262f56)
+[Read this article on Medium](https://medium.com/@diekus/making-a-simple-gamepad-web-component-23b2ac262f56)

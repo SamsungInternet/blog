@@ -74,4 +74,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Workshop](
 
 By [uve](https://medium.com/@uveavanto) on [November 7, 2017](https://medium.com/p/d0c6a165eb20).
 
-[Canonical link](https://medium.com/@uveavanto/running-an-engaging-workshop-d0c6a165eb20)
+[Read this article on Medium](https://medium.com/@uveavanto/running-an-engaging-workshop-d0c6a165eb20)

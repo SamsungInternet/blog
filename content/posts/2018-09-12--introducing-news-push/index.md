@@ -46,4 +46,4 @@ In the meantime, as [Samsung Internet v8.2 Beta](https://play.google.com/store/a
 
 By Ren Bitonio on September 12, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/introducing-news-push-be-the-first-to-know-62b9e5f3ae59)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/introducing-news-push-be-the-first-to-know-62b9e5f3ae59)

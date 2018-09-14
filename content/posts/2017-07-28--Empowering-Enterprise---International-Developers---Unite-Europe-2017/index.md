@@ -34,4 +34,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Unity3d](h
 
 By [Damon Hernandez](https://medium.com/@MetaverseOne) on [July 28, 2017](https://medium.com/p/d75f64f3e32f).
 
-[Canonical link](https://medium.com/@MetaverseOne/empowering-enterprise-international-developers-unite-europe-2017-d75f64f3e32f)
+[Read this article on Medium](https://medium.com/@MetaverseOne/empowering-enterprise-international-developers-unite-europe-2017-d75f64f3e32f)

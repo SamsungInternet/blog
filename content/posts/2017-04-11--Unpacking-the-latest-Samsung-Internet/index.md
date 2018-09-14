@@ -66,4 +66,4 @@ Tagged in [Samsung](https://medium.com/tag/samsung), [Web Development](https://m
 
 By [Diego González](https://medium.com/@diekus) on [April 11, 2017](https://medium.com/p/fb1eac41cb7a).
 
-[Canonical link](https://medium.com/@diekus/unpacking-the-latest-samsung-internet-fb1eac41cb7a)
+[Read this article on Medium](https://medium.com/@diekus/unpacking-the-latest-samsung-internet-fb1eac41cb7a)

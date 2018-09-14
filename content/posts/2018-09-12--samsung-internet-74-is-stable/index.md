@@ -45,4 +45,4 @@ Thank you once again to all our beta testers who helped to road test all the new
 
 By Peter O'Shaughnessy on September 12, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/samsung-internet-7-4-is-stable-lets-check-out-what-s-new-d5c7b56897de)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/samsung-internet-7-4-is-stable-lets-check-out-what-s-new-d5c7b56897de)

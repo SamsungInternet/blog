@@ -26,4 +26,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Progressiv
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [May 8, 2017](https://medium.com/p/94d1d79434f8).
 
-[Canonical link](https://medium.com/@torgo/progressing-the-story-of-progressive-web-apps-94d1d79434f8)
+[Read this article on Medium](https://medium.com/@torgo/progressing-the-story-of-progressive-web-apps-94d1d79434f8)

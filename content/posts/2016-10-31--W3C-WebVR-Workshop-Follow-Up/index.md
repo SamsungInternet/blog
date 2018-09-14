@@ -155,4 +155,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Webvr](htt
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [October 31, 2016](https://medium.com/p/bcfe6558ccba).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/w3c-webvr-workshop-follow-up-bcfe6558ccba)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/w3c-webvr-workshop-follow-up-bcfe6558ccba)

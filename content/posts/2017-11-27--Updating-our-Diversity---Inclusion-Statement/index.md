@@ -33,4 +33,4 @@ Tagged in [Diversity](https://medium.com/tag/diversity), [Inclusion](https://med
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [November 27, 2017](https://medium.com/p/ac13848faed8).
 
-[Canonical link](https://medium.com/@torgo/updating-our-diversity-inclusion-statement-ac13848faed8)
+[Read this article on Medium](https://medium.com/@torgo/updating-our-diversity-inclusion-statement-ac13848faed8)

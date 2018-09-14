@@ -142,4 +142,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Service Wo
 
 By [uve](https://medium.com/@uveavanto) on [July 25, 2017](https://medium.com/p/f76abf1960f6).
 
-[Canonical link](https://medium.com/@uveavanto/a-beginners-guide-to-service-workers-f76abf1960f6)
+[Read this article on Medium](https://medium.com/@uveavanto/a-beginners-guide-to-service-workers-f76abf1960f6)

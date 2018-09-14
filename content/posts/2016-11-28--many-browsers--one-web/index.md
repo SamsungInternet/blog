@@ -56,4 +56,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Mobile](ht
 
 By [Diego González](https://medium.com/@diekus) on [November 28, 2016](https://medium.com/p/21730352afbc).
 
-[Canonical link](https://medium.com/@diekus/many-browsers-one-web-21730352afbc)
+[Read this article on Medium](https://medium.com/@diekus/many-browsers-one-web-21730352afbc)

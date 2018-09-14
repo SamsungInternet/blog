@@ -119,4 +119,4 @@ Tagged in [Colors](https://medium.com/tag/colors), [Web Development](https://med
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [August 24, 2017](https://medium.com/p/4944bcdb6e27).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/human-friendly-colours-using-hsl-4944bcdb6e27)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/human-friendly-colours-using-hsl-4944bcdb6e27)

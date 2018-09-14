@@ -27,4 +27,4 @@ Tagged in [iOS](https://medium.com/tag/ios), [Advertising](https://medium.com/ta
 
 By [Mahesh Kulkarni](https://medium.com/@Maheshkk) on [January 19, 2017](https://medium.com/p/f23b29a05463).
 
-[Canonical link](https://medium.com/@Maheshkk/introducing-disconnect-for-samsung-internet-f23b29a05463)
+[Read this article on Medium](https://medium.com/@Maheshkk/introducing-disconnect-for-samsung-internet-f23b29a05463)

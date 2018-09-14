@@ -70,4 +70,4 @@ Tagged in [Android](https://medium.com/tag/android), [Samsung](https://medium.co
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [December 16, 2016](https://medium.com/p/1ac2bfc14b78).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/announcing-samsung-internet-5-0-1ac2bfc14b78)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/announcing-samsung-internet-5-0-1ac2bfc14b78)

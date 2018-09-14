@@ -93,4 +93,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Progressiv
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [July 24, 2017](https://medium.com/p/74b7ac5bdb3a).
 
-[Canonical link](https://medium.com/@poshaughnessy/heres-what-you-get-for-free-with-a-progressive-web-app-74b7ac5bdb3a)
+[Read this article on Medium](https://medium.com/@poshaughnessy/heres-what-you-get-for-free-with-a-progressive-web-app-74b7ac5bdb3a)

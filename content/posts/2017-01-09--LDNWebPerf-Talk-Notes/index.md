@@ -349,4 +349,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [JavaScript
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [January 9, 2017](https://medium.com/p/6120d6e8e58c).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/ldnwebperf-talk-notes-6120d6e8e58c)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/ldnwebperf-talk-notes-6120d6e8e58c)

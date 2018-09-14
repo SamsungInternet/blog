@@ -175,4 +175,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Mobile](ht
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [January 19, 2017](https://medium.com/p/3690a589bf7c).
 
-[Canonical link](https://medium.com/@poshaughnessy/beyond-the-browser-3690a589bf7c)
+[Read this article on Medium](https://medium.com/@poshaughnessy/beyond-the-browser-3690a589bf7c)

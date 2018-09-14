@@ -67,4 +67,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Webvr](htt
 
 By [Damon Hernandez](https://medium.com/@MetaverseOne) on [November 6, 2017](https://medium.com/p/d2ec4d168d8d).
 
-[Canonical link](https://medium.com/@MetaverseOne/nyc-if-i-can-make-webvr-here-d2ec4d168d8d)
+[Read this article on Medium](https://medium.com/@MetaverseOne/nyc-if-i-can-make-webvr-here-d2ec4d168d8d)

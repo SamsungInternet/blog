@@ -56,4 +56,4 @@ Tagged in [Payments](https://medium.com/tag/payments), [Web Payments](https://me
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [May 1, 2018](https://medium.com/p/cef1c62edaf6).
 
-[Canonical link](https://medium.com/@poshaughnessy/web-payments-update-new-payment-apps-on-their-way-and-more-cef1c62edaf6)
+[Read this article on Medium](https://medium.com/@poshaughnessy/web-payments-update-new-payment-apps-on-their-way-and-more-cef1c62edaf6)

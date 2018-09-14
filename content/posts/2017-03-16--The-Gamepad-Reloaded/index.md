@@ -126,4 +126,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Internet](
 
 By [Diego González](https://medium.com/@diekus) on [March 16, 2017](https://medium.com/p/5ba866770003).
 
-[Canonical link](https://medium.com/@diekus/the-gamepad-reloaded-5ba866770003)
+[Read this article on Medium](https://medium.com/@diekus/the-gamepad-reloaded-5ba866770003)

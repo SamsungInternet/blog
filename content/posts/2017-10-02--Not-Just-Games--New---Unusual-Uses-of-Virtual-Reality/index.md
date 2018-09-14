@@ -189,4 +189,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Webvr](htt
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [October 2, 2017](https://medium.com/p/4ff5787a58eb).
 
-[Canonical link](https://medium.com/@poshaughnessy/not-just-games-new-unusual-uses-of-virtual-reality-4ff5787a58eb)
+[Read this article on Medium](https://medium.com/@poshaughnessy/not-just-games-new-unusual-uses-of-virtual-reality-4ff5787a58eb)

@@ -32,4 +32,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web Paymen
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [June 26, 2017](https://medium.com/p/2f9121e4cbfe).
 
-[Canonical link](https://medium.com/@poshaughnessy/preview-samsung-internet-at-fullstack-2017-2f9121e4cbfe)
+[Read this article on Medium](https://medium.com/@poshaughnessy/preview-samsung-internet-at-fullstack-2017-2f9121e4cbfe)

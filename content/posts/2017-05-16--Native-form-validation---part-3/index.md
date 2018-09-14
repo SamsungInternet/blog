@@ -147,4 +147,4 @@ Tagged in [UX](https://medium.com/tag/ux), [Web Browser](https://medium.com/tag/
 
 By [Peter-Paul Koch](https://medium.com/@pp.koch) on [May 16, 2017](https://medium.com/p/8e643e1dd06).
 
-[Canonical link](https://medium.com/@pp.koch/native-form-validation-part-3-8e643e1dd06)
+[Read this article on Medium](https://medium.com/@pp.koch/native-form-validation-part-3-8e643e1dd06)

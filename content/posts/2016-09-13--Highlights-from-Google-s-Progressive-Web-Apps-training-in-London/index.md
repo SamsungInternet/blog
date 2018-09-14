@@ -96,4 +96,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [JavaScript
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [September 13, 2016](https://medium.com/p/9856f0876e4f).
 
-[Canonical link](https://medium.com/@poshaughnessy/highlights-from-googles-progressive-web-apps-training-in-london-9856f0876e4f)
+[Read this article on Medium](https://medium.com/@poshaughnessy/highlights-from-googles-progressive-web-apps-training-in-london-9856f0876e4f)

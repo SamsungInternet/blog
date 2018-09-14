@@ -313,4 +313,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [SEO](https://medium.
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [February 12, 2018](https://medium.com/p/5810b1197686).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/how-i-built-a-game-in-a-week-5810b1197686)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/how-i-built-a-game-in-a-week-5810b1197686)

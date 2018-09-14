@@ -41,4 +41,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Mobile](ht
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [September 25, 2016](https://medium.com/p/30fe821050d3).
 
-[Canonical link](https://medium.com/@poshaughnessy/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)
+[Read this article on Medium](https://medium.com/@poshaughnessy/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)

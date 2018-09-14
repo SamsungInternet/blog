@@ -104,4 +104,4 @@ I hope this post has shared how we’re starting to embark on a new era of web d
 
 By Peter O'Shaughnessy on June 21, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38)

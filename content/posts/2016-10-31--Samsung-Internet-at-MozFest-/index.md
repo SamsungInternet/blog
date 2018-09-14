@@ -55,4 +55,4 @@ Tagged in [Mozfest](https://medium.com/tag/mozfest), [Mozilla](https://medium.co
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [October 31, 2016](https://medium.com/p/932a1b605ccc).
 
-[Canonical link](https://medium.com/@poshaughnessy/samsung-internet-at-mozfest-932a1b605ccc)
+[Read this article on Medium](https://medium.com/@poshaughnessy/samsung-internet-at-mozfest-932a1b605ccc)

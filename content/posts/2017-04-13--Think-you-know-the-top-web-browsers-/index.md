@@ -91,4 +91,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Browsers](
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [April 13, 2017](https://medium.com/p/458a0a070175).
 
-[Canonical link](https://medium.com/@poshaughnessy/think-you-know-the-top-web-browsers-458a0a070175)
+[Read this article on Medium](https://medium.com/@poshaughnessy/think-you-know-the-top-web-browsers-458a0a070175)

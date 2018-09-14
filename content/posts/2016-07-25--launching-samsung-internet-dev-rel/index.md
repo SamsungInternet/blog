@@ -20,4 +20,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Mobile](ht
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [July 25, 2016](https://medium.com/p/591ea6fe22af).
 
-[Canonical link](https://medium.com/@torgo/launching-samsung-internet-dev-rel-591ea6fe22af)
+[Read this article on Medium](https://medium.com/@torgo/launching-samsung-internet-dev-rel-591ea6fe22af)

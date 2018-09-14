@@ -82,4 +82,4 @@ Tagged in [Android](https://medium.com/tag/android), [Mobile](https://medium.com
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [August 9, 2017](https://medium.com/p/6199b6743cb9).
 
-[Canonical link](https://medium.com/@poshaughnessy/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)
+[Read this article on Medium](https://medium.com/@poshaughnessy/big-news-for-our-new-samsung-internet-beta-v6-2-6199b6743cb9)

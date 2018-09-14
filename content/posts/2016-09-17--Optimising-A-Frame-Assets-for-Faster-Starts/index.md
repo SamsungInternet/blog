@@ -96,4 +96,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Development](htt
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [September 17, 2016](https://medium.com/p/4ec3bd35c6fc).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/optimising-a-frame-assets-for-faster-starts-4ec3bd35c6fc)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/optimising-a-frame-assets-for-faster-starts-4ec3bd35c6fc)

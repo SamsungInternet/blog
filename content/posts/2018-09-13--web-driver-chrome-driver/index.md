@@ -34,4 +34,4 @@ We also have [a new and improved Cloud Device Farm](https://program.developer.sa
 
 By Peter O'Shaughnessy on September 13, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/how-to-use-webdriver-and-chromedriver-to-automate-samsung-internet-e1249814823e)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/how-to-use-webdriver-and-chromedriver-to-automate-samsung-internet-e1249814823e)

@@ -52,4 +52,4 @@ Tagged in [Qr Code](https://medium.com/tag/qr-code), [UX](https://medium.com/tag
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [December 20, 2016](https://medium.com/p/20becb76f057).
 
-[Canonical link](https://medium.com/@poshaughnessy/samsung-internets-qr-code-scanner-what-s-the-deal-20becb76f057)
+[Read this article on Medium](https://medium.com/@poshaughnessy/samsung-internets-qr-code-scanner-what-s-the-deal-20becb76f057)

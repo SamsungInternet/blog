@@ -71,4 +71,4 @@ Tagged in [Artificial Intelligence](https://medium.com/tag/artificial-intelligen
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [November 7, 2017](https://medium.com/p/77344195a1f9).
 
-[Canonical link](https://medium.com/@poshaughnessy/the-voice-powered-web-combining-browsers-with-ai-voice-assistants-77344195a1f9)
+[Read this article on Medium](https://medium.com/@poshaughnessy/the-voice-powered-web-combining-browsers-with-ai-voice-assistants-77344195a1f9)

@@ -26,4 +26,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [W3c](https
 
 By [Diego González](https://medium.com/@diekus) on [October 5, 2017](https://medium.com/p/ade246dac09c).
 
-[Canonical link](https://medium.com/@diekus/announcing-the-w3c-workshop-on-webvr-authoring-ade246dac09c)
+[Read this article on Medium](https://medium.com/@diekus/announcing-the-w3c-workshop-on-webvr-authoring-ade246dac09c)

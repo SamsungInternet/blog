@@ -30,4 +30,4 @@ Tagged in [Diversity](https://medium.com/tag/diversity), [Tech](https://medium.c
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [October 18, 2016](https://medium.com/p/8b004965c0bd).
 
-[Canonical link](https://medium.com/@torgo/supporting-diversity-at-tech-events-8b004965c0bd)
+[Read this article on Medium](https://medium.com/@torgo/supporting-diversity-at-tech-events-8b004965c0bd)

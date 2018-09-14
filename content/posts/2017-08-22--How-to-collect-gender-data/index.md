@@ -68,4 +68,4 @@ Tagged in [Gender](https://medium.com/tag/gender), [Web Development](https://med
 
 By [uve](https://medium.com/@uveavanto) on [August 22, 2017](https://medium.com/p/a29f3be2257c).
 
-[Canonical link](https://medium.com/@uveavanto/how-to-collect-gender-data-a29f3be2257c)
+[Read this article on Medium](https://medium.com/@uveavanto/how-to-collect-gender-data-a29f3be2257c)

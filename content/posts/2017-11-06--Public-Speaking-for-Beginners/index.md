@@ -72,4 +72,4 @@ Tagged in [Public Speaking](https://medium.com/tag/public-speaking), [Speaking](
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [November 6, 2017](https://medium.com/p/8bdee16123ba).
 
-[Canonical link](https://medium.com/@jofranchetti/public-speaking-for-beginners-8bdee16123ba)
+[Read this article on Medium](https://medium.com/@jofranchetti/public-speaking-for-beginners-8bdee16123ba)

@@ -119,4 +119,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web](https
 
 By [uve](https://medium.com/@uveavanto) on [July 13, 2017](https://medium.com/p/cbcb214b816c).
 
-[Canonical link](https://medium.com/@uveavanto/eleven-examples-of-how-webvr-is-being-used-today-cbcb214b816c)
+[Read this article on Medium](https://medium.com/@uveavanto/eleven-examples-of-how-webvr-is-being-used-today-cbcb214b816c)

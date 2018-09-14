@@ -168,4 +168,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Bluetooth](https
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [February 2, 2018](https://medium.com/p/a9ac7fb2f752).
 
-[Canonical link](https://medium.com/@jofranchetti/hedgehog-curling-with-webbluetooth-and-webvr-a9ac7fb2f752)
+[Read this article on Medium](https://medium.com/@jofranchetti/hedgehog-curling-with-webbluetooth-and-webvr-a9ac7fb2f752)

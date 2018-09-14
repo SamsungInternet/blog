@@ -38,4 +38,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Browsers](
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [October 13, 2016](https://medium.com/p/6815f93b866c).
 
-[Canonical link](https://medium.com/@poshaughnessy/is-browser-still-the-right-word-6815f93b866c)
+[Read this article on Medium](https://medium.com/@poshaughnessy/is-browser-still-the-right-word-6815f93b866c)

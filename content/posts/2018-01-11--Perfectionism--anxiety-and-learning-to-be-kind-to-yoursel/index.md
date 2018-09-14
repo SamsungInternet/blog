@@ -44,4 +44,4 @@ Tagged in [Perfectionism](https://medium.com/tag/perfectionism), [Mental Health]
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [January 11, 2018](https://medium.com/p/e3c23710704).
 
-[Canonical link](https://medium.com/@jofranchetti/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704)
+[Read this article on Medium](https://medium.com/@jofranchetti/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704)

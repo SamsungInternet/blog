@@ -149,4 +149,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [JavaScript
 
 By [Winston Chen](https://medium.com/@winstonchen1337) on [August 7, 2017](https://medium.com/p/980d12d34244).
 
-[Canonical link](https://medium.com/@winstonchen1337/speaking-to-the-web-with-the-web-speech-api-980d12d34244)
+[Read this article on Medium](https://medium.com/@winstonchen1337/speaking-to-the-web-with-the-web-speech-api-980d12d34244)

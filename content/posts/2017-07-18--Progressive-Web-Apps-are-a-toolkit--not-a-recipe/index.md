@@ -49,4 +49,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Progressiv
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [July 18, 2017](https://medium.com/p/b2fd68613de5).
 
-[Canonical link](https://medium.com/@poshaughnessy/progressive-web-apps-are-a-toolkit-not-a-recipe-b2fd68613de5)
+[Read this article on Medium](https://medium.com/@poshaughnessy/progressive-web-apps-are-a-toolkit-not-a-recipe-b2fd68613de5)

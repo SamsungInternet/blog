@@ -87,4 +87,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web Develo
 
 By [Diego González](https://medium.com/@diekus) on [February 7, 2017](https://medium.com/p/a1d7ccf71cb4).
 
-[Canonical link](https://medium.com/@diekus/mobile-world-progress-2017-a1d7ccf71cb4)
+[Read this article on Medium](https://medium.com/@diekus/mobile-world-progress-2017-a1d7ccf71cb4)

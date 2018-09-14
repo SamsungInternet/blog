@@ -32,4 +32,4 @@ Tagged in [Advertising](https://medium.com/tag/advertising), [Samsung Internet](
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [October 30, 2017](https://medium.com/p/c00f118c1151).
 
-[Canonical link](https://medium.com/@poshaughnessy/introducing-our-new-tracking-blocker-powered-by-disconnect-c00f118c1151)
+[Read this article on Medium](https://medium.com/@poshaughnessy/introducing-our-new-tracking-blocker-powered-by-disconnect-c00f118c1151)

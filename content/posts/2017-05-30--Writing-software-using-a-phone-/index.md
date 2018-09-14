@@ -199,4 +199,4 @@ Tagged in [Android](https://medium.com/tag/android), [Samsung Galaxy S8](https:/
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [May 30, 2017](https://medium.com/p/e71976f1f18d).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/writing-software-using-a-phone-e71976f1f18d)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/writing-software-using-a-phone-e71976f1f18d)

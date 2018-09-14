@@ -126,4 +126,4 @@ To quote Catherine, I encourage you to ***“Be the good example”*** for our f
 
 By Amy Dickens on September 10, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/ethically-sourced-software-at-emf2018-c93bb91ae75c)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/ethically-sourced-software-at-emf2018-c93bb91ae75c)

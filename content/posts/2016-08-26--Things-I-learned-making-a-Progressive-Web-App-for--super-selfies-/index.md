@@ -134,4 +134,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Development](htt
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [August 26, 2016](https://medium.com/p/49e76d154e4f).
 
-[Canonical link](https://medium.com/@poshaughnessy/things-i-learned-making-a-progressive-web-app-for-super-selfies-49e76d154e4f)
+[Read this article on Medium](https://medium.com/@poshaughnessy/things-i-learned-making-a-progressive-web-app-for-super-selfies-49e76d154e4f)

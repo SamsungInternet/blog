@@ -52,4 +52,4 @@ If you have an Android 5+ device, we hope you will give [the new Beta](https://p
 
 By Peter O'Shaughnessy on September 3, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/hello-samsung-internet-8-2-beta-521e4b215fb3)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/hello-samsung-internet-8-2-beta-521e4b215fb3)

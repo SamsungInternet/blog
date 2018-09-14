@@ -50,4 +50,4 @@ Hopefully you are feeling as inspired from these amazing speakers as those of us
 
 By Damon Hernandez on July 31, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/all-the-keynote-talks-from-samsung-create-2018-7be7abab17dc)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/all-the-keynote-talks-from-samsung-create-2018-7be7abab17dc)

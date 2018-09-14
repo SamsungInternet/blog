@@ -43,4 +43,4 @@ Tagged in [Ad Blocking](https://medium.com/tag/ad-blocking), [Web Development](h
 
 By [YONGHA LEE](https://medium.com/@yongha78.lee) on [August 25, 2017](https://medium.com/p/e9eb2ef88afc).
 
-[Canonical link](https://medium.com/@yongha78.lee/browsing-for-better-battery-life-e9eb2ef88afc)
+[Read this article on Medium](https://medium.com/@yongha78.lee/browsing-for-better-battery-life-e9eb2ef88afc)

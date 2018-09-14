@@ -98,6 +98,6 @@ Tagged in [Componentes Web](https://medium.com/tag/componentes-web), [Mando](htt
 
 By [Diego González](https://medium.com/@diekus) on [March 5, 2018](https://medium.com/p/4f9d0f7bf084).
 
-[Canonical link](https://medium.com/@diekus/creando-un-componente-web-simple-para-usar-un-mando-4f9d0f7bf084)
+[Read this article on Medium](https://medium.com/@diekus/creando-un-componente-web-simple-para-usar-un-mando-4f9d0f7bf084)
 
 Exported from [Medium](https://medium.com) on June 15, 2018.

@@ -322,4 +322,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Components](http
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [January 23, 2018](https://medium.com/p/bf55379cfcda).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/lessons-learned-making-our-app-with-web-components-bf55379cfcda)

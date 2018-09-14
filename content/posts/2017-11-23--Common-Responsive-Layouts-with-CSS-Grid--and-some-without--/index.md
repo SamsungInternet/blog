@@ -106,4 +106,4 @@ Tagged in [CSS](https://medium.com/tag/css), [Css Grid](https://medium.com/tag/c
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [November 23, 2017](https://medium.com/p/245a862f48df).
 
-[Canonical link](https://medium.com/@jofranchetti/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
+[Read this article on Medium](https://medium.com/@jofranchetti/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)

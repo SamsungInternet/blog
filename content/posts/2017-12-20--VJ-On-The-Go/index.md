@@ -80,4 +80,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Webgl](htt
 
 By [Ruth John](https://medium.com/@rumyra) on [December 20, 2017](https://medium.com/p/e56666fe55eb).
 
-[Canonical link](https://medium.com/@rumyra/vj-on-the-go-e56666fe55eb)
+[Read this article on Medium](https://medium.com/@rumyra/vj-on-the-go-e56666fe55eb)

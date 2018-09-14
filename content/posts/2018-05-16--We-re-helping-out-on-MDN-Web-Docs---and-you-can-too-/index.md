@@ -54,4 +54,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Documentat
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [May 16, 2018](https://medium.com/p/68e001866ad3).
 
-[Canonical link](https://medium.com/@poshaughnessy/were-helping-out-on-mdn-web-docs-and-you-can-too-68e001866ad3)
+[Read this article on Medium](https://medium.com/@poshaughnessy/were-helping-out-on-mdn-web-docs-and-you-can-too-68e001866ad3)

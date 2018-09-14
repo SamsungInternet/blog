@@ -55,4 +55,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Samsung Ge
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [December 6, 2016](https://medium.com/p/6e28055764a).
 
-[Canonical link](https://medium.com/@poshaughnessy/yes-mobile-vr-is-real-vr-6e28055764a)
+[Read this article on Medium](https://medium.com/@poshaughnessy/yes-mobile-vr-is-real-vr-6e28055764a)

@@ -146,4 +146,4 @@ Tagged in [Webaudio](https://medium.com/tag/webaudio), [Realidad Virtual](https:
 
 By [Diego González](https://medium.com/@diekus) on [November 28, 2017](https://medium.com/p/1be66cbe4fd7).
 
-[Canonical link](https://medium.com/@diekus/web-audio-en-distintas-plataformas-1be66cbe4fd7)
+[Read this article on Medium](https://medium.com/@diekus/web-audio-en-distintas-plataformas-1be66cbe4fd7)

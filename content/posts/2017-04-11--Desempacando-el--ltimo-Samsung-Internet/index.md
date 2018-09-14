@@ -64,4 +64,4 @@ Tagged in [Internet](https://medium.com/tag/internet), [Web Development](https:/
 
 By [Diego González](https://medium.com/@diekus) on [April 11, 2017](https://medium.com/p/538cf3c8994d).
 
-[Canonical link](https://medium.com/@diekus/desempacando-el-%C3%BAltimo-samsung-internet-538cf3c8994d)
+[Read this article on Medium](https://medium.com/@diekus/desempacando-el-%C3%BAltimo-samsung-internet-538cf3c8994d)

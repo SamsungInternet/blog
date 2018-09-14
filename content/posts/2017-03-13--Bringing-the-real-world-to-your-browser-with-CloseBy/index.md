@@ -73,4 +73,4 @@ Tagged in [Beacons](https://medium.com/tag/beacons), [IoT](https://medium.com/ta
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [March 13, 2017](https://medium.com/p/830cd162547e).
 
-[Canonical link](https://medium.com/@poshaughnessy/bringing-the-real-world-to-your-browser-with-closeby-830cd162547e)
+[Read this article on Medium](https://medium.com/@poshaughnessy/bringing-the-real-world-to-your-browser-with-closeby-830cd162547e)

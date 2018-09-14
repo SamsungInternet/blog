@@ -40,4 +40,4 @@ Tagged in [Android](https://medium.com/tag/android), [Web](https://medium.com/ta
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [January 9, 2018](https://medium.com/p/7aa6730b066a).
 
-[Canonical link](https://medium.com/@poshaughnessy/try-our-download-improvements-with-samsung-internet-beta-v6-4-7aa6730b066a)
+[Read this article on Medium](https://medium.com/@poshaughnessy/try-our-download-improvements-with-samsung-internet-beta-v6-4-7aa6730b066a)

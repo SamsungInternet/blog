@@ -139,4 +139,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Browsers](
 
 By [Peter-Paul Koch](https://medium.com/@pp.koch) on [May 2, 2017](https://medium.com/p/bf8e35099f1d).
 
-[Canonical link](https://medium.com/@pp.koch/native-form-validation-part-1-bf8e35099f1d)
+[Read this article on Medium](https://medium.com/@pp.koch/native-form-validation-part-1-bf8e35099f1d)

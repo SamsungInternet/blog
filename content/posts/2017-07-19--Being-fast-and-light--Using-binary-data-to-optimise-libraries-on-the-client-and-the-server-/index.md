@@ -316,4 +316,4 @@ Tagged in [Programming](https://medium.com/tag/programming), [JavaScript](https:
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [July 19, 2017](https://medium.com/p/5709f06ef105).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/being-fast-and-light-using-binary-data-to-optimise-libraries-on-the-client-and-the-server-5709f06ef105)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/being-fast-and-light-using-binary-data-to-optimise-libraries-on-the-client-and-the-server-5709f06ef105)
