@@ -5,8 +5,6 @@ import Bg from "../../images/png/hero-background.png";
 
 const Article = props => {
   const { children, theme, type } = props;
-  console.log(type);
-
   return (
     <React.Fragment>
       <article className={`article ${type}`}>{children}</article>
