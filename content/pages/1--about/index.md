@@ -84,6 +84,10 @@ type: pages
     line-height:1.6em;
   }
 
+  .disclaimer{
+    font-size:0.7em;
+  }
+
 </style>
 
 <div class="about-content">
@@ -129,10 +133,15 @@ type: pages
       <ul>
         <li><a href="https://medium.com/@torgo/the-big-browser-you-haven-t-heard-of-yet-481a1b48517b">The Big Browser You Haven't Heard Of Yet</a></li>
         <li><a href="https://www.smashingmagazine.com/2016/10/whats-the-deal-with-the-samsung-internet-browser/">What’s The Deal With The Samsung Internet Browser?</a></li>
-        <li class="ul_card"><a href="https://medium.com/samsung-internet-dev/introducing-samsung-internet-for-developers-6c3a3be42f72">Introducing Samsung Internet for developers</a></li>
+        <li><a href="https://medium.com/samsung-internet-dev/introducing-samsung-internet-for-developers-6c3a3be42f72">Introducing Samsung Internet for developers</a></li>
         <li><a href="https://medium.com/samsung-internet-dev/think-you-know-the-top-web-browsers-458a0a070175">Think you know the top web browsers?</a></li>
         <li><a href="https://medium.com/samsung-internet-dev/because-browser-diversity-is-good-for-the-web-910d1cbcdf3b">Because browser diversity is good for the web</a></li>
-      </ul>
-    </div>
-  </div>
+	</ul>
+
 </div>
+
+<section class="disclaimer">
+<h3>Disclaimer</h3>
+<p>Our <a href="https://medium.com/samsung-internet-dev/">Medium publication</a> and our blog on <a href="/">this website</a> are not official channels endorsed or sponsored by Samsung Electronics Co., Ltd. We are web developers who write articles, tutorials and opinions about web technologies primarily of interest to other web developers, along with other developer-relevent features for Samsung Internet and related products/services.</p>
+<p>Information provided and opinions expressed on this website are ‘those of the authors’ and do not reflect the official recommendations or policies of Samsung Electronics Co., Ltd. For the official word about Samsung Internet and other Samsung products, see <a href="https://developer.samsung.com/internet">developer.samsung.com/internet</a>.</p>
+</section>
