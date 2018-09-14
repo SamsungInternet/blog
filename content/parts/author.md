@@ -2,4 +2,4 @@
 title: author
 ---
 
-**SamsungInternet** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**SamsungInternet** is a Simple, Fast, and Reliable web browser available for any Android phone or tablet. Find more information on our [official product page](https://www.samsung.com/global/galaxy/apps/samsung-internet/) or download [our Beta](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser.beta). 
