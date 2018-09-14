@@ -3,8 +3,8 @@ import Corner from "../../layouts/corner";
 
 const Feature = props => {
 
-  const title = "Performance Testing Web Assembly vs JavaScript";
-  const image = "https://cdn-images-1.medium.com/max/1600/1*g09zv9WuuH00KfVisRPAOg.png";
+  const title = "A Crisis of Permissions";
+  const image = "https://cdn-images-1.medium.com/max/1000/1*k7jyt8okLpikXnuh09nq7A.png";
 
   return (
     <React.Fragment>
