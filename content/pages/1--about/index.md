@@ -41,10 +41,20 @@ type: pages
     grid-column-start:1;
     grid-column-end:3;
   }
-  .store-badge{
-    height: 3em;
-    align-self: flex-end;
-    margin:auto auto 0px auto;
+
+  .button{
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .oculus-badge{
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .oculus-badge img{
+    width: 16em;
+  }
 
   }
   .si-more{
@@ -86,21 +96,21 @@ type: pages
       <h2 style="margin:0px">Samsung Internet</h2>
       <img src="images/si-ss.jpg">      
       <p>Samsung Internet for Android is a simple, fast, and reliable web browser for your phone and tablet. It has replaced the stock Android browser on Samsung Galaxy devices since 2012, to provide a browser highly optimized for our devices.</p>
-      <img class="store-badge" src="images/play-badge.svg" style="margin-top:-.4em;">
+      <a class="button" href='https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser&hl=en_GB&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png'/></a>
     </div>
     <div class="si-ver">
       <h3 style="margin:0px">Samsung Internet Gear VR</h3>
       <img src="images/si4gvr-ss.jpg">
       <img src="images/si4gvr-logo.svg" class="small-logo">
       <p>Samsung Internet for Gear VR lets you browse the web and enjoy contents in an immersive environment. Browse the web on a big screen, just as if you were at the theater.</p>
-      <img class="store-badge" src="images/oculus-badge.svg">
+      <a class="oculus-badge" href="https://www.oculus.com/experiences/app/849609821813454/"><img src="images/oculus-badge.svg"></a>
     </div>
     <div class="si-ver">
       <h3 style="margin:0px">Samsung Internet Beta</h3>
       <img src="images/sib-ss.jpg">
       <img src="images/sib-logo.svg" class="small-logo">
       <p>Introducing the Samsung Internet Beta, giving you early access to the newest features of the secure, private and optimized mobile web browser.</p>
-      <img class="store-badge" src="images/play-badge.svg">
+      <a class="button" href='https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser.beta&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png'/></a>
     </div>
   </div>
   <h2> Press Coverage</h2>
