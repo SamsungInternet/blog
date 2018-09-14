@@ -5,13 +5,16 @@ const Feature = props => {
 
   const title = "A Crisis of Permissions";
   const image = "https://cdn-images-1.medium.com/max/1000/1*k7jyt8okLpikXnuh09nq7A.png";
+  const url = "/a-crisis-of-permissions/";
 
   return (
     <React.Fragment>
       <section className="feature">
-        <img src={image} />
-        <h2>{title}</h2>
-        <Corner type="feature" icon="star" />
+        <a href={url}>
+          <img src={image} />
+          <h2>{title}</h2>
+          <Corner type="feature" icon="star" />
+        </a>
       </section>
 
       {/* --- STYLES --- */}
