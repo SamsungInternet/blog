@@ -20,7 +20,7 @@ const Article = props => {
 
         :global(.profile) {
           background-color: white;
-          padding: 0 2em ;
+          padding: 0.1em 2em;
         }
 
         .docs, .team {

@@ -83,7 +83,3 @@ type: team
   <p class="tags"><span>#Accessibility</span><span>#UserExeprience</span><span>#OpenSource</span></p>
 </div>
 </div>
-
-<h3 class="profile">
-  The Developer Hub is maintained by the Samsung Internet Developer Advocacy team:
-</h3>
