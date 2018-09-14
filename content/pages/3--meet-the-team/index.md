@@ -77,7 +77,7 @@ type: team
 <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/amy.jpg" alt="Amy Dickens"/>
-  <p>Developer Advocate Intern <a href="https://twitter.com/samsunginternet">@samsunginternet</a>, Developer in Training, User Experience researcher and Open Sourceress, cares about building usable tech that is accessible to everyone. I am a Campus Expert for <a href="https://education.github.com">GitHub</a> a founder of <a href="http://mykindof.tech">My Kind Of Tech</a> and can often be found tinkering with musical things like the <a href="http://mimugloves.com">mi.mu gloves</a></p>. 
+  <p>Developer Advocate Intern <a href="https://twitter.com/samsunginternet">@samsunginternet</a>, Developer in Training, User Experience researcher and Open Sourceress, cares about building usable tech that is accessible to everyone. I am a Campus Expert for <a href="https://education.github.com">GitHub</a> a founder of <a href="http://mykindof.tech">My Kind Of Tech</a> and can often be found tinkering with musical things like the <a href="http://mimugloves.com">mi.mu gloves</a>.</p> 
   <p class="profile-links"><a class="twitter" href="https://twitter.com/RedRoxProjects">@RedRoxProjects</a> <a class="github" href="https://github.com/RedRoxProjects">github.com/RedRoxProjects</a>
   </p>
   <p class="tags"><span>#Accessibility</span><span>#UserExeprience</span><span>#OpenSource</span></p>
