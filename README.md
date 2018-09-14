@@ -12,6 +12,13 @@ npm install --global gatsby-cli
 
 More information on [GatsbyJS.org](https://www.gatsbyjs.org/tutorial/part-one)
 
+Once you've installed gatsby-cli you'll also need to install the modules that come with the project.
+Inside the siteblog directory run
+
+```text
+npm install
+```
+
 ## Getting started
 
 Inside the siteblog directory run
