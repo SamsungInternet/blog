@@ -20,7 +20,7 @@ const Meta = props => {
       {category && (
         <span>
           <FaTag size={18} />
-          <Link to={`/category/${category}`}>{category}</Link>
+          {category}
         </span>
       )}
 
