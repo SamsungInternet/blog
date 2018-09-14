@@ -5,7 +5,7 @@ const Feature = props => {
 
   const title = "A Crisis of Permissions";
   const image = "https://cdn-images-1.medium.com/max/1000/1*k7jyt8okLpikXnuh09nq7A.png";
-  const url = "/a-crisis-of-permissions/"
+  const url = "/a-crisis-of-permissions/";
 
   return (
     <React.Fragment>
