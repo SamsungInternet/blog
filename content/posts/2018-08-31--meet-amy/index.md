@@ -5,7 +5,7 @@ description: "This is my first week at Samsung; I’ve done my induction, been s
 category: Web Development
 img: img.jpeg
 author: Amy Dickens
-authorImg: https://cdn-images-1.medium.com/fit/c/120/120/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
+authorImg: https://miro.medium.com/fit/c/240/240/1*xKB5k6ire8_BjCk0u9afRg.jpeg
 tags: [Web Development]
 ---
 
