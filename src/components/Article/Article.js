@@ -58,7 +58,7 @@ const Article = props => {
             padding: ${`calc(${theme.space.default} * 2 + 90px) 0 calc(${
               theme.space.default
             } * 2)`};
-            max-width: ${theme.text.maxWidth.desktop};
+            max-width: 960px;
           }
           .docs, .team {
             padding-left: 0;

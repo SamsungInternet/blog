@@ -119,6 +119,12 @@ class Layout extends React.Component {
                   letter-spacing: 0.05em;
                   margin: 0;
                 }
+                h4 {
+                  font-family: ${this.state.font600loaded
+                    ? "'SamsungSharpSans-Bold', sans-serif;"
+                    : "Arial, sans-serif;"};
+                    letter-spacing: 0.04em;
+                }
                 h1 {
                 }
                 p {
