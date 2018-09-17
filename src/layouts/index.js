@@ -144,6 +144,81 @@ class Layout extends React.Component {
                   width: auto;
                   display: block;
                 }
+                
+                .about-logo {
+                  display: block;
+                  max-width: 50%;
+                  margin: 0 auto;
+                }
+                .about-description {
+                  padding:1em;
+                }
+                .versions {
+                  margin-top: 1em;
+                }
+                .version {
+                  position: relative;
+                }
+                h4 {
+                  margin-bottom: 1em;
+                  font-size: 1.4em;
+                }
+                .side-column {
+                  padding: 1em;
+                  background-color: #F2F2F2;
+                }
+                .small-logo {
+                  position: absolute;
+                  right: 50%;
+                  transform: translate(50%, -130%);
+                  width: 80px;
+                }
+                .ul_card {
+                  list-style: none;
+                  margin: 0 0 1em;
+                  border: 1px solid #F2F2F2;
+                  padding: .6em;
+                  line-height:1.6em;
+                }
+                .disclaimer {
+                  font-size: 0.7em;
+                }
+                .play-button {
+                  
+                  max-width: 300px;
+                  display: block;
+                  margin: 0 auto;
+                }
+
+                #oculus-button {
+                  display: block;
+                  width: 100%;
+                  padding: 8%;
+                }
+
+                @media (min-width: 650px) {
+                  .about-intro {
+                    display: flex;
+                    justify-content: space-between;
+                  }
+                  .versions {
+                    display:flex;
+                    justify-content: space-between;
+                  }
+                  .version {
+                    width: calc(50% - 20px);
+                  }
+                  .si-more{
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: flex-start;
+                  }
+                  .side-column {
+                    width: calc(50% - 40px);
+                    margin-left: 40px;
+                    flex-shrink: 0;
+                  }
+                }
               `}</style>
               <img src="https://samsung-internet-dev-hub-analytics.glitch.me/counter.png?fallback=https://samsunginter.net" alt="" width="1" height="1" aria-hidden="true"></img>
             </React.Fragment>
