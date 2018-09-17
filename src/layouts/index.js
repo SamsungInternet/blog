@@ -124,6 +124,8 @@ class Layout extends React.Component {
                     ? "'SamsungSharpSans-Bold', sans-serif;"
                     : "Arial, sans-serif;"};
                     letter-spacing: 0.04em;
+                  margin-bottom: 1em;
+                  font-size: 1.4em;
                 }
                 h1 {
                 }
@@ -158,10 +160,6 @@ class Layout extends React.Component {
                 }
                 .version {
                   position: relative;
-                }
-                h4 {
-                  margin-bottom: 1em;
-                  font-size: 1.4em;
                 }
                 .side-column {
                   padding: 1em;
