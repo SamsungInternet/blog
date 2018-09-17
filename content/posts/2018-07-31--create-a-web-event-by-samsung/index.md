@@ -1,7 +1,7 @@
 ---
 cover: img.jpg
-title: "Disappearing Frameworks"
-description: "Frameworks like Angular, React and Ember are par-for-the-course for complex web development these days. Over this decade (Angular was first released in 2010) they have grown to become defacto standards for many of us, helping countless organisations to structure their code, manage state and build complex UIs, based on reusable components."
+title: "Create, a web event from Samsung"
+description: "A major component to my work over the years has been creating connections. Connections between various industries and immersive technologies, the flat web with 3D, and connections between people. In retrospect I know this was a major variable for why when the opportunity to organize a web developer conference for Samsung came up earlier this year I jumped on the chance. Given this realization came later, I’m labeling it reason #**3** for why I had to participate in making a web developer conference happen."
 category: Web Development
 img: img.jpeg
 author: Damon Hernandez
