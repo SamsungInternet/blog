@@ -1,12 +1,12 @@
 ---
 cover: img.jpg
 title: "Hello Samsung Internet — I’m Amy, Nice to Meet you 👋"
-description: "Frameworks like Angular, React and Ember are par-for-the-course for complex web development these days. Over this decade (Angular was first released in 2010) they have grown to become defacto standards for many of us, helping countless organisations to structure their code, manage state and build complex UIs, based on reusable components."
+description: "This is my first week at Samsung; I’ve done my induction, been shown the fire exits and been given a desk — it’s official! I’m joining the Samsung Internet Web Developer Advocacy team for a six month internship and cannot wait to get started in my first “tech” industry role. 💻"
 category: Web Development
 img: img.jpeg
-author: Peter O'Shaughnessy
+author: Amy Dickens
 authorImg: https://cdn-images-1.medium.com/fit/c/120/120/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
-tags: [Web Development, Framework, JavaScript, Web, Performance]
+tags: [Web Development]
 ---
 
 # Hello Samsung Internet — I’m Amy, Nice to Meet you 👋

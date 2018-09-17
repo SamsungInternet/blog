@@ -1,6 +1,6 @@
 ---
 cover: img.jpg
-title: "Disappearing Frameworks"
+title: "Hello Samsung Internet 8.2 Beta 👋"
 description: "The next major version of Samsung’s browser for Android is now being released for beta testing"
 category: Browser Features
 img: img.jpeg
