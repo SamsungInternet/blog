@@ -1,10 +1,20 @@
-# Blog
+# Welcome to the Samsung Internet Developer Hub :wave:
 
-A [GatsbyJS](https://www.gatsbyjs.org/) blog. <br /><br />
+This site is built on the [GatsbyJS](https://www.gatsbyjs.org/) blog.
 
-## Description
+The site and this repository are maintained by the Samsung Internet Developer Advocate Team. 
 
-If you do not have Gatsby Cli installed yet, do it first.
+If you spot any problems with our site please tell us about them using raising an [Issue](https://github.com/SamsungInternet/siteblog/issues) in this repository.
+
+There are some useful templates for reporting a bug or making a feature request. Please follow these when submitting your issue to us :sparkling_heart:.  
+
+# Making a contribution...
+
+Follow these instructions on how to get started with working on the samsunginter.net blog.
+
+## Before you begin:
+
+If you do not have Gatsby Cli installed yet, you will need to do this first.
 
 ```text
 npm install --global gatsby-cli
@@ -21,13 +31,17 @@ npm install
 
 ## Getting started
 
-Inside the siteblog directory run
+Inside the siteblog directory run:
 
 ```text
 gatsby develop
 ```
 
-to hot-serve your website on http://localhost:8000 or
+to hot-serve your website on http://localhost:8000 
+
+Now you can make changes to the content of the site locally and see those changes at http://localhost:8000. 
+
+Alternativly you can run: 
 
 ```text
 gatsby build
@@ -46,7 +60,7 @@ GOOGLE_ANALYTICS_ID=...
 FB_APP_ID=...
 ```
 
-### Instructions & tutorials
+### Some useful instructions & tutorials on the Gatsby Blog
 
 * [How to install, setup and add new content to a Blog starter](https://dev.greglobinski.com/install-blog-starter/)
 * More articles soon at [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-hero-blog/)
