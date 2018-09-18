@@ -38,6 +38,6 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web Develo
 
 By [Diego González](https://medium.com/@diekus) on [March 6, 2017](https://medium.com/p/de37440d6313).
 
-[Canonical link](https://medium.com/@diekus/samsung-internet-mobile-world-congress-2017-de37440d6313)
+[Read this article on Medium](https://medium.com/@diekus/samsung-internet-mobile-world-congress-2017-de37440d6313)
 
 Exported from [Medium](https://medium.com) on June 15, 2018.

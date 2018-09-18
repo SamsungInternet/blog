@@ -88,4 +88,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Webvr](htt
 
 By [uve](https://medium.com/@uveavanto) on [December 1, 2017](https://medium.com/p/e24770b1a5f1).
 
-[Canonical link](https://medium.com/@uveavanto/ethics-in-web-vr-e24770b1a5f1)
+[Read this article on Medium](https://medium.com/@uveavanto/ethics-in-web-vr-e24770b1a5f1)

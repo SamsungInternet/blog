@@ -29,4 +29,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [ES6](https://medium.
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [August 4, 2016](https://medium.com/p/d6e70a9f1684).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/samsung-and-the-polyfill-service-d6e70a9f1684)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/samsung-and-the-polyfill-service-d6e70a9f1684)

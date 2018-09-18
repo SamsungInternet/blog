@@ -89,6 +89,6 @@ Tagged in [JavaScript](https://medium.com/tag/javascript)
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [July 10, 2017](https://medium.com/p/757b7d3d49fc).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/spice-up-your-vr-scene-with-free-3d-models-from-blocks-757b7d3d49fc)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/spice-up-your-vr-scene-with-free-3d-models-from-blocks-757b7d3d49fc)
 
 Exported from [Medium](https://medium.com) on June 15, 2018.

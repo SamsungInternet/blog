@@ -62,4 +62,4 @@ Tagged in [Climate Change](https://medium.com/tag/climate-change), [Storms](http
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [January 30, 2018](https://medium.com/p/2f705bd9dd97).
 
-[Canonical link](https://medium.com/@torgo/hacking-storms-in-antigua-with-the-un-2f705bd9dd97)
+[Read this article on Medium](https://medium.com/@torgo/hacking-storms-in-antigua-with-the-un-2f705bd9dd97)

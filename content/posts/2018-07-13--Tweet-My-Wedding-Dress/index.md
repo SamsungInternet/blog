@@ -201,4 +201,4 @@ If any of this is helpful to you as you start on your own LED wearables project 
 
 By Jo Franchetti on July 13, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/tweet-my-wedding-dress-e08fb90b097f)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/tweet-my-wedding-dress-e08fb90b097f)

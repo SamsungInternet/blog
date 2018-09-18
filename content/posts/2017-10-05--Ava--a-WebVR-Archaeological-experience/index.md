@@ -66,4 +66,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Webvr](htt
 
 By [Diego González](https://medium.com/@diekus) on [October 5, 2017](https://medium.com/p/3ab36d912657).
 
-[Canonical link](https://medium.com/@diekus/ava-a-webvr-archaeological-experience-3ab36d912657)
+[Read this article on Medium](https://medium.com/@diekus/ava-a-webvr-archaeological-experience-3ab36d912657)

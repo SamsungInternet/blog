@@ -34,4 +34,4 @@ Tagged in [Android](https://medium.com/tag/android), [Android App Development](h
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [December 5, 2016](https://medium.com/p/8563e4754b22).
 
-[Canonical link](https://medium.com/@poshaughnessy/custom-tabs-for-samsung-internet-8563e4754b22)
+[Read this article on Medium](https://medium.com/@poshaughnessy/custom-tabs-for-samsung-internet-8563e4754b22)

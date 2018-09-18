@@ -150,6 +150,6 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [React](htt
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [December 12, 2017](https://medium.com/p/50d733e6d867).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/raindrops-on-roses-whiskers-on-kittens-declarative-web-apis-and-truly-serverless-web-endpoints-50d733e6d867)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/raindrops-on-roses-whiskers-on-kittens-declarative-web-apis-and-truly-serverless-web-endpoints-50d733e6d867)
 
 Exported from [Medium](https://medium.com) on June 15, 2018.

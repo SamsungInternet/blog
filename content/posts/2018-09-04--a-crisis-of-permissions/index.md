@@ -107,4 +107,4 @@ The web needs to be naturally resistant to these kinds of abuse, harassment and 
 
 By Jo Franchetti on September 4, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/a-crisis-of-permissions-80cf3b2c802e)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/a-crisis-of-permissions-80cf3b2c802e)

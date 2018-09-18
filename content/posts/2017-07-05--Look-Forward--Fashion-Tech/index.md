@@ -73,4 +73,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Fashion](h
 
 By [Diego González](https://medium.com/@diekus) on [July 5, 2017](https://medium.com/p/b47a946ebcd1).
 
-[Canonical link](https://medium.com/@diekus/look-forward-fashion-tech-b47a946ebcd1)
+[Read this article on Medium](https://medium.com/@diekus/look-forward-fashion-tech-b47a946ebcd1)

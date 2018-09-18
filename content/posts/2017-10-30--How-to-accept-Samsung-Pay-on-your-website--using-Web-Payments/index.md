@@ -146,4 +146,4 @@ Tagged in [Web Payments](https://medium.com/tag/web-payments), [Samsung](https:/
 
 By [Winston Chen](https://medium.com/@winstonchen1337) on [October 30, 2017](https://medium.com/p/c2fcd4d26c02).
 
-[Canonical link](https://medium.com/@winstonchen1337/how-to-accept-samsung-pay-on-your-website-using-web-payments-c2fcd4d26c02)
+[Read this article on Medium](https://medium.com/@winstonchen1337/how-to-accept-samsung-pay-on-your-website-using-web-payments-c2fcd4d26c02)

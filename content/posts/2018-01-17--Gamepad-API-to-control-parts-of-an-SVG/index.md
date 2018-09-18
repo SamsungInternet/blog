@@ -99,4 +99,4 @@ Tagged in [SVG](https://medium.com/tag/svg)
 
 By [Diego González](https://medium.com/@diekus) on [January 17, 2018](https://medium.com/p/3f76892044f6).
 
-[Canonical link](https://medium.com/@diekus/gamepad-api-to-control-parts-of-an-svg-3f76892044f6)
+[Read this article on Medium](https://medium.com/@diekus/gamepad-api-to-control-parts-of-an-svg-3f76892044f6)

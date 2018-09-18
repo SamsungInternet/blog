@@ -89,4 +89,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Development](htt
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [August 30, 2016](https://medium.com/p/e0c2965945aa).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/a-frame-scene-to-equirectangular-image-e0c2965945aa)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/a-frame-scene-to-equirectangular-image-e0c2965945aa)

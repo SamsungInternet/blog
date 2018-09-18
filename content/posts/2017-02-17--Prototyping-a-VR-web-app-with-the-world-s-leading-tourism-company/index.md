@@ -44,4 +44,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Augmented 
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [February 17, 2017](https://medium.com/p/aa7965c5a563).
 
-[Canonical link](https://medium.com/@poshaughnessy/prototyping-a-vr-web-app-with-the-worlds-leading-tourism-company-aa7965c5a563)
+[Read this article on Medium](https://medium.com/@poshaughnessy/prototyping-a-vr-web-app-with-the-worlds-leading-tourism-company-aa7965c5a563)

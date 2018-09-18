@@ -56,4 +56,4 @@ Tagged in [Web](https://medium.com/tag/web), [Navegador](https://medium.com/tag/
 
 By [Diego González](https://medium.com/@diekus) on [November 28, 2016](https://medium.com/p/cc667ecc3e34).
 
-[Canonical link](https://medium.com/@diekus/muchos-navegadores-una-web-cc667ecc3e34)
+[Read this article on Medium](https://medium.com/@diekus/muchos-navegadores-una-web-cc667ecc3e34)

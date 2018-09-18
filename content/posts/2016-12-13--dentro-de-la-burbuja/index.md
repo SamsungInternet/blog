@@ -99,4 +99,4 @@ Imágen de prueba para bubble (Taller de WebVR, Londres, UK)
 
 By [Diego González](https://medium.com/@diekus) on [December 13, 2016](https://medium.com/p/5dc0358adeba).
 
-[Canonical link](https://medium.com/@diekus/dentro-de-la-burbuja-5dc0358adeba)
+[Read this article on Medium](https://medium.com/@diekus/dentro-de-la-burbuja-5dc0358adeba)

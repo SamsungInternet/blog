@@ -82,4 +82,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Samsung In
 
 By [Jungkee Song](https://medium.com/@jungkees) on [April 30, 2018](https://medium.com/p/3b3c362870dd).
 
-[Canonical link](https://medium.com/@jungkees/leaving-samsung-3b3c362870dd)
+[Read this article on Medium](https://medium.com/@jungkees/leaving-samsung-3b3c362870dd)

@@ -66,4 +66,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web Develo
 
 By [Diego González](https://medium.com/@diekus) on [March 29, 2017](https://medium.com/p/c1a3b45047f).
 
-[Canonical link](https://medium.com/@diekus/in-los-angeles-for-ieee-vr-and-las-vegas-at-unlv-c1a3b45047f)
+[Read this article on Medium](https://medium.com/@diekus/in-los-angeles-for-ieee-vr-and-las-vegas-at-unlv-c1a3b45047f)

@@ -132,4 +132,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [HTML](https://medium
 
 By [Peter-Paul Koch](https://medium.com/@pp.koch) on [May 9, 2017](https://medium.com/p/552c78f563b).
 
-[Canonical link](https://medium.com/@pp.koch/native-form-validation-part-2-552c78f563b)
+[Read this article on Medium](https://medium.com/@pp.koch/native-form-validation-part-2-552c78f563b)

@@ -106,4 +106,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Webvr](htt
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [August 15, 2016](https://medium.com/p/ced3ef17aaa).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/talking-about-vrtual-reality-in-the-web-and-a-frame-at-nineworlds-geekfest-ced3ef17aaa)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/talking-about-vrtual-reality-in-the-web-and-a-frame-at-nineworlds-geekfest-ced3ef17aaa)

@@ -154,4 +154,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Progressiv
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [October 11, 2017](https://medium.com/p/81e28ca9d2b1).
 
-[Canonical link](https://medium.com/@poshaughnessy/6-myths-of-progressive-web-apps-81e28ca9d2b1)
+[Read this article on Medium](https://medium.com/@poshaughnessy/6-myths-of-progressive-web-apps-81e28ca9d2b1)

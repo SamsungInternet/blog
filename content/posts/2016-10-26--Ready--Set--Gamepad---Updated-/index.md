@@ -130,4 +130,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Gamepad](h
 
 By [Diego González](https://medium.com/@diekus) on [October 26, 2016](https://medium.com/p/27ab8d1d25e6).
 
-[Canonical link](https://medium.com/@diekus/ready-set-gamepad-27ab8d1d25e6)
+[Read this article on Medium](https://medium.com/@diekus/ready-set-gamepad-27ab8d1d25e6)

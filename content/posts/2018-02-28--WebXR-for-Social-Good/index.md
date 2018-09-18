@@ -86,6 +86,6 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Social Cha
 
 By [Damon Hernandez](https://medium.com/@MetaverseOne) on [February 28, 2018](https://medium.com/p/c1bb01e6b9ec).
 
-[Canonical link](https://medium.com/@MetaverseOne/webxr-for-social-good-c1bb01e6b9ec)
+[Read this article on Medium](https://medium.com/@MetaverseOne/webxr-for-social-good-c1bb01e6b9ec)
 
 Exported from [Medium](https://medium.com) on June 15, 2018.

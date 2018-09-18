@@ -84,4 +84,4 @@ Tagged in [Tech](https://medium.com/tag/tech), [Community](https://medium.com/ta
 
 By [uve](https://medium.com/@uveavanto) on [July 28, 2017](https://medium.com/p/db8d57a3a460).
 
-[Canonical link](https://medium.com/@uveavanto/how-exclusive-tech-events-can-foster-an-inclusive-tech-community-db8d57a3a460)
+[Read this article on Medium](https://medium.com/@uveavanto/how-exclusive-tech-events-can-foster-an-inclusive-tech-community-db8d57a3a460)

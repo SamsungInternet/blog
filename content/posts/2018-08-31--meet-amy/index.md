@@ -71,4 +71,4 @@ That’s all for now! ✨ 👋
 
 By Amy Dickens on August 31, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/hello-samsung-internet-im-amy-nice-to-meet-you-904c64a8171e)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/hello-samsung-internet-im-amy-nice-to-meet-you-904c64a8171e)

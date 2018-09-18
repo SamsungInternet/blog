@@ -87,4 +87,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Responsive
 
 By [Peter-Paul Koch](https://medium.com/@pp.koch) on [February 22, 2017](https://medium.com/p/10abcc6c3769).
 
-[Canonical link](https://medium.com/@pp.koch/toolbars-keyboards-and-the-viewports-10abcc6c3769)
+[Read this article on Medium](https://medium.com/@pp.koch/toolbars-keyboards-and-the-viewports-10abcc6c3769)

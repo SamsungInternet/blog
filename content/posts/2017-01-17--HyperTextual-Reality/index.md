@@ -80,4 +80,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Webvr](htt
 
 By [Diego González](https://medium.com/@diekus) on [January 17, 2017](https://medium.com/p/3c375480e0d8).
 
-[Canonical link](https://medium.com/@diekus/hypertextual-reality-3c375480e0d8)
+[Read this article on Medium](https://medium.com/@diekus/hypertextual-reality-3c375480e0d8)

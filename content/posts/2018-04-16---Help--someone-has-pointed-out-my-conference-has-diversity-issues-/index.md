@@ -145,4 +145,4 @@ Tagged in [Diversity](https://medium.com/tag/diversity), [Tech](https://medium.c
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [April 16, 2018](https://medium.com/p/c1162a1e8d4c).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c)

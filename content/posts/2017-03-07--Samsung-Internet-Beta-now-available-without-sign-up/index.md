@@ -128,4 +128,4 @@ Tagged in [Mobile](https://medium.com/tag/mobile), [Web Development](https://med
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [March 7, 2017](https://medium.com/p/e0d5d4010838).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/samsung-internet-beta-now-available-without-sign-up-e0d5d4010838)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/samsung-internet-beta-now-available-without-sign-up-e0d5d4010838)

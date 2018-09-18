@@ -42,4 +42,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Mobile](ht
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [March 8, 2017](https://medium.com/p/ace43eb6b94d).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/what-does-it-mean-to-be-an-app-ace43eb6b94d)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/what-does-it-mean-to-be-an-app-ace43eb6b94d)

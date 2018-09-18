@@ -60,4 +60,4 @@ So stay tuned every week for the next several weeks as we release the video pres
 
 By Damon Hernandez on July 31, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/create-a-web-event-from-samsung-e69e7c23beb2)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/create-a-web-event-from-samsung-e69e7c23beb2)

@@ -62,4 +62,4 @@ Tagged in [Qr Code](https://medium.com/tag/qr-code), [Closeby](https://medium.co
 
 By [Winston Chen](https://medium.com/@winstonchen1337) on [June 7, 2017](https://medium.com/p/316b8f20609f).
 
-[Canonical link](https://medium.com/@winstonchen1337/bringing-ar-to-the-web-316b8f20609f)
+[Read this article on Medium](https://medium.com/@winstonchen1337/bringing-ar-to-the-web-316b8f20609f)

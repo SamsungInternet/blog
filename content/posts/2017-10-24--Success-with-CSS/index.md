@@ -140,4 +140,4 @@ Tagged in [CSS](https://medium.com/tag/css), [Css In Js](https://medium.com/tag/
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [October 24, 2017](https://medium.com/p/33215f481422).
 
-[Canonical link](https://medium.com/@jofranchetti/success-with-css-33215f481422)
+[Read this article on Medium](https://medium.com/@jofranchetti/success-with-css-33215f481422)

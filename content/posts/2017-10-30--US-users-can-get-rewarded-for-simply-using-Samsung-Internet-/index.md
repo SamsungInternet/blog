@@ -37,4 +37,4 @@ Tagged in [Mobile](https://medium.com/tag/mobile), [Samsung](https://medium.com/
 
 By [Mahesh Kulkarni](https://medium.com/@Maheshkk) on [October 30, 2017](https://medium.com/p/8bf4dabb244e).
 
-[Canonical link](https://medium.com/@Maheshkk/us-users-can-get-rewarded-for-simply-using-samsung-internet-8bf4dabb244e)
+[Read this article on Medium](https://medium.com/@Maheshkk/us-users-can-get-rewarded-for-simply-using-samsung-internet-8bf4dabb244e)

@@ -62,4 +62,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Dlna](http
 
 By [Diego González](https://medium.com/@diekus) on [February 12, 2018](https://medium.com/p/4a95f9b1605d).
 
-[Canonical link](https://medium.com/@diekus/dlna-comes-to-the-latest-version-of-samsung-internet-for-gear-vr-4a95f9b1605d)
+[Read this article on Medium](https://medium.com/@diekus/dlna-comes-to-the-latest-version-of-samsung-internet-for-gear-vr-4a95f9b1605d)

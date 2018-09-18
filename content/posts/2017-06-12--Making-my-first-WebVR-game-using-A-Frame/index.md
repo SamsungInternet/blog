@@ -55,4 +55,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Game Devel
 
 By [uve](https://medium.com/@uveavanto) on [June 12, 2017](https://medium.com/p/d8096bfca28).
 
-[Canonical link](https://medium.com/@uveavanto/making-my-first-webvr-game-using-a-frame-d8096bfca28)
+[Read this article on Medium](https://medium.com/@uveavanto/making-my-first-webvr-game-using-a-frame-d8096bfca28)

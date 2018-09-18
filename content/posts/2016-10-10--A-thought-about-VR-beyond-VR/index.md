@@ -66,4 +66,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Oculus Rif
 
 By [Diego González](https://medium.com/@diekus) on [October 10, 2016](https://medium.com/p/e570b9f661a6).
 
-[Canonical link](https://medium.com/@diekus/a-thought-about-vr-beyond-vr-e570b9f661a6)
+[Read this article on Medium](https://medium.com/@diekus/a-thought-about-vr-beyond-vr-e570b9f661a6)

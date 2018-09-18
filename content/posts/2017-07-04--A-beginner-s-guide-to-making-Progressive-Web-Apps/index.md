@@ -138,4 +138,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Pwa](https
 
 By [uve](https://medium.com/@uveavanto) on [July 4, 2017](https://medium.com/p/beb56224948e).
 
-[Canonical link](https://medium.com/@uveavanto/a-beginners-guide-to-making-progressive-web-apps-beb56224948e)
+[Read this article on Medium](https://medium.com/@uveavanto/a-beginners-guide-to-making-progressive-web-apps-beb56224948e)

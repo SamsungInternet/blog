@@ -173,4 +173,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Performance](https:/
 
 By [Winston Chen](https://medium.com/@winstonchen1337) on [May 2, 2018](https://medium.com/p/e07506fd5875).
 
-[Canonical link](https://medium.com/@winstonchen1337/performance-testing-web-assembly-vs-javascript-e07506fd5875)
+[Read this article on Medium](https://medium.com/@winstonchen1337/performance-testing-web-assembly-vs-javascript-e07506fd5875)

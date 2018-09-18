@@ -96,4 +96,4 @@ Tagged in [Android](https://medium.com/tag/android), [Samsung Galaxy](https://me
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [March 8, 2018](https://medium.com/p/52f1ce7145f6).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/new-samsung-internet-beta-introduces-protected-browsing-52f1ce7145f6)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/new-samsung-internet-beta-introduces-protected-browsing-52f1ce7145f6)

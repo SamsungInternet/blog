@@ -47,4 +47,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Progressiv
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [July 19, 2017](https://medium.com/p/823f212f57c9).
 
-[Canonical link](https://medium.com/@poshaughnessy/we-now-have-a-community-approved-progressive-web-apps-logo-823f212f57c9)
+[Read this article on Medium](https://medium.com/@poshaughnessy/we-now-have-a-community-approved-progressive-web-apps-logo-823f212f57c9)

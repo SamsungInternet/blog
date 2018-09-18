@@ -96,4 +96,4 @@ Tagged in [Payments](https://medium.com/tag/payments), [Ecommerce](https://mediu
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [December 23, 2016](https://medium.com/p/a523f6fc7c1f).
 
-[Canonical link](https://medium.com/@poshaughnessy/how-to-take-payments-on-the-web-with-the-payment-request-api-a523f6fc7c1f)
+[Read this article on Medium](https://medium.com/@poshaughnessy/how-to-take-payments-on-the-web-with-the-payment-request-api-a523f6fc7c1f)

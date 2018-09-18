@@ -131,4 +131,4 @@ Tagged in [Webgl](https://medium.com/tag/webgl), [Programming](https://medium.co
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [August 22, 2016](https://medium.com/p/3675d596a2d8).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/i-made-my-first-pr-to-a-frame-3675d596a2d8)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/i-made-my-first-pr-to-a-frame-3675d596a2d8)

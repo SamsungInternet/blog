@@ -170,4 +170,4 @@ Tagged in [Payments](https://medium.com/tag/payments), [Ecommerce Web Developmen
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [March 28, 2018](https://medium.com/p/b400d65d583e).
 
-[Canonical link](https://medium.com/@poshaughnessy/reducing-the-friction-of-online-payments-b400d65d583e)
+[Read this article on Medium](https://medium.com/@poshaughnessy/reducing-the-friction-of-online-payments-b400d65d583e)

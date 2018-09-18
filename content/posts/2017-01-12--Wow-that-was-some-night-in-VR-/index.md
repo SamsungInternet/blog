@@ -86,4 +86,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [JavaScript
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [January 12, 2017](https://medium.com/p/ba091be38794).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/wow-that-was-some-night-in-vr-ba091be38794)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/wow-that-was-some-night-in-vr-ba091be38794)

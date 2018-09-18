@@ -84,4 +84,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Web Browse
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [May 17, 2017](https://medium.com/p/fd941e0dcd58).
 
-[Canonical link](https://medium.com/@poshaughnessy/announcing-samsung-internet-v5-4-stable-fd941e0dcd58)
+[Read this article on Medium](https://medium.com/@poshaughnessy/announcing-samsung-internet-v5-4-stable-fd941e0dcd58)

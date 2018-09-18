@@ -142,4 +142,4 @@ Tagged in [Tech](https://medium.com/tag/tech), [Community](https://medium.com/ta
 
 By [uve](https://medium.com/@uveavanto) on [July 10, 2017](https://medium.com/p/e08ee73b4fa1).
 
-[Canonical link](https://medium.com/@uveavanto/creating-inclusive-tech-communities-e08ee73b4fa1)
+[Read this article on Medium](https://medium.com/@uveavanto/creating-inclusive-tech-communities-e08ee73b4fa1)

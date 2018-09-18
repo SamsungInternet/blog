@@ -126,4 +126,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Promises](https://me
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [March 21, 2018](https://medium.com/p/c91d454aea11).
 
-[Canonical link](https://medium.com/@jofranchetti/promises-promises-c91d454aea11)
+[Read this article on Medium](https://medium.com/@jofranchetti/promises-promises-c91d454aea11)

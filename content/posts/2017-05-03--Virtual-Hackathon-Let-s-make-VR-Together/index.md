@@ -130,4 +130,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Oculus Rif
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [May 3, 2017](https://medium.com/p/53f629552764).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/virtual-hackathon-lets-make-vr-together-53f629552764)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/virtual-hackathon-lets-make-vr-together-53f629552764)

@@ -67,4 +67,4 @@ Tagged in [Chromium](https://medium.com/tag/chromium), [Samsung](https://medium.
 
 By [AJITH KUMAR V](https://medium.com/@ajith211) on [October 9, 2017](https://medium.com/p/3a09077da7fb).
 
-[Canonical link](https://medium.com/@ajith211/smart-go-next-3a09077da7fb)
+[Read this article on Medium](https://medium.com/@ajith211/smart-go-next-3a09077da7fb)

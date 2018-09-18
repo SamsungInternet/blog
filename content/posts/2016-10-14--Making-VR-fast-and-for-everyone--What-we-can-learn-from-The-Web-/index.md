@@ -74,4 +74,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web Develo
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [October 14, 2016](https://medium.com/p/da4111a572b6).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/making-vr-fast-and-for-everyone-what-we-can-learn-from-the-web-da4111a572b6)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/making-vr-fast-and-for-everyone-what-we-can-learn-from-the-web-da4111a572b6)

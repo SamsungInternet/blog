@@ -28,4 +28,4 @@ Tagged in [Security](https://medium.com/tag/security), [Authentication](https://
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [August 5, 2016](https://medium.com/p/516b40063622).
 
-[Canonical link](https://medium.com/@torgo/iris-scanning-comes-to-the-web-516b40063622)
+[Read this article on Medium](https://medium.com/@torgo/iris-scanning-comes-to-the-web-516b40063622)

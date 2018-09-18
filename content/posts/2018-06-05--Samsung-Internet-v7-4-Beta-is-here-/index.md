@@ -91,4 +91,4 @@ Tagged in [Android](https://medium.com/tag/android), [Web](https://medium.com/ta
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [June 5, 2018](https://medium.com/p/bdbc9be9f102).
 
-[Canonical link](https://medium.com/@poshaughnessy/samsung-internet-v7-4-beta-is-here-bdbc9be9f102)
+[Read this article on Medium](https://medium.com/@poshaughnessy/samsung-internet-v7-4-beta-is-here-bdbc9be9f102)

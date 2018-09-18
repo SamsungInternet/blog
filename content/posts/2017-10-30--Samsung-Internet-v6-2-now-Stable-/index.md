@@ -95,4 +95,4 @@ Tagged in [Samsung Internet](https://medium.com/tag/samsung-internet), [Mobile W
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [October 30, 2017](https://medium.com/p/ab7f95ed8b4b).
 
-[Canonical link](https://medium.com/@jofranchetti/samsung-internet-v6-2-now-stable-ab7f95ed8b4b)
+[Read this article on Medium](https://medium.com/@jofranchetti/samsung-internet-v6-2-now-stable-ab7f95ed8b4b)

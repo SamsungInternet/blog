@@ -30,4 +30,4 @@ Tagged in [Community](https://medium.com/tag/community), [Browsers](https://medi
 
 By [Daniel Appelquist](https://medium.com/@torgo) on [June 28, 2017](https://medium.com/p/6440e0c8e543).
 
-[Canonical link](https://medium.com/@torgo/web-communities-for-the-people-6440e0c8e543)
+[Read this article on Medium](https://medium.com/@torgo/web-communities-for-the-people-6440e0c8e543)

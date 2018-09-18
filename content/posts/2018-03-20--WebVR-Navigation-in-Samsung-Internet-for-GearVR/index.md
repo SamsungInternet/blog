@@ -62,4 +62,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web Develo
 
 By [Winston Chen](https://medium.com/@winstonchen1337) on [March 20, 2018](https://medium.com/p/3fd88c91e0a6).
 
-[Canonical link](https://medium.com/@winstonchen1337/webvr-navigation-in-samsung-internet-for-gearvr-3fd88c91e0a6)
+[Read this article on Medium](https://medium.com/@winstonchen1337/webvr-navigation-in-samsung-internet-for-gearvr-3fd88c91e0a6)

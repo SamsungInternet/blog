@@ -104,4 +104,4 @@ Tagged in [Interview](https://medium.com/tag/interview), [Anxiety](https://mediu
 
 By [Jo Franchetti](https://medium.com/@jofranchetti) on [December 22, 2017](https://medium.com/p/85b1394e0d26).
 
-[Canonical link](https://medium.com/@jofranchetti/interviews-are-fun-i-promise-85b1394e0d26)
+[Read this article on Medium](https://medium.com/@jofranchetti/interviews-are-fun-i-promise-85b1394e0d26)

@@ -64,4 +64,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Tech](http
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [February 18, 2017](https://medium.com/p/bef9a3367e99).
 
-[Canonical link](https://medium.com/@poshaughnessy/4-ways-virtual-reality-can-now-step-up-and-help-the-world-bef9a3367e99)
+[Read this article on Medium](https://medium.com/@poshaughnessy/4-ways-virtual-reality-can-now-step-up-and-help-the-world-bef9a3367e99)

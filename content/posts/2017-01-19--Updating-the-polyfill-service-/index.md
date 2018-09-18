@@ -182,4 +182,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [ES6](https://medium.
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [January 19, 2017](https://medium.com/p/33453bf3a2d5).
 
-[Canonical link]a(https://medium.com/@Lady_Ada_King/updating-the-polyfill-service-33453bf3a2d5)
+[Read this article on Medium]a(https://medium.com/@Lady_Ada_King/updating-the-polyfill-service-33453bf3a2d5)

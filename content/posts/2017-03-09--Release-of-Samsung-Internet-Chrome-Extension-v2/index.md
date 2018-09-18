@@ -58,4 +58,4 @@ Tagged in [Chrome Extension](https://medium.com/tag/chrome-extension), [Samsung]
 
 By [Divjot Singh](https://medium.com/@bogas04) on [March 9, 2017](https://medium.com/p/644e7b97096e).
 
-[Canonical link](https://medium.com/@bogas04/release-of-samsung-internet-chrome-extension-v2-644e7b97096e)
+[Read this article on Medium](https://medium.com/@bogas04/release-of-samsung-internet-chrome-extension-v2-644e7b97096e)

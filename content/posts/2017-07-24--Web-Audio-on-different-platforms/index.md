@@ -144,4 +144,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Audio Api](https
 
 By [Diego González](https://medium.com/@diekus) on [July 24, 2017](https://medium.com/p/67fc9ffc2c4e).
 
-[Canonical link](https://medium.com/@diekus/web-audio-on-different-platforms-67fc9ffc2c4e)
+[Read this article on Medium](https://medium.com/@diekus/web-audio-on-different-platforms-67fc9ffc2c4e)

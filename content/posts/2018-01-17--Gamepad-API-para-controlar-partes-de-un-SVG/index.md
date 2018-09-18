@@ -99,5 +99,5 @@ Tagged in [SVG](https://medium.com/tag/svg), [Gamepad](https://medium.com/tag/ga
 
 By [Diego González](https://medium.com/@diekus) on [January 17, 2018](https://medium.com/p/99fd0b8cc139).
 
-[Canonical link](https://medium.com/@diekus/gamepad-api-para-controlar-partes-de-un-svg-99fd0b8cc139)
+[Read this article on Medium](https://medium.com/@diekus/gamepad-api-para-controlar-partes-de-un-svg-99fd0b8cc139)
 

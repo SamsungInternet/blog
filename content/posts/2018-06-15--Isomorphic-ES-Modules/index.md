@@ -330,4 +330,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Node](https://medium
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [June 15, 2018](https://medium.com/p/151f0d9a919b).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/isomorphic-es-modules-151f0d9a919b)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/isomorphic-es-modules-151f0d9a919b)

@@ -58,4 +58,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Browsers](
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [June 30, 2017](https://medium.com/p/910d1cbcdf3b).
 
-[Canonical link](https://medium.com/@poshaughnessy/because-browser-diversity-is-good-for-the-web-910d1cbcdf3b)
+[Read this article on Medium](https://medium.com/@poshaughnessy/because-browser-diversity-is-good-for-the-web-910d1cbcdf3b)

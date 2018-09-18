@@ -38,4 +38,4 @@ Let the savings begin!
 
 By Mahesh Kulkarni on September 12, 2018.
 
-[Canonical link](https://medium.com/samsung-internet-dev/introducing-quick-suggest-your-personal-shopping-assistant-from-samsung-internet-a0000bd94ad7)
+[Read this article on Medium](https://medium.com/samsung-internet-dev/introducing-quick-suggest-your-personal-shopping-assistant-from-samsung-internet-a0000bd94ad7)

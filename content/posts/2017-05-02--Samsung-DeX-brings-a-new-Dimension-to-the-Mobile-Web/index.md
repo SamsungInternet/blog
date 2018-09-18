@@ -86,4 +86,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Mobile](ht
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [May 2, 2017](https://medium.com/p/f80d7edcab29).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/samsung-dex-brings-a-new-dimension-to-the-mobile-web-f80d7edcab29)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/samsung-dex-brings-a-new-dimension-to-the-mobile-web-f80d7edcab29)

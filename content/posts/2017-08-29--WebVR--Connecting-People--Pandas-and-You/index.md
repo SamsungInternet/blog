@@ -213,4 +213,4 @@ Tagged in [Virtual Reality](https://medium.com/tag/virtual-reality), [Web Develo
 
 By [uve](https://medium.com/@uveavanto) on [August 29, 2017](https://medium.com/p/f867cc6829c6).
 
-[Canonical link](https://medium.com/@uveavanto/webvr-connecting-people-pandas-and-you-f867cc6829c6)
+[Read this article on Medium](https://medium.com/@uveavanto/webvr-connecting-people-pandas-and-you-f867cc6829c6)

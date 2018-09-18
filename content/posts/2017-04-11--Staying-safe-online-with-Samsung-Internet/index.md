@@ -34,4 +34,4 @@ Tagged in [Advertising](https://medium.com/tag/advertising), [Ad Blocking](https
 
 By [Ada Rose Cannon](https://medium.com/@Lady_Ada_King) on [April 11, 2017](https://medium.com/p/3941ffc72a00).
 
-[Canonical link](https://medium.com/@Lady_Ada_King/staying-safe-online-with-samsung-internet-3941ffc72a00)
+[Read this article on Medium](https://medium.com/@Lady_Ada_King/staying-safe-online-with-samsung-internet-3941ffc72a00)

@@ -196,4 +196,4 @@ Tagged in [JavaScript](https://medium.com/tag/javascript), [Web Development](htt
 
 By [Diego González](https://medium.com/@diekus) on [September 20, 2016](https://medium.com/p/f51a16bf5f40).
 
-[Canonical link](https://medium.com/@diekus/webvr-feasting-in-the-round-table-f51a16bf5f40)
+[Read this article on Medium](https://medium.com/@diekus/webvr-feasting-in-the-round-table-f51a16bf5f40)

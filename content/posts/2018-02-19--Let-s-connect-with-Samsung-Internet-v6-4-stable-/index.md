@@ -88,4 +88,4 @@ Tagged in [Web Development](https://medium.com/tag/web-development), [Web](https
 
 By [Peter O'Shaughnessy](https://medium.com/@poshaughnessy) on [February 19, 2018](https://medium.com/p/1f197d43a812).
 
-[Canonical link](https://medium.com/@poshaughnessy/lets-connect-with-samsung-internet-v6-4-stable-1f197d43a812)
+[Read this article on Medium](https://medium.com/@poshaughnessy/lets-connect-with-samsung-internet-v6-4-stable-1f197d43a812)
