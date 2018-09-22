@@ -10,7 +10,7 @@ type: team
   <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/torgo.jpg" alt="Daniel Appelquist"/> 
-  <p>Director of Web Advocacy and Open Source at Samsung Research UK. Dan is also co-chair of the <a href="http://w3.org/tag">Technical Architecture Group</a> at the W3C and sits on the <a href="https://www.gov.uk/government/groups/open-standards-board">Open Standards Board</a> for the UK Government. I live and breathe the open web.</p>
+  <p>Director of Web Advocacy and Open Source at Samsung Research UK. Dan is also co-chair of the <a href="https://w3.org/tag">Technical Architecture Group</a> at the W3C and sits on the <a href="https://www.gov.uk/government/groups/open-standards-board">Open Standards Board</a> for the UK Government. I live and breathe the open web.</p>
   <p class="profile-links"><a class="twitter" href="https://twitter.com/torgo">@torgo</a> <a class="mastodon" href="https://mastodon.social/@torgo">torgo@mastodon.social</a> <a class="medium" href="https://medium.com/@torgo">medium.com/@torgo</a> <a class="github" href="https://github.com/torgo">github.com/torgo</a></p> 
   <p class="tags"><span>#WebStandards</span> <span>#ProgressiveWebApps</span> <span>#OpenWeb</span> <span>#InternetPrivacy</span> <span>#DeveloperAdvocacy</span></p>
 </div> 
