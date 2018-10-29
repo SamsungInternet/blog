@@ -10,7 +10,7 @@ type: team
   <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/torgo.jpg" alt="Daniel Appelquist"/> 
-  <p>I am the director of Web Advocacy and Open Source at Samsung Research UK. I am also co-chair of the <a href="https://w3.org/tag">Technical Architecture Group</a> at the W3C and I am a member of the UK Government  <a href="https://www.gov.uk/government/groups/open-standards-board">Open Standards Board</a> and the <a href="https://developer.mozilla.org/en-US/docs/MDN/MDN_Product_Advisory_Board">MDN Product Advisory Board</a>. I live and breathe the open web.</p>
+  <p>Director of Web Advocacy and Open Source at Samsung Research UK. Co-chair of the <a href="https://w3.org/tag">Technical Architecture Group</a> at the W3C and a member of the UK Government  <a href="https://www.gov.uk/government/groups/open-standards-board">Open Standards Board</a> and the <a href="https://developer.mozilla.org/en-US/docs/MDN/MDN_Product_Advisory_Board">MDN Product Advisory Board</a>. Lives and breathes the open web.</p>
   <p class="profile-links"><a class="twitter" href="https://twitter.com/torgo">@torgo</a> <a class="mastodon" href="https://mastodon.social/@torgo">torgo@mastodon.social</a> <a class="medium" href="https://medium.com/@torgo">medium.com/@torgo</a> <a class="github" href="https://github.com/torgo">github.com/torgo</a></p> 
   <p class="tags"><span>#WebStandards</span> <span>#ProgressiveWebApps</span> <span>#OpenWeb</span> <span>#InternetPrivacy</span> <span>#DeveloperAdvocacy</span></p>
 </div> 
@@ -21,7 +21,7 @@ type: team
 <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/ada.jpg" alt="Ada Rose Cannon"/>
-  <p>Senior Engineer / Developer Advocate for Samsung Internet, Web Fangirl passionate about Web Performance, WebVR and Web Apps.</p>
+  <p>Senior Engineer / Developer Advocate <a href="https://twitter.com/samsunginternet">@SamsungInternet</a> Web Fangirl. Passionate about Web Performance, WebVR and Web Apps.</p>
   <p class="profile-links"><a class="home" href="https://ada.is/">ada.is</a> <a class="twitter" href="https://twitter.com/Lady_Ada_King">@Lady_Ada_King</a> <a class="medium" href="https://medium.com/@Lady_Ada_King">medium.com/@Lady_Ada_King</a> <a class="github" href="https://github.com/AdaRoseCannon">github.com/AdaRoseCannon</a></p>
   <p class="tags"><span>#WebVR</span> <span>#ProgressiveWebApps</span> <span>#WebPerformance</span></p>
 </div>
@@ -43,7 +43,7 @@ type: team
 <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/diego.jpg" alt="Diego González"/>
-  <p>I chat WebVR, UIs, tech, gadgets, cats and baby goats. Currently a <a href="https://twitter.com/samsunginternet">@SamsungInternet</a> advocate.</p>
+  <p>Developer Advocate <a href="https://twitter.com/samsunginternet">@SamsungInternet</a>. Talks about WebVR, UIs, tech, gadgets, cats and baby goats. </p>
   <p class="profile-links"><a class="home" href="https://diekus.net">diekus.net</a> <a class="twitter" href="https://twitter.com/diekus">@diekus</a> <a class="medium" href="https://medium.com/@diekus">medium.com/@diekus</a> <a class="github" href="https://github.com/diekus">github.com/diekus</a></p>
   <p class="tags"><span>#WebVR</span> <span>#WebAudio</span> <span>#BabyGoats</span></p>
 </div>
@@ -54,7 +54,7 @@ type: team
 <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/peter.jpg" alt="Peter O'Shaughnessy"/>
-  <p>Peter is a web developer who loves to explore up-and-coming Web APIs and share his enthusiasm for the open web and the future of browsers.</p>
+  <p>Developer Advocate <a href="https://twitter.com/samsunginternet">@SamsungInternet</a>. Web developer who loves to explore up-and-coming Web APIs and share his enthusiasm for the open web and the future of browsers.</p>
   <p class="profile-links"><a class="home" href="https://peteroshaughnessy.com">peteroshaughnessy.com</a> <a class="twitter" href="https://twitter.com/poshaughnessy">@poshaughnessy</a> <a class="medium" href="https://medium.com/@poshaughnessy">medium.com/@poshaughnessy</a> <a class="github" href="https://github.com/poshaughnessy">github.com/poshaughnessy</a></p>
   <p class="tags"><span>#WebPayments</span> <span>#WebBluetooth</span> <span>#ProgressiveWebApps</span></p>
 </div>
@@ -65,7 +65,7 @@ type: team
 <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/jo.jpg" alt="Jo Franchetti"/>
-  <p>Developer Advocate <a href="https://twitter.com/samsunginternet">@samsunginternet</a>, Front end developer, passionate about accessibility, performance and beautiful css. I am an organiser at <a href="https://twitter.com/codebar">@Codebar</a> and am dedicated to making the web and the tech industry a better, more inclusive, diverse place.</p>
+  <p>Developer Advocate <a href="https://twitter.com/samsunginternet">@samsunginternet</a>, Front end developer, passionate about accessibility, performance and beautiful css. Organiser at <a href="https://twitter.com/codebar">@Codebar</a> and dedicated to making the web and the tech industry a better, more inclusive, diverse place.</p>
   <p class="profile-links"><a class="twitter" href="https://twitter.com/thisisjofrank">@thisisjofrank</a> <a class="github" href="https://github.com/thisisjofrank">github.com/thisisjofrank</a>
   </p>
   <p class="tags"><span>#ProgressiveWebApps</span></p>
@@ -77,7 +77,7 @@ type: team
 <p class="location">Based in the UK</p>
 
   <img class="profile-img" src="/team/amy.jpg" alt="Amy Dickens"/>
-  <p>Developer Advocate Intern <a href="https://twitter.com/samsunginternet">@samsunginternet</a>, Developer in Training, User Experience researcher and Open Sourceress, cares about building usable tech that is accessible to everyone. I am a Campus Expert for <a href="https://education.github.com">GitHub</a> a founder of <a href="http://mykindof.tech">My Kind Of Tech</a> and can often be found tinkering with musical things like the <a href="http://mimugloves.com">mi.mu gloves</a>.</p> 
+  <p>Developer Advocate Intern <a href="https://twitter.com/samsunginternet">@samsunginternet</a>. Developer in training, user experience researcher and open sourceress, cares about building usable tech that is accessible to everyone. Field Expert for <a href="https://education.github.com">GitHub</a>, founder of <a href="http://mykindof.tech">My Kind Of Tech</a>. Often found tinkering with musical things - such as the<a href="http://mimugloves.com">mi.mu gloves</a>.</p> 
   <p class="profile-links"><a class="twitter" href="https://twitter.com/RedRoxProjects">@RedRoxProjects</a> <a class="github" href="https://github.com/RedRoxProjects">github.com/RedRoxProjects</a>
   </p>
   <p class="tags"><span>#Accessibility</span><span>#UserExeprience</span><span>#OpenSource</span></p>
