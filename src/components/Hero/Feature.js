@@ -11,7 +11,11 @@ const Feature = props => {
     <React.Fragment>
       <section className="feature">
         <a href={url}>
+<<<<<<< HEAD
           <img src={image} alt="An illustration of a webpage that has many pop-up windows"/>
+=======
+          <img src={image} alt="" />
+>>>>>>> 71ef24dcb8301d598179a87476753d680384652d
           <h2>{title}</h2>
           <Corner type="feature" icon="star" />
         </a>
