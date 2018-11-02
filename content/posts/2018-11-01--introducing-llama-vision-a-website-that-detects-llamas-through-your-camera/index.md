@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Introducing Llama Vision, a website that detects llamas through your camera"
 description: "A few months ago, I first tried out Tensorflow.js, the machine learning library for JavaScript. I took a pre-trained model I found called MobileNet and copied some of the example code. One of the lines said “replace this with your image”, but I thought I’d try it out on a video instead. I grabbed a Creative Commons video of some llamas and… I was astonished!"
-category: TensorFlow
+category: "Web Development"
 img: https://cdn-images-1.medium.com/max/1200/1*eMKq2EB1CZzA4SCMk6dZVw.jpeg
 author: Peter O'Shaughnessy
 authorImg: https://cdn-images-1.medium.com/fit/c/120/120/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg
@@ -11,13 +11,16 @@ tags: [TensorFlow, Web Development, Machine Learning, JavaScript, Llamas]
 
 # Introducing Llama Vision, a website that detects llamas through your camera
 
-a.k.a. How I got started using Tensorflow.js
+## a.k.a. How I got started using Tensorflow.js
 
 ![[https://llama.vision](https://llama.vision) (video shown in the background by [Karen Ihrig](https://vimeo.com/46661900))](https://cdn-images-1.medium.com/max/7116/1*eMKq2EB1CZzA4SCMk6dZVw.jpeg)*[https://llama.vision](https://llama.vision) (video shown in the background by [Karen Ihrig](https://vimeo.com/46661900))*
 
 A few months ago, I first tried out [Tensorflow.js](https://js.tensorflow.org/), the machine learning library for JavaScript. I took a pre-trained model I found called [MobileNet](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet) and copied some of the [example code](https://github.com/tensorflow/tfjs-models/blob/master/mobilenet/README.md#via-script-tag). One of the lines said *“replace this with your image”*, but I thought I’d try it out on a video instead. I grabbed a [Creative Commons video of some llamas](https://vimeo.com/46661900) and… I was astonished!
 
-<iframe src="https://medium.com/media/9ca2bed363745d11d6df8d1308e9051d" frameborder=0></iframe>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">OMG, just trying out TensorFlow.js for the first time and blown away that with just a few lines of code I can detect llamas in a video in realtime in the browser! 🦙 <a href="https://t.co/24i75RNhuc">pic.twitter.com/24i75RNhuc</a></p>&mdash; Peter O&#39;Shaughnessy (@poshaughnessy) <a href="https://twitter.com/poshaughnessy/status/1015176128460402689?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 It gave a probability of over 0.99999 that the video contained a llama. I figured that, to get that level of certainty, perhaps I had just happened to pick one of the exact videos used to train the model. I noticed that the model file was only 31KB. I opened it up and found that it contained a collection that looked like this:
 
@@ -33,7 +36,22 @@ Now I’ve added a simple user interface and hosted it up at [https://llama.visi
 
 The source code is [here on Github](https://github.com/poshaughnessy/llama-vision). The key piece of code is small and straightforward — Tensorflow and MobileNet do all the hard work for us:
 
-<iframe src="https://medium.com/media/5ef6d75b8c9cef10421af65aeac98df7" frameborder=0></iframe>
+```javascript
+// Load the prediction model
+mobilenet.load().then(model => {
+
+  // Now we can keep checking the camera feed at regular intervals, like this:
+  model.classify(video).then(predictions => {
+
+    const topResult = predictions[0];
+
+    if (topResult.className === 'llama') {
+      // Woo! Llama! NB. We can also get the confidence value from the `probability`
+      ...
+    }
+  });
+});
+```
 
 One thing to note is that in Android browsers I’ve tried other than Chrome, Tensorflow.js is giving a warning *“Extension WEBGL_lose_context not supported on this browser”* and the model takes a long time to load and calculate (I guess because it fails to use WebGL for better performance). Hopefully I’ll come across a solution for this soon.
 
