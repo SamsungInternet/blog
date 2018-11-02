@@ -8,6 +8,10 @@ If you spot any problems with our site please tell us about them using raising a
 
 There are some useful templates for reporting a bug or making a feature request. Please follow these when submitting your issue to us :sparkling_heart:.  
 
+## Importing Posts From Medium
+
+Paste `https://medium-to-gatsby.glitch.me/` before the medium URL, it will then provide a wizard to make a PR.
+
 # Making a contribution...
 
 Follow these instructions on how to get started with working on the samsunginter.net blog.
