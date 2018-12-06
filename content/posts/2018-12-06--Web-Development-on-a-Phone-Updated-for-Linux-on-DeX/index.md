@@ -3,7 +3,7 @@ cover: Untitled-12a71479-25be-4760-8091-8bac687ea14f.png
 title: Web Development on a Phone. Updated for Linux on DeX"
 description: "Last year I wrote about how you can use a phone for web development using an Android Linux Terminal, now it's possible to have full desktop linux on the phone, lets see how that changes things."
 category: Web Development
-img: debugging.png
+img: debug.svg
 author: Ada Rose Cannon
 authorImg: https://s.gravatar.com/avatar/540d78b76ce4ea7704f3715e3605f496?s=80&r=g
 tags: [Web Development, Linux, Android]
@@ -120,6 +120,9 @@ Here are the steps to do it:
 7. Open chrome and browse to `chrome://inspect` to inspect open browsers.
 
 It works really well with Samsung Internet running on the small phone screen and debugging it via Linux on DeX. It's a great experience to do responsive design for both mobile and desktop at the same time on one device!!
+
+
+![Samsung Internet on Phone Chrome Inspect on Desktop](debug.svg)
 
 ## Thanks
 
