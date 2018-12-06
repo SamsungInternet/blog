@@ -100,7 +100,7 @@ WebGL and Blender run pretty slow. Especially when comparing WebGL in Samsung In
 
 ## Gamepad
 
-In a related note, we tested the Gamepad API in Linux on DeX. It seems gamepads were not exposed. They could not be accessed in Linux on DeX but worked great in Samsung Internet for DeX. [This great article](https://medium.com/samsung-internet-dev/the-gamepad-reloaded-5ba866770003) by [@diekus](https://twitter.com/diekus) shows how different controllers get mapped in the browser.
+In a related note, we tested the Gamepad API in Linux on DeX. It seems gamepads were not exposed. They could not be accessed in Linux on DeX but worked great in Samsung Internet for DeX. [This article](https://medium.com/samsung-internet-dev/the-gamepad-reloaded-5ba866770003) by [@diekus](https://twitter.com/diekus) and I shows how different controllers get mapped in the browser.
 
 ## Debugging Samsung Internet on DeX from Chrome on Linux on DeX
 
