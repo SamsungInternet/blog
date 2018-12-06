@@ -1,4 +1,13 @@
-# Web Development on a Phone. Updated for Linux on DeX.
+---
+cover: Untitled-12a71479-25be-4760-8091-8bac687ea14f.png
+title: Web Development on a Phone. Updated for Linux on DeX"
+description: "Last year I wrote about how you can use a phone for web development using an Android Linux Terminal, now it's possible to have full desktop linux on the phone, lets see how that changes things."
+category: Web Development
+img: debugging.png
+author: Ada Rose Cannon
+authorImg: https://s.gravatar.com/avatar/540d78b76ce4ea7704f3715e3605f496?s=80&r=g
+tags: [Web Development, Linux, Android]
+---
 
 Last year I wrote about how you can use a phone for web development using an Android Linux Terminal and a simple editor I'd made as a [Progressive Web App](https://medium.com/samsung-internet-dev/writing-software-using-a-phone-e71976f1f18d). It worked pretty well but had some drawbacks, for example you couldn't debug Samsung Internet on the DeX you had to use an external laptop.
 
