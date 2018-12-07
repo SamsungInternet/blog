@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Happy Hacktoberfest from Samsung Internet🎃 👻 💻"
 description: "Can you believe that it is nearly October already?! I know we’d all love time to slow down but I’m pretty hyped for October & here’s why…"
-category: Open Source
+category: "Communities"
 img: https://cdn-images-1.medium.com/max/1200/1*94ccRJoDD-J4V6AtzpOawg.jpeg
 author: Amy Dickens
 authorImg: https://cdn-images-1.medium.com/fit/c/120/120/1*xKB5k6ire8_BjCk0u9afRg.jpeg

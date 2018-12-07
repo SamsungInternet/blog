@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "👉 Are you accessible? 👈 — A Primer on Web Accessibility"
 description: "Accessibility of the world wide web hasn’t always been a number one priority for web developers (much to detriment of internet users). Whilst very few people set out to design a website that is inaccessible, many studies have documented partially or completely inaccessible websites [1]."
-category: Accessibility
+category: "Web Development"
 img: https://cdn-images-1.medium.com/max/1200/1*KypOXAGc4CRddmadANxOaQ.jpeg
 author: Amy Dickens
 authorImg: https://cdn-images-1.medium.com/fit/c/120/120/1*xKB5k6ire8_BjCk0u9afRg.jpeg
