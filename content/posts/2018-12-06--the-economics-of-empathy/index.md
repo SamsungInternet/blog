@@ -2,10 +2,10 @@
 cover: img.jpg
 title: "The Economics of Empathy"
 description: "A short while ago I sent out a tweet saying that in order to remain relevant as software engineers then we needed to focus on our skills of empathy, cognitive diversity and self-care."
-category: Empathy
+category: "Web Development"
 img: https://cdn-images-1.medium.com/max/1200/1*1j-Jkox9Rvqfd2Eay61dNg.png
 author: Jo Franchetti
-authorImg: undefined
+authorImg: https://miro.medium.com/fit/c/240/240/1*Z3jj0qvOata1z4xlJPSqOA.jpeg
 tags: [Empathy, Web Development, Self Care, Cognitive Diversity, Tech Industry]
 ---
 
@@ -15,7 +15,9 @@ All I need to be a software developer is coding skills, right?!
 
 A short while ago I sent out a tweet saying that in order to remain relevant as software engineers then we needed to focus on our skills of empathy, cognitive diversity and self-care.
 
-<iframe src="https://medium.com/media/2d1d76aae69700115e1b89360d9d104b" frameborder=0></iframe>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You want to stay relevant as a software developer for the next 10 years?<br><br>These are 3 major things you should focus on:<br><br>Empathy<br>Cognitive diversity<br>Self care <a href="https://t.co/j17ue24hVo">https://t.co/j17ue24hVo</a></p>&mdash; @thisisjofrank@mastodon.technology (@ThisIsJoFrank) <a href="https://twitter.com/ThisIsJoFrank/status/1064290764333744139?ref_src=twsrc%5Etfw">November 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 I’d like to expand a little upon my thoughts behind this tweet and explain why, as some of the replies assumed, it isn’t all “airy fairy cotton candy wishes”.
 

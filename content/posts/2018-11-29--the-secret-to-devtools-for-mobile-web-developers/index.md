@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "The “Secret” to DevTools for Mobile Web developers"
 description: "A special guest post from Samsung Internet engineering group team member, Adil!"
-category: JavaScript
+category: "Web Development"
 img: https://cdn-images-1.medium.com/max/1200/1*Nqo4AywwVNvZNWSsBHpB8g.png
 author: Adil Aliyev
 authorImg: https://cdn-images-1.medium.com/fit/c/120/120/0*KKBun-2tis_5T1XA.jpg

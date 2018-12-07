@@ -3,15 +3,15 @@ import Corner from "../../layouts/corner";
 
 const Feature = props => {
 
-  const title = "A Crisis of Permissions";
-  const image = "https://cdn-images-1.medium.com/max/1000/1*k7jyt8okLpikXnuh09nq7A.png";
-  const url = "/a-crisis-of-permissions/";
+  const title = "The Economics of Empathy";
+  const image = "https://cdn-images-1.medium.com/max/2000/1*1j-Jkox9Rvqfd2Eay61dNg.png";
+  const url = "/the-economics-of-empathy/";
 
   return (
     <React.Fragment>
       <section className="feature">
         <a href={url}>
-          <img src={image} alt="An illustration of a webpage with multiple pop-up windows"/>
+          <img src={image} alt="An illustration of three Eddison Lightbulbs with faces"/>
           <h2>{title}</h2>
           <Corner type="feature" icon="star" />
         </a>
@@ -48,6 +48,7 @@ const Feature = props => {
           width: 100%;
           height: 100%;
           object-fit: cover;
+          background-color: white;
         }
 
         .corner {
