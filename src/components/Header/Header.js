@@ -40,7 +40,7 @@ class Header extends React.Component {
           <Link to="/" className="logo-link">
             <img className="logo-img" src={avatar} alt={config.siteTitle} />
           </Link>
-            <h2>Developer Hub</h2>
+            <h1>Developer Hub</h1>
           <FontLoadedContext.Consumer>
             {loaded => (
               <ScreenWidthContext.Consumer>
@@ -84,11 +84,6 @@ class Header extends React.Component {
           }
 
           h1 {
-            font-size: ${theme.font.size.m};
-            margin: ${theme.space.stack.xs};
-          }
-
-          h2 {
             width: max-content;
             text-align: right;
             font-size: 6vw;
@@ -136,7 +131,7 @@ class Header extends React.Component {
                 height: 100px;
               }
             }
-            h2 {
+            h1 {
               font-size: 32px;
             }
             :global(.logo-link) {
@@ -151,10 +146,8 @@ class Header extends React.Component {
               }
 
               :global(a.logo-link),
+             
               h1 {
-                color: ${theme.color.neutral.white};
-              }
-              h2 {
                 color: ${theme.color.neutral.white};
               }
             }
@@ -181,20 +174,14 @@ class Header extends React.Component {
                 background-image: url(${Bg});
 
                 h1 {
-                  margin: ${theme.space.stack.xxs};
-                }
-
-                h2 {
                   display: none;
                 }
               }
 
               &.homepage:not(.fixed) {
                 :global(a.logo-link),
+
                 h1 {
-                  color: ${theme.color.neutral.white};
-                }
-                h2 {
                   color: ${theme.color.neutral.gray.d};
                 }
                 
@@ -218,7 +205,7 @@ class Header extends React.Component {
               }
             }
 
-            h2 {
+            h1 {
               animation-duration: ${theme.time.duration.default};
               animation-name: h2Entry;
             }
