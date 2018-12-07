@@ -49,17 +49,6 @@ type: team
 </div>
 
 <div class="profile">
-  <h2>Peter O'Shaughnessy</h2>
-
-<p class="location">Based in the UK</p>
-
-  <img class="profile-img" src="/team/peter.jpg" alt="Peter O'Shaughnessy"/>
-  <p>Developer Advocate <a href="https://twitter.com/samsunginternet">@SamsungInternet</a>. Web developer who loves to explore up-and-coming Web APIs and share his enthusiasm for the open web and the future of browsers.</p>
-  <p class="profile-links"><a class="home" href="https://peteroshaughnessy.com">peteroshaughnessy.com</a> <a class="twitter" href="https://twitter.com/poshaughnessy">@poshaughnessy</a> <a class="medium" href="https://medium.com/@poshaughnessy">medium.com/@poshaughnessy</a> <a class="github" href="https://github.com/poshaughnessy">github.com/poshaughnessy</a></p>
-  <p class="tags"><span>#WebPayments</span> <span>#WebBluetooth</span> <span>#ProgressiveWebApps</span></p>
-</div>
-
-<div class="profile">
   <h2>Jo Franchetti</h2>
 
 <p class="location">Based in the UK</p>
