@@ -47,6 +47,7 @@ type: pages
         <li><a href="https://medium.com/samsung-internet-dev/introducing-samsung-internet-for-developers-6c3a3be42f72">Introducing Samsung Internet for developers</a></li>
         <li><a href="https://medium.com/samsung-internet-dev/think-you-know-the-top-web-browsers-458a0a070175">Think you know the top web browsers?</a></li>
         <li><a href="https://medium.com/samsung-internet-dev/because-browser-diversity-is-good-for-the-web-910d1cbcdf3b">Because browser diversity is good for the web</a></li>
+        <li><a href="/diversity-inclusion-statement">Our diversity & inclusion statement for participation in and sponsorship of events</a></li>
       </ul>
     </aside>
   </div>
