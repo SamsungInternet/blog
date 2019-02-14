@@ -5,7 +5,7 @@ description: "Ever feel like you live in a terminal?"
 category: Terminal
 img: https://cdn-images-1.medium.com/max/1200/0*1t4HX79oa6-UpZRX
 author: Ada Rose Cannon
-authorImg: undefined
+authorImg: https://avatars3.githubusercontent.com/u/4225330?s=88&v=4
 tags: [Terminal, Bash, Development, Developer Tools, Linux]
 ---
 
