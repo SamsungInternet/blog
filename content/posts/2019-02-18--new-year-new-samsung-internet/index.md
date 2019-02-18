@@ -13,7 +13,7 @@ tags: [Mobile Web, Browsers, Samsung, Antitracking]
 
 Planet Web: Beta 9.2 introduces our spiffy new branding.
 
-We’re excited to be rolling out a big update to our Samsung Internet Beta channel. Along with updating our engine to Chromium 67, our new 9.2 Beta will be the first to feature the **OneUI** design language. Announced at last year’s Samsung Developer Conference, OneUI is a [new smartphone UI](https://www.samsung.com/global/galaxy/apps/one-ui/) that puts a focus on ease of use. As part of the move to OneUI, Samsung Internet is also updating its brand and icon, and these changes will be rolling out slowly wherever you see the Samsung Internet brand. The new icon fits together with the other Samsung OneUI app icons but also maintains our brand consistency.
+We’re excited to be rolling out a big update to our [Samsung Internet Beta](http://galaxy.store/internetbeta) channel. Along with updating our engine to Chromium 67, our new 9.2 Beta will be the first to feature the **OneUI** design language. Announced at last year’s Samsung Developer Conference, OneUI is a [new smartphone UI](https://www.samsung.com/global/galaxy/apps/one-ui/) that puts a focus on ease of use. As part of the move to OneUI, Samsung Internet is also updating its brand and icon, and these changes will be rolling out slowly wherever you see the Samsung Internet brand. The new icon fits together with the other Samsung OneUI app icons but also maintains our brand consistency.
 
 The new UI shifts a lot of the user-accessible menus and functions to the bottom of the screen, making them more convenient for one-handed operation. There’s also compatibility with the very anticipated “**Night mode**”, which sets the UI on the system wide apps to a dark theme. You can see the updated UI below!
 
@@ -38,6 +38,8 @@ Currently you can activate Smart Anti-Tracking via the settings menu:
 *Settings *➡️*Privacy and Security *➡️*Smart anti-tracking.*
 
 We’re also keeping our industry-leading content blocking extension framework as well so you can still download and enable extensions such as Disconnect.me, Adblock Fast and Adblock Plus via the add-ons menu.
+
+You can download this new beta [here,](http://galaxy.stire/internetbeta) and let us know what you think!
 
 
 
