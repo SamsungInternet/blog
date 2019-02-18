@@ -39,7 +39,7 @@ Currently you can activate Smart Anti-Tracking via the settings menu:
 
 We’re also keeping our industry-leading content blocking extension framework as well so you can still download and enable extensions such as Disconnect.me, Adblock Fast and Adblock Plus via the add-ons menu.
 
-You can download this new beta [here,](http://galaxy.stire/internetbeta) and let us know what you think!
+You can download this new beta [here,](http://galaxy.store/internetbeta) and let us know what you think!
 
 
 
