@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Introducing News Push, the first of our news offerings"
 description: "News Push, Be the First to Know"
-category: Browser Features
+category: "Browser Features"
 img: img.jpeg
 author: Ren Bitonio
 authorImg: https://miro.medium.com/fit/c/240/240/0*P9ZevJQCRUdWYccM
