@@ -2,8 +2,8 @@
 cover: img.jpg
 title: "Ups and Downs of the Web 2018 (Unfiltered)"
 description: "We do a lot of thinking about the web in the Samsung Internet developer advocacy team. And it’s not an understatement that every member of the team has strong opinions about something. Holding strong opinions about the web is kind a prerequisite for this job. So I asked members of the team to come up with some positives and negatives for 2018 and some of the thinking that will be driving our work for next year."
-category: Web Standards
-img: https://cdn-images-1.medium.com/max/1200/1*U3iVqPTM-u8AsyfTKjphug.png
+category: Web Development
+img: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 author: Daniel Appelquist
 authorImg: undefined
 tags: [Web Standards, Immersive Web, Ethics, Mobile Web Development, Progressive Web App]

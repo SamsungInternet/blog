@@ -2,8 +2,8 @@
 cover: img.jpg
 title: "8.2 Stable Release is out the Door"
 description: "We’ve been testing and refining the 8.2 release of Samsung Internet since September and now we’re happy to report that this upgrade is rolling out across all Android installations."
-category: Samsung Internet
-img: https://cdn-images-1.medium.com/max/1200/1*-bUPGU4_hJb2fOkRBJw7BQ.jpeg
+category: Browser Features
+img: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 author: Daniel Appelquist
 authorImg: undefined
 tags: [Samsung Internet, Mobile Web, Android, Bixby, Chromium]

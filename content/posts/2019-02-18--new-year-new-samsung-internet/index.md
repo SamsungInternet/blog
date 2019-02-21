@@ -2,11 +2,11 @@
 cover: img.jpg
 title: "New Year, New Samsung Internet"
 description: "We’re excited to be rolling out a big update to our Samsung Internet Beta channel. Along with updating our engine to Chromium 67, our new 9.2 Beta will be the first to feature the OneUI design language. Announced at last year’s Samsung Developer Conference, OneUI is a new smartphone UI that puts a focus on ease of use. As part of the move to OneUI, Samsung Internet is also updating its brand and icon, and these changes will be rolling out slowly wherever you see the Samsung Internet brand. The new icon fits together with the other Samsung OneUI app icons but also maintains our brand consistency."
-category: Mobile Web
-img: https://cdn-images-1.medium.com/max/1200/1*V108zR40jhDEXcIrJ3xN_Q.jpeg
+category: Browser Features
+img: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 author: Daniel Appelquist
 authorImg: undefined
-tags: [Mobile Web, Browsers, Samsung, Antitracking]
+tags: [Browser Features, Mobile Web, Browsers, Samsung, Antitracking]
 ---
 
 # New Year, New Samsung Internet
