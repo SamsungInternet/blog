@@ -5,7 +5,7 @@ description: "We do a lot of thinking about the web in the Samsung Internet deve
 category: "Communities"
 img: https://cdn-images-1.medium.com/max/1200/1*U3iVqPTM-u8AsyfTKjphug.png
 author: Daniel Appelquist
-authorImg: undefined
+authorImg: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 tags: [Web Standards, Immersive Web, Ethics, Mobile Web Development, Progressive Web App]
 ---
 

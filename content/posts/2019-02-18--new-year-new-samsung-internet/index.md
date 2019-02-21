@@ -5,7 +5,7 @@ description: "We’re excited to be rolling out a big update to our Samsung Inte
 category: "Browser Features"
 img: https://cdn-images-1.medium.com/max/1200/1*V108zR40jhDEXcIrJ3xN_Q.jpeg
 author: Daniel Appelquist
-authorImg: undefined
+authorImg: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 tags: [Mobile Web, Browsers, Samsung, Antitracking]
 ---
 
