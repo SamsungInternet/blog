@@ -1,6 +1,6 @@
 ---
 title: Augmented World Event 2017
-category: ""
+category: "Immersive Web"
 cover: img.jpg
 author: Damon Hernandez
 authorImg: /team/damon.jpg

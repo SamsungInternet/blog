@@ -1,6 +1,6 @@
 ---
 title: A thought about VR beyond VR
-category: ""
+category: "Immersive Web"
 cover: img.jpg
 author: Diego González
 authorImg: https://miro.medium.com/fit/c/240/240/1*3Xf5XjVdx87HHxiRKY8X1Q.jpeg

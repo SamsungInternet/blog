@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Hello Samsung Internet — I’m Amy, Nice to Meet you 👋"
 description: "This is my first week at Samsung; I’ve done my induction, been shown the fire exits and been given a desk — it’s official! I’m joining the Samsung Internet Web Developer Advocacy team for a six month internship and cannot wait to get started in my first “tech” industry role. 💻"
-category: Web Development
+category: "Communities"
 img: img.jpeg
 author: Amy Dickens
 authorImg: https://miro.medium.com/fit/c/240/240/1*xKB5k6ire8_BjCk0u9afRg.jpeg

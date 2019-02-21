@@ -1,6 +1,6 @@
 ---
 title: Talking about Virtual Reality in the web and A-Frame at Nineworlds Geekfest
-category: ""
+category: "Immersive Web"
 cover: img.png
 author: Ada Rose Cannon
 authorImg: https://miro.medium.com/fit/c/240/240/1*Dn8pr_cbYLtc_KfmUNhnBA.png

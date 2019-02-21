@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Ups and Downs of the Web 2018 (Unfiltered)"
 description: "We do a lot of thinking about the web in the Samsung Internet developer advocacy team. And it’s not an understatement that every member of the team has strong opinions about something. Holding strong opinions about the web is kind a prerequisite for this job. So I asked members of the team to come up with some positives and negatives for 2018 and some of the thinking that will be driving our work for next year."
-category: Web Standards
+category: "Communities"
 img: https://cdn-images-1.medium.com/max/1200/1*U3iVqPTM-u8AsyfTKjphug.png
 author: Daniel Appelquist
 authorImg: undefined

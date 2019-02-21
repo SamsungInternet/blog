@@ -1,6 +1,6 @@
 ---
 title: 4 ways Virtual Reality can now step up and help the world
-category: ""
+category: "Immersive Web"
 cover: img.jpg
 author: Peter O'Shaughnessy
 authorImg: https://miro.medium.com/fit/c/240/240/1*ky-noIIf_ZZIoGDsvfW3AA.jpeg

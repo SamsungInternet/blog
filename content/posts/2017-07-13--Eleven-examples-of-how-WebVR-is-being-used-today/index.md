@@ -1,6 +1,6 @@
 ---
 title: Eleven examples of how WebVR is being used today
-category: ""
+category: "Immersive Web"
 cover: img.jpg
 author: uve
 authorImg: https://miro.medium.com/fit/c/240/240/1*TPm8qJgZ_qpnl4XDOufR4Q.jpeg

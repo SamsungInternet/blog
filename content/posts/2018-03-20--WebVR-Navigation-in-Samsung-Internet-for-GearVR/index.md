@@ -1,6 +1,6 @@
 ---
 title: WebVR Navigation in Samsung Internet for GearVR
-category: ""
+category: "Immersive Web"
 cover: img.jpg
 author: Winston Chen
 authorImg: https://miro.medium.com/fit/c/240/240/1*XJ8E-BWim09Gjsr7MckJSQ.jpeg
