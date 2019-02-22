@@ -22,7 +22,6 @@ Add the correct url for your medium avatar to 'authorImg' and ensure that your p
 * Web Performance
 * IOT
 
-
 # Making a contribution...
 
 Follow these instructions on how to get started with working on the samsunginter.net blog.
@@ -63,6 +62,14 @@ gatsby build
 ```
 
 to create static site ready to host (/public).
+
+## Updating the Featured Article
+
+The featured article is inside the following directory:
+
+src > components > Hero > Feature.js
+
+It is a react component with three variables, `title`, `image` and `url`. Update these with the relevant information and commit your changes.
 
 ##### External services
 
