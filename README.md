@@ -81,7 +81,7 @@ root
   ├── src
   └── static
 
-###Content
+### Content
 
 The content folder contains four subfolders.
 
@@ -92,10 +92,10 @@ root
   │   ├── parts
   │   └── posts
   
-####Meta
+#### Meta
 There is a config.js file inside the /content/meta/ folder, this contains data about the setup of the blog.
 
-####Posts
+#### Posts
 Every blog post has its own folder.
 
 root
@@ -114,7 +114,7 @@ a separator -- (two dashes)
 a slug
 Only posts inside properly named folders are displayed on the blog post list.
 
-####Pages
+#### Pages
 Every page has its own folder.
 
 root
@@ -135,7 +135,7 @@ a separator -- (two dashes)
 a slug
 Only pages inside folders with a number prefix are displayed in the navigation. Pages without will be linkable but will not appear in the navigation
 
-####Parts
+#### Parts
 These are the constituent parts of the blog’s layout. Edit these to add information about Samsung Internet or to add a footer to the blog posts.
 
 root
