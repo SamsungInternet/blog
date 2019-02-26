@@ -74,7 +74,7 @@ It is a react component with three variables, `title`, `image` and `url`. Update
 ## Folders structure
 This is the starter’s main folders structure.
 
-root
+root  
   ├── .cache  
   ├── content  
   ├── node_modules  
@@ -85,7 +85,7 @@ root
 
 The content folder contains four subfolders.
 
-root
+root  
   ├── content  
   │   ├── meta  
   │   ├── pages  
@@ -98,7 +98,7 @@ There is a config.js file inside the /content/meta/ folder, this contains data a
 #### Posts
 Every blog post has its own folder.
 
-root
+root  
   ├── content  
   │   ├── posts  
   │   │   ├── 2017-10-01--two-things-are-infinite  
