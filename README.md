@@ -71,17 +71,89 @@ src > components > Hero > Feature.js
 
 It is a react component with three variables, `title`, `image` and `url`. Update these with the relevant information and commit your changes.
 
-##### External services
+## Folders structure
+This is the starter’s main folders structure.
 
-The blog uses external services for some functions: comments, analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal blog.
+root  
+  ├── .cache  
+  ├── content  
+  ├── node_modules  
+  ├── src  
+  └── static  
 
-Create an `.env` file like below in the root folder. Change `...` placeholders with real data.
+### Content
 
-```text
-GOOGLE_ANALYTICS_ID=...
-FB_APP_ID=...
-```
+The content folder contains four subfolders.
 
-### Some useful instructions & tutorials on the Gatsby Blog
+root  
+  ├── content  
+  │   ├── meta  
+  │   ├── pages  
+  │   ├── parts  
+  │   └── posts  
+  
+#### Meta
+There is a config.js file inside the /content/meta/ folder, this contains data about the setup of the blog.
+
+#### Posts
+Every blog post has its own folder.
+
+root  
+  ├── content  
+  │   ├── posts  
+  │   │   ├── 2017-10-01--two-things-are-infinite  
+  │   │   ├── 2017-10-03--be-who-you-are  
+  │   │   ├── 2017-10-05--you-only-live-once  
+  
+When you change or add new post, remeber to keep up with the post folder name pattern (this is done for us by the glitch-medium tool)
+
+/YYYY-MM-DD--title-of-post/  
+There are three obligatory parts:
+
+a post date prefix YYYY-MM-DD,  
+a separator -- (two dashes)  
+a slug  
+Only posts inside properly named folders are displayed on the blog post list.  
+
+#### Pages
+Every page has its own folder.
+
+root  
+  ├── content  
+  │   ├── pages  
+  │   │   ├── 1--about  
+  │   │   ├── 2--Docs  
+  │   │   ├── 3--meet-the-team  
+  │   │   ├── diversity-inclusion-statement  
+  │   │   └── success  
+  
+When you change or add new page, remember to properly use the page folder name pattern.
+
+/number--title/  
+There are three parts.
+
+a page order number prefix No (one or more digit)  
+a separator -- (two dashes)  
+a slug  
+Only pages inside folders with a number prefix are displayed in the navigation. Pages without will be linkable but will not appear in the navigation
+
+#### Parts
+These are the constituent parts of the blog’s layout. Edit these to add information about Samsung Internet or to add a footer to the blog posts.
+
+root  
+  ├── content  
+  │   ├── parts  
+  │   │   ├── author.md  
+  │   │   └── footnote.md  
+
+### Node Modules
+This contains all of the installed packages.
+
+### Src
+This contains the components, templates and theming of the blog. If you need to edit the markup or styling of a component, you will find it in here. 
+
+Each component contains its own CSS. Try to keep the CSS selectors as un-specific as possible when adding styles. Use an element selector or a class if you can. 
+
+## Some useful instructions & tutorials on the Gatsby Blog
 
 * [How to install, setup and add new content to a Blog starter](https://dev.greglobinski.com/install-blog-starter/)
