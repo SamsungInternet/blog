@@ -12,7 +12,7 @@ There are some useful templates for reporting a bug or making a feature request.
 
 Paste `https://medium-to-gatsby.glitch.me/` before the medium URL, it will then provide a wizard to make a PR.
 
-Add the correct url for your medium avatar to 'authorImg' and ensure that your post has one of the following categories:
+Add the correct url for your medium avatar to the 'authorImg' variable in the markdown header and ensure that your post has one of the following categories:
 * Web Development
 * Immersive Web
 * Communities
