@@ -104,6 +104,7 @@ root
   │   │   ├── 2017-10-01--two-things-are-infinite  
   │   │   ├── 2017-10-03--be-who-you-are  
   │   │   ├── 2017-10-05--you-only-live-once  
+  
 When you change or add new post, remeber to keep up with the post folder name pattern (this is done for us by the glitch-medium tool)
 
 /YYYY-MM-DD--title-of-post/  
@@ -125,6 +126,7 @@ root
   │   │   ├── 3--meet-the-team  
   │   │   ├── diversity-inclusion-statement  
   │   │   └── success  
+  
 When you change or add new page, remember to properly use the page folder name pattern.
 
 /number--title/  
