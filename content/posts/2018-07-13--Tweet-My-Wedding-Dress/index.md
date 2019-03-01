@@ -6,7 +6,7 @@ category: Web Development
 img: img.jpeg
 author: Jo Franchetti
 authorImg: https://miro.medium.com/fit/c/240/240/1*Z3jj0qvOata1z4xlJPSqOA.jpeg
-tags: [IoT, JavaScript]
+tags: [IoT, WoT, JavaScript]
 ---
 
 # Tweet My Wedding Dress
