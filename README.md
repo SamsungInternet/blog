@@ -20,7 +20,7 @@ Add the correct url for your medium avatar to the 'authorImg' variable in the ma
 * Web APIs
 * PWA
 * Web Performance
-* IOT
+* WoT
 
 # Making a contribution...
 
