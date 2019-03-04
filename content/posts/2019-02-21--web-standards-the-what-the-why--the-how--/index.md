@@ -5,7 +5,7 @@ description: "This article was featured in Smashing Magazine on the 14th January
 category: Web Development
 img: https://cdn-images-1.medium.com/max/1200/1*YtyzxRzFQVsy4kPL463v8g.png
 author: Amy Dickens
-authorImg: undefined
+authorImg: https://cdn-images-1.medium.com/fit/c/120/120/1*xKB5k6ire8_BjCk0u9afRg.jpeg
 tags: [Web Development, Accessibility, Web Standards]
 ---
 
