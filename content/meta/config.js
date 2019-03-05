@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "Samsung Internet Dev Hub - Resources for developers", // <title> ending for posts and pages
   siteDescription: "Samsung Internet Dev Hub, blog, resources, demos and documentation",
   siteUrl: "https://samsunginter.net",
-  pathPrefix: " ",
+  pathPrefix: "",
   siteImage: "/icons/icon.png",
   siteLanguage: "en",
   // author
