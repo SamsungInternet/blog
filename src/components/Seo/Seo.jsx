@@ -26,7 +26,7 @@ const Seo = props => {
       <title>{title}</title>
       <meta name="description" content={description} />
       {/* OpenGraph tags */}
-      <meta property="og:url" content={url} />
+      <meta property="og:url" content={config.siteUrl} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
