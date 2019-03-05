@@ -4,7 +4,7 @@ module.exports = {
   siteDescription: "Samsung Internet Dev Hub, blog, resources, demos and documentation",
   siteUrl: "https://samsunginter.net",
   pathPrefix: " ",
-  siteImage: "icon.png",
+  siteImage: "/icons/apple-icon-180x180.png",
   siteLanguage: "en",
   // author
   authorName: "Samsung Internet",
