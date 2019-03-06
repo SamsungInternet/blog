@@ -14,6 +14,7 @@ const Seo = props => {
   const description = postDescription ? postDescription : config.siteDescription;
   const image = postCover ? postCover : config.siteImage;
   const url = config.siteUrl + config.pathPrefix + postSlug;
+  const redirectUrl = "https://hub.samsunginter.net"
 
   return (
     <Helmet
@@ -29,7 +30,7 @@ const Seo = props => {
       <meta property="og:url" content={config.siteUrl} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={config.siteUrl + image} />
+      <meta property="og:image" content={redirectUrl + image} />
       <meta property="og:type" content="website" />
       <meta property="fb:app_id" content={facebook.appId} />
       {/* Twitter Card tags */}
