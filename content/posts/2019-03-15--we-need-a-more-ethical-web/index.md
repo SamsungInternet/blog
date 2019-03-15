@@ -5,7 +5,7 @@ description: "This week, we have been celebrating the 30th anniversary of the in
 category: Web Development
 img: https://cdn-images-1.medium.com/max/1200/1*43eACIILDWhbq2x18y2qcw.jpeg
 author: Daniel Appelquist
-authorImg: undefined
+authorImg: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 tags: [Web Development, Tech Ethics, Web Standards, Human Rights]
 ---
 
@@ -21,9 +21,9 @@ It’s time for web platform makers to enlarge this ethical framework to include
 
 But what are some possible ethical principles we could apply to the web platform? What might be guiding the development and evolution of this platform over the next 30 years?
 
-Last year, [Anne Currie](undefined) ran an amazing event in London, [Coed:Ethics](https://medium.com/@anne_e_currie/coed-ethics-building-a-new-conference-in-a-new-area-a7828e612e7). It was a day-long conference dedicated to tech ethics that I was privileged to be able to attend. The conference was also intended as a call to action to spur attendees to do more. I found this event personally inspirational and I started to think of how I could apply some of this thinking to various efforts I’ve been involved with, including what we could do in the web standards community to raise the profile of ethics. In some ways, the Coed:Ethics was a call to technologists to put human rights at the core of what we do.
+Last year, [Anne Currie](https://twitter.com/anne_e_currie) ran an amazing event in London, [Coed:Ethics](https://medium.com/@anne_e_currie/coed-ethics-building-a-new-conference-in-a-new-area-a7828e612e7). It was a day-long conference dedicated to tech ethics that I was privileged to be able to attend. The conference was also intended as a call to action to spur attendees to do more. I found this event personally inspirational and I started to think of how I could apply some of this thinking to various efforts I’ve been involved with, including what we could do in the web standards community to raise the profile of ethics. In some ways, the Coed:Ethics was a call to technologists to put human rights at the core of what we do.
 
-Since then, I’ve been working on some ideas for this as part of my work as co-chair of the [W3C Technical Architecture Group](https://w3.org/tag). The goal is to create an ethical questionnaire in the same vein as the [Security & Privacy Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/) that was originally produced by [Mike West](undefined) and has been more recently edited by TAG member Lukasz [Olejnik](https://lukaszolejnik.com/) and Jason Novak. This questionnaire has been influential in getting people who develop specifications and new web technologies to think about security & privacy issues up front. An ethical questionnaire could play the same role, prompting people to think about the ethical implications of new web technologies at an early stage of development. Any work like this will need to be reviewed by a diverse community — a community more diverse than the current make-up of the web standards community.
+Since then, I’ve been working on some ideas for this as part of my work as co-chair of the [W3C Technical Architecture Group](https://w3.org/tag). The goal is to create an ethical questionnaire in the same vein as the [Security & Privacy Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/) that was originally produced by Mike West and has been more recently edited by TAG member Lukasz Olejnik and Jason Novak. This questionnaire has been influential in getting people who develop specifications and new web technologies to think about security & privacy issues up front. An ethical questionnaire could play the same role, prompting people to think about the ethical implications of new web technologies at an early stage of development. Any work like this will need to be reviewed by a diverse community — a community more diverse than the current make-up of the web standards community.
 
 Here are some possible ethical principles for the web:
 
@@ -54,7 +54,7 @@ Here are some possible ethical principles for the web:
 
 Right now these are just some of the ideas that I have as an individual; built from my personal experiences where I have been privileged to be involved in the process of developing web standards. Refinement and review by a community of folks from diverse backgrounds needs to happen in order to make these into an inclusive “ethical checklist” for the web. Any comments? Additions? Subtractions? I’d love to hear them. You can leave comments here or ping me [on Twitter](https://twitter.com/torgo) or [Mastodon](https://mastodon.social/@torgo) for now.
 
-*I would like to thank [Amy Dickens](undefined), [Ada Rose Cannon](undefined) and [Nicholas Herriot](undefined) for their valuable input into this post.*
+*I would like to thank Amy Dickens, Ada Rose Cannon and Nicholas Herriot for their valuable input into this post.*
 
 
 
