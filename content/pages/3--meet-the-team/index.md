@@ -49,18 +49,6 @@ type: team
 </div>
 
 <div class="profile">
-  <h2>Jo Franchetti</h2>
-
-<p class="location">Based in the UK</p>
-
-  <img class="profile-img" src="/team/jo.jpg" alt="Jo Franchetti"/>
-  <p>Developer Advocate <a href="https://twitter.com/samsunginternet">@samsunginternet</a>, Front end developer, passionate about accessibility, performance and beautiful css. Organiser at <a href="https://twitter.com/codebar">@Codebar</a> and dedicated to making the web and the tech industry a better, more inclusive, diverse place.</p>
-  <p class="profile-links"><a class="twitter" href="https://twitter.com/thisisjofrank">@thisisjofrank</a> <a class="github" href="https://github.com/thisisjofrank">github.com/thisisjofrank</a>
-  </p>
-  <p class="tags"><span>#ProgressiveWebApps</span></p>
-</div>
-
-<div class="profile">
   <h2>Amy Dickens</h2>
 
 <p class="location">Based in the UK</p>
