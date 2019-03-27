@@ -38,11 +38,9 @@ type: pages
       <article class="ul_card">“This mobile browser was built specifically for Samsung devices, but people liked it so much that the company made it available for download on all Android phones.”<a href="https://www.wired.com/story/alternative-mobile-browsers/"> Wired</a></article>
       <article class="ul_card">“Once upon a time, no one would even consider using a handset manufacturer’s web browser on its own phones, much less install one on another phone. But here we are today, with Samsung’s Internet Browser being one of the best choices available in the Play Store.”<a href="https://www.howtogeek.com/348934/the-best-web-browsers-for-android/"> HowToGeek</a></article>
     </section>
-    <aside class="side-column">
+  <aside class="side-column">
       <h4>We Sponsor Events!</h4>
       <p>If you run a meet-up or event and you would like to find out about or apply for sponsorshiop, please take a look at our <a href="https://sponsorship.samsunginter.net/">sponsorship request webapp</a>!</p>
-    </aside>
-  <aside class="side-column">
       <h4>Further Reading</h4>
       <p>If you would like to learn more about Samsung Internet and the story behind it, these articles provide further background:</p>
       <ul>
