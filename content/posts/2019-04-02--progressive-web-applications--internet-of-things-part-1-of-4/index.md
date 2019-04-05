@@ -4,8 +4,8 @@ title: "Progressive Web Applications & Internet of Things (part 1 of 4)"
 description: "The Internet of Things is a big title for what seems to be a tiny problem for the non-tech person. So What’s the problem?"
 category: Raspberry Pi
 img: https://cdn-images-1.medium.com/max/1200/1*hZIdfxDnY6jiU82sq2B7dQ.png
-author: undefined
-authorImg: undefined
+author: Nicholas Herriott
+authorImg: https://miro.medium.com/fit/c/120/120/0*NK2JRFdcvkOTlVIz.
 tags: [Raspberry Pi, IoT, Progressive Web App, Nodejs, Hacking]
 ---
 
