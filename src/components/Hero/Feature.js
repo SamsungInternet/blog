@@ -3,9 +3,9 @@ import Corner from "../../layouts/corner";
 
 const Feature = props => {
 
-  const title = "The Economics of Empathy";
-  const image = "https://cdn-images-1.medium.com/max/2000/1*1j-Jkox9Rvqfd2Eay61dNg.png";
-  const url = "/the-economics-of-empathy/";
+  const title = "Web Workers in the Real World";
+  const image = "https://cdn-images-1.medium.com/max/1200/1*-xS66iiLmGoICMl1HcO1tQ.png";
+  const url = "/web-workers-in-the-real-world/";
 
   return (
     <React.Fragment>
