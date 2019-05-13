@@ -2,10 +2,10 @@
 cover: img.jpg
 title: "Web Workers in the Real World"
 description: "I wrote this article whilst building a demo website which uses both expensive physics and an expensive SVG filter. It was important that it felt really tactile on mobile devices, so it had to run very smoothly."
-category: JavaScript
+category: Web Development
 img: https://cdn-images-1.medium.com/max/1200/1*-xS66iiLmGoICMl1HcO1tQ.png
-author: undefined
-authorImg: undefined
+author: AdaRoseCannon
+authorImg: https://s.gravatar.com/avatar/e137ba0321f12ecb5340680815b42c26?s=400
 tags: [JavaScript, Performance, Perfmatters, Web, Operating Systems]
 ---
 
