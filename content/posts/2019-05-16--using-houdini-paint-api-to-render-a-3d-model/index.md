@@ -5,7 +5,7 @@ description: "The demo in this article show’s how to uses the Houdini paint AP
 category: JavaScript
 img: https://cdn-images-1.medium.com/max/1200/1*LDg7qFQP8I9h1dJjM7Vh0g.png
 author: Ada Rose Cannon
-authorImg: https://cdn-images-1.medium.com/fit/c/64/64/1*iHQjSIXGkXm6tp-AXz1vXg.png
+authorImg: https://s.gravatar.com/avatar/e137ba0321f12ecb5340680815b42c26?s=400
 tags: [JavaScript, Houdini, CSS, 3d, Threejs]
 ---
 
