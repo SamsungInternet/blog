@@ -12,7 +12,7 @@ tags: [JavaScript, Houdini, CSS, 3d, Threejs]
 # Using the CSS Houdini Paint API to show a 3D Model!
 
 Using Houdini Paint API to Render a 3D Model
-> # ***“That’s f*cke***d ***up”***
+> # ***“That’s f*cke***d ***up”***  
 > # — Daniel Appelquist, co-chair of the W3C Technical Architecture Group
 
 The demo in this article uses the [Houdini paint](https://developer.mozilla.org/en-US/docs/Web/API/PaintWorklet) API, which is a part of the larger Houdini spec. [Houdini is still coming to browsers](https://ishoudinireadyyet.com/) but is ready to try out.
@@ -31,7 +31,14 @@ What I made here was a stupid idea that went too far, but it worked! My thought 
 
 Amazingly it worked:
 
-<iframe src="https://medium.com/media/389e371326dea8794a8459b497626639" frameborder=0></iframe>
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    src="https://glitch.com/embed/#!/embed/houdini-camp?path=README.md&previewSize=100"
+    alt="houdini-camp on Glitch"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
 
 ### Why is it a bad idea?
 
@@ -73,20 +80,26 @@ This was tricky to get right and took some trial and error with different 3D mod
 
 * I then imported this JSON file using the Rollup json loader.
 
-    import * as campfire from './scene.json';
+```js
+import * as campfire from './scene.json';
+```
 
 * Then I parsed this with Three.js and it was ready to use
 
-    const loader = new ObjectLoader();
-    const camp = loader.parse( campfire );
+```js
+const loader = new ObjectLoader();
+const camp = loader.parse( campfire );
+```
 
 * I had to tweak it a little bit to make it to look good
 
-    const floorName = "mesh1292612855";
-    const floor = camp.getObjectByName( floorName, true );
-    floor.renderOrder = -1;
-    camp.position.y = -3;
-    camp.rotation.y = -Math.PI/2;
+```js
+const floorName = "mesh1292612855";
+const floor = camp.getObjectByName( floorName, true );
+floor.renderOrder = -1;
+camp.position.y = -3;
+camp.rotation.y = -Math.PI/2;
+```
 
 Now everything is imported we are ready to render it.
 
@@ -94,21 +107,23 @@ Now everything is imported we are ready to render it.
 
 To register a paint worklet in the worklet use the registerPaint function. Below we register a paint function called “three”.
 
-    registerPaint( "three",
-      class {
-        static get inputProperties() {
-          return [];
-        }
+```js
+registerPaint( "three",
+  class {
+    static get inputProperties() {
+      return [];
+    }
 
-        paint(ctx, size, props) {
-          camera.aspect = size.width / size.height;
-          camera.updateProjectionMatrix();
-          renderer.setContext(ctx);
-          renderer.setSize(size.width, size.height);
-          renderer.render(scene, camera);
-        }
-      }
-    );
+    paint(ctx, size, props) {
+      camera.aspect = size.width / size.height;
+      camera.updateProjectionMatrix();
+      renderer.setContext(ctx);
+      renderer.setSize(size.width, size.height);
+      renderer.render(scene, camera);
+    }
+  }
+);
+```
 
 In the paint method we have 3 arguments. ctx is a drawing context very similar to the CanvasRenderingContext2D you would get from a Canvas, although some methods are missing. size provides the width and height of the element you are drawing to. props is a map which provides access to the CSS custom properties requested from inputProperties.
 
@@ -116,9 +131,11 @@ In the paint function each render I update the camera to handle the new width an
 
 Now this is added we are ready to use the Worklet in CSS. This is how we apply it to an element:
 
-    main {
-      background-image: paint(**three**);
-    }
+```js
+main {
+  background-image: paint(three);
+}
+```
 
 We use paint(*workletName*) to draw tell CSS to use this worklet for the background image.
 
@@ -128,43 +145,51 @@ Even though all the assets have to be baked in we can provide the user some amou
 
 In this example we will listen for rotations in the X,Y and Z axis. To do this add the CSS properties to the inputProperties array:
 
-    static get inputProperties() {
-      return ["--rotate-x", "--rotate-y", "--rotate-z"];
-    }
+```js
+static get inputProperties() {
+  return ["--rotate-x", "--rotate-y", "--rotate-z"];
+}
+```
 
 You can register properties to define their type but to keep these simple we won’t do that here, because they are unregistered they get exposed as strings because CSS does not know how to handle them.
 
 We will use them to rotate the 3D model, here I convert each rotation from a string in degrees to a number in radians so it can be used with THREE.js.
 
-    group.rotation.set(
-      Math.PI * Number(props.get("--rotate-x"))/180,
-      Math.PI * Number(props.get("--rotate-y"))/180,
-      Math.PI * Number(props.get("--rotate-z"))/180
-    );
+```js
+group.rotation.set(
+  Math.PI * Number(props.get("--rotate-x"))/180,
+  Math.PI * Number(props.get("--rotate-y"))/180,
+  Math.PI * Number(props.get("--rotate-z"))/180
+);
+```
 
 I can then set these properties to change the rotation in CSS:
 
-    main {
-      --rotate-x: 10;
-      --rotate-y: 90;
-      --rotate-z: -50;
-    }
+```js
+main {
+  --rotate-x: 10;
+  --rotate-y: 90;
+  --rotate-z: -50;
+}
+```
 
 I can even set them dynamically with JavaScript:
 
-    document.addEventListener('mousemove', function (e) {
+```js
+document.addEventListener('mousemove', function (e) {
 
-      document.body.style.setProperty(
-        '--rotate-y',
-        30 * ((e.screenX / document.body.clientWidth) - 0.5)
-      )
+  document.body.style.setProperty(
+    '--rotate-y',
+    30 * ((e.screenX / document.body.clientWidth) - 0.5)
+  )
 
-      document.body.style.setProperty(
-        '--rotate-x',
-        30 * ((e.screenY / document.body.clientHeight) - 0.5)
-      )
+  document.body.style.setProperty(
+    '--rotate-x',
+    30 * ((e.screenY / document.body.clientHeight) - 0.5)
+  )
 
-    })
+})
+```
 
 ### Be careful with animations
 
