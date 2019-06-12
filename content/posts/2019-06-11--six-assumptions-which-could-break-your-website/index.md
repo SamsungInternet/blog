@@ -5,7 +5,7 @@ description: "On this Samsung Internet blog we often talk about building progres
 category: Responsive Design
 img: https://cdn-images-1.medium.com/max/1200/1*3t9vLE10ly97fUSHO_c1ug.png
 author: Ada Rose Cannon
-authorImg: https://cdn-images-1.medium.com/fit/c/64/64/1*iHQjSIXGkXm6tp-AXz1vXg.png
+authorImg: https://s.gravatar.com/avatar/e137ba0321f12ecb5340680815b42c26?s=400
 tags: [Responsive Design, Web Design, Web Development, CSS, JavaScript]
 ---
 
@@ -16,20 +16,23 @@ Six assumptions which could break your website
 ### A mistake consistently made by some of the biggest websites shows they are thinking about responsive web design incorrectly.
 
 On this Samsung Internet blog we often talk about building progressive web apps, one cornerstone of building web apps is responsive design. Responsive websites can behave correctly regardless of screen size. It is the recommended behavior for website’s from the UK governments digital service team:
-[**Making sure your service works well on mobile**
+
+> [**Making sure your service works well on mobile**
 *Your service should work well on all mobile devices. Evaluate your options carefully to find the most suitable solution…*www.gov.uk](https://www.gov.uk/service-manual/technology/working-with-mobile-technology)
 
 Here at Samsung as we innovate on hardware we often introduce new devices. These new devices frequently break some websites in interesting ways but one of the most common and avoidable ways websites break is the website not fitting the device correctly.
 
 This often occurs when website developers make too many assumptions about the devices which people will use to view the website.
-> # “I support both form factors: My iPhoneX and Chrome on a 15" Macbook pro.”
+
+> ## “I support both form factors: My iPhoneX and Chrome on a 15" Macbook pro.”
 
 This article won’t be a technical deep dive into Responsive Web Design but instead we will discuss some false assumptions developers often make which will make websites brittle:
 
 ### **“It’s okay to build separate sites for mobile and desktop”**
 
 URLs should relate to content not form factor. To assign a different URL to content for different devices violates the [One Web Principle](https://www.w3.org/TR/mobile-bp/#OneWeb). A URL shared from one device should work great on another.
-[**Mobile Web Best Practices 1.0**
+
+>[**Mobile Web Best Practices 1.0**
 *1 Introduction 1.1 Purpose of the Document 1.2 How the Best Practices are Organized 1.3 Audience 1.4 Scope 1.4.1…*www.w3.org](https://www.w3.org/TR/mobile-bp/#tc)
 
 ### “Mobile and Desktop are the Only Two Form Factors.”
@@ -80,7 +83,7 @@ To handle this, treat all users like they are using touch devices; make touchabl
 
 ### Sigh… so you’ve read this whole article and still want to specifically target the Samsung Galaxy Fold Folding Phone?
 
-Use this information for testing your site only, don’t build these dimensions into your CSS file as break points! Make sure it works at these sizes but don’t handle them as an edge case.
+Use this information for testing your site only, don’t build these dimensions into your CSS file as break points! Make sure it works at these sizes but don’t just handle them as an edge case.
 
 Here are the CSS pixel dimensions of the browser in each different mode:
 
@@ -105,7 +108,7 @@ Ideally we wouldn’t use any breakpoints and have a single layout which can han
 A neat way to have certain properties be screen size dependent without introducing more breakpoints is to use the viewport units vh and vw which are ¹/₁₀₀ of the height and width respectively. When combined with calc() in CSS they can be very powerful.
 
 Recent CSS APIs mean that building responsive designs is no longer an arduous task. The CSS grid API lets you design multiple layouts which make sense and the content will then fit that grid. To learn more about CSS grid check out these demos by [@thisisjofrank](https://twitter.com/ThisIsJoFrank), which explain how common layouts can be created with CSS Grid:
-[**Common Responsive Layouts with CSS Grid (and some without!) - Samsung Internet Dev Hub - Resources…**
+>[**Common Responsive Layouts with CSS Grid (and some without!) - Samsung Internet Dev Hub - Resources…**
 *Example code for you to try out, change and make your own CSS grid is now supported in Samsung internet v6.2 and many…*hub.samsunginter.net](https://hub.samsunginter.net/Common-Responsive-Layouts-with-CSS-Grid--and-some-without--/)
 
 [CSS Grid has near universal support](https://caniuse.com/#feat=css-grid) in browsers, for the users still stuck in old version of IE use a simple flexbox layout fall back. Websites don’t look the same to every user, that is one of the powers of the web. Find more info on [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) and [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) on MDN.
@@ -124,71 +127,76 @@ Thank you so much Amy Dickens and Daniel Appelquist for your feedback to this ar
 ### (Bonus) Some of my favourite CSS Grid tricks
 
 Layout becomes a lot easier when built with CSS Grid, it’s essentially a very powerful layout framework built into the browser.
-> # You don’t need a framework to use CSS Grid. 
-> # CSS Grid *is* a framework.
-> # — Rachel Andrew (@rachelandrew)
+
+> ## You don’t need a framework to use CSS Grid. 
+> ## CSS Grid *is* a framework.
+> ## — Rachel Andrew (@rachelandrew)
 
 Custom CSS Properties make doing Responsive design very clean. By only using custom properties in media queries you can make it very explicit what is changing as the screen size changes.
 
+```css
+:root {
+    --padding: 15px;
+    --grid-columns: 5;
+}
+
+.my-grid {
+    display: grid;
+    grid-template-columns: repeat(var(--grid-columns), 1fr);
+    grid-gap: var(--padding);
+}
+
+[@media](http://twitter.com/media) only screen and (max-width: 1000px) {
     :root {
-        --padding: 15px;
-        --grid-columns: 5;
+        --padding: 10px;
+        --grid-columns: 3;
     }
+}
 
-    .my-grid {
-        display: grid;
-        grid-template-columns: repeat(var(--grid-columns), 1fr);
-        grid-gap: var(--padding);
+[@media](http://twitter.com/media) only screen and (max-width: 600px) {
+    :root {
+        --padding: 20px;
+        --grid-columns: 1;
     }
-
-    [@media](http://twitter.com/media) only screen and (max-width: 1000px) {
-        :root {
-            --padding: 10px;
-            --grid-columns: 3;
-        }
-    }
-
-    [@media](http://twitter.com/media) only screen and (max-width: 600px) {
-        :root {
-            --padding: 20px;
-            --grid-columns: 1;
-        }
-    }
+}
+```
 
 Another nice use of custom properties is to store complex properties in a single easy to edit place.
 
-    // Each emoji represents a grid area, e.g. 🍱 is the header
-    :root {
-      --layout-big: "🍱 🍱" min-content
-            "🌯 🐠" min-content
-            "🍭 🐠" 1fr
-            "🏖️ 🏖️" min-content
-            /300px 1fr;
-        
-      --layout-small: "🍱 🍱" min-content
-            "🌯 🍭" min-content
-            "🐠 🐠" minmax(min-content, 1fr)
-            "🏖️ 🏖️" min-content
-            /1fr 1fr;
-      
-      --active-layout: var(--layout-small);
-    }
+```css
+// Each emoji represents a grid area, e.g. 🍱 is the header
+:root {
+  --layout-big: "🍱 🍱" min-content
+        "🌯 🐠" min-content
+        "🍭 🐠" 1fr
+        "🏖️ 🏖️" min-content
+        /300px 1fr;
 
-    header {
-      grid-area: 🍱;
-    }
+  --layout-small: "🍱 🍱" min-content
+        "🌯 🍭" min-content
+        "🐠 🐠" minmax(min-content, 1fr)
+        "🏖️ 🏖️" min-content
+        /1fr 1fr;
 
-    .my-grid {
-      display: grid;
-      grid-template: var(--active-layout);
-      grid-gap: 1em;
-    }
+  --active-layout: var(--layout-small);
+}
 
-    [@media](http://twitter.com/media) only screen and (min-width: 600px) {
-      .my-grid {
-        --active-layout: var(--layout-big);
-      }
-    }
+header {
+  grid-area: 🍱;
+}
+
+.my-grid {
+  display: grid;
+  grid-template: var(--active-layout);
+  grid-gap: 1em;
+}
+
+[@media](http://twitter.com/media) only screen and (min-width: 600px) {
+  .my-grid {
+    --active-layout: var(--layout-big);
+  }
+}
+```
 
 This allows for complex statements such as these grid-template properties to be kept at the top of the document or even imported from a separate CSS file, they can be changed by updating the --active-layout custom property.
 
