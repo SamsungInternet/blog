@@ -4,14 +4,12 @@ title: "Adding Sensors to Web Things"
 description: "We’re big fans of connecting the web to the “Internet of Things.” This guest post from Samsung Open Source Group’s Philippe Coval, following up this post from last year from ziran sun on Internet of things and GRPR, gives some details on how we’re been progressing on this over the past year, specifically when it comes to sensors."
 category: undefined
 img: https://miro.medium.com/max/1200/0*N4edp2L2KgMEnOId.png
-author: RzR
-authorImg: undefined
+author: Phil Coval
+authorImg: https://miro.medium.com/fit/c/256/256/1*nP3-EBaH0sUGehI_8PC2YQ.jpeg
 tags: []
 ---
 
 # SENSORS WEBTHINGS:
-
-
 
 *We’re big fans of connecting the web to the “Internet of Things.” This guest post from Samsung Open Source Group’s Philippe Coval, following up this post from last year from [ziran sun](undefined) on [Internet of things and GRPR](https://medium.com/samsung-internet-dev/web-internet-of-things-and-gdpr-1182bbc3162f), gives some details on how we’re been progressing on this over the past year, specifically when it comes to sensors.*
 
@@ -309,6 +307,6 @@ Developing on device is also possible. Just enable SSH and clone the adapter:
 
 
 
-By RzR on Invalid Date.
+By Phil Coval on 26 June 2019.
 
 [Canonical link](https://medium.com/samsung-internet-dev/sensors-webthings-bc48ad9963dd)
