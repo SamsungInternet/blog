@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Six assumptions which could break your website"
 description: "A mistake consistently made by some of the biggest websites shows they are thinking about responsive web design incorrectly."
-category: Responsive Design
+category: Web Development
 img: https://cdn-images-1.medium.com/max/1200/1*3t9vLE10ly97fUSHO_c1ug.png
 author: Ada Rose Cannon
 authorImg: https://s.gravatar.com/avatar/e137ba0321f12ecb5340680815b42c26?s=400

@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "One UI to rule them all."
 description: "It was the 7th of November of 2018 and the Samsung Developer Conference’s (SDC) keynote was already on the way. Swarming with announcements, the atmosphere was dense with the promise of a next generation device and it was certainly building up expectations by the minute. Every single person in those chairs was looking for that single magical moment that would get them excited about what would come the year ahead, and some of us got surprised even before the foldable tease at the end."
-category: Design
+category: Web Development
 img: https://cdn-images-1.medium.com/max/1200/1*xMtlprKkwrZc2BQMPagGgA.jpeg
 author: Diego González
 authorImg: https://cdn-images-1.medium.com/fit/c/64/64/1*iHQjSIXGkXm6tp-AXz1vXg.png
