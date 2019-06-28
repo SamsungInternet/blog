@@ -60,7 +60,7 @@ My original ada.png was 1.8MB, the super compressed basis file is only 0.145MB w
 
 This code is largely taken from the [THREE.js basis loader example.](https://threejs.org/examples/webgl_loader_texture_basis.html) This demo was built with THREE.js version 106.
 
-Importing the Basis Texture Loader uses [ES Modules Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) for loading the modules. I have exposed my ‘node_modules’ directory as a static folder. So make sure your <script> tag has type="module" . Or pre-compile it using your favourite bundler such as webpack or rollup.
+Importing the Basis Texture Loader uses [ES Modules Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) for loading the modules. I have exposed my ‘node_modules’ directory as a static folder. So make sure your `&lt;script&gt;` tag has type="module" . Or pre-compile it using your favourite bundler such as webpack or rollup.
 
 ```js
 import { BasisTextureLoader } from "/node_modules/three/examples/jsm/loaders/BasisTextureLoader.js";
