@@ -39,7 +39,8 @@ The post will explain how to get started and how to establish basic automation u
 
 To get started, first install the gateway according to [project’s straightforward instructions](https://iot.mozilla.org/gateway/).
 
-<iframe src="https://medium.com/media/a95fcce31208a31ccb30994a22645511" frameborder=0></iframe>
+<center><iframe src="https://player.vimeo.com/video/263556462#mozilla-iot-gateway-sensors-20180406rzr#" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>></center>
+
 
 ## PREPARE SD CARD:
 
@@ -242,7 +243,8 @@ Then they will appear on page and they should be turned on individually on respe
 
 To get value updated in the UI, they need to be turned on first.
 
-<iframe src="https://medium.com/media/e4d85e2bb606c4e054f232f8486ccbcb" frameborder=0></iframe>
+<center><iframe src="https://player.vimeo.com/video/314919012#webthing-iotjs-opendata-20190202rzr#" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>></center>
+
 
 ## SIMULATE:
 
@@ -306,6 +308,10 @@ Developing on device is also possible. Just enable SSH and clone the adapter:
 * [https://fosdem.org/2019/schedule/event/project_things/](https://fosdem.org/2019/schedule/event/project_things/)
 
 * [https://www.slideshare.net/SamsungOSG/the-complex-iot-equation-and-floss-solutions-101449596/](https://www.slideshare.net/SamsungOSG/the-complex-iot-equation-and-floss-solutions-101449596/)
+
+<center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BGdKOn9HHRF4Oa#webthingiotjs20181022rzr#" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rzrfreefr/webthingiotjs20181022rzr-120959360" title="webthing-iotjs-20181027rzr" target="_blank">webthing-iotjs-20181027rzr</a> </strong> from <strong><a href="https://www.slideshare.net/rzrfreefr" target="_blank">Phil www.rzr.online.fr</a></strong> </div>
+</center>
 
 ## LICENSE:
 
