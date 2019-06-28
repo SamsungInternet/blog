@@ -2,11 +2,11 @@
 cover: img.jpg
 title: "Adding Sensors to the Web of Things"
 description: "We’re big fans of connecting the web to the “Internet of Things.” This guest post from Samsung Open Source Group’s Philippe Coval, following up this post from last year from ziran sun on Internet of things and GRPR, gives some details on how we’re been progressing on this over the past year, specifically when it comes to sensors."
-category: Wot
+category: WoT
 img: https://miro.medium.com/max/1200/0*N4edp2L2KgMEnOId.png
 author: RzR
 authorImg: https://miro.medium.com/fit/c/96/96/1*nP3-EBaH0sUGehI_8PC2YQ.jpeg
-tags: [Wot, Mozilla, Sensors, Opensource, Webofthings]
+tags: [WoT, Mozilla, Sensors, Opensource, Webofthings]
 ---
 
 # Adding Sensors to the Web of Things
