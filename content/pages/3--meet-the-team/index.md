@@ -4,7 +4,6 @@ type: team
 ---
 
 <div class="profiles">
-
 <div class="profile">
   <h2>Daniel Appelquist</h2>
 
@@ -49,4 +48,15 @@ type: team
   <p class="tags"><span>#WebVR</span> <span>#WebAudio</span> <span>#BabyGoats</span></p>
 </div>
 
+<div class="profile">
+  <h2>Amy Dickens</h2>
+
+<p class="location">Based in the UK</p>
+
+  <img class="profile-img" src="/team/amy.jpg" alt="Amy Dickens"/>
+  <p>Developer Advocate Intern <a href="https://twitter.com/samsunginternet">@samsunginternet</a>. Developer in training, user experience researcher and open sourceress, cares about building usable tech that is accessible to everyone. Field Expert for <a href="https://education.github.com">GitHub</a>, founder of <a href="http://mykindof.tech">My Kind Of Tech</a>. Often found tinkering with musical things - such as the<a href="http://mimugloves.com">mi.mu gloves</a>.</p> 
+  <p class="profile-links"><a class="twitter" href="https://twitter.com/RedRoxProjects">@RedRoxProjects</a> <a class="github" href="https://github.com/RedRoxProjects">github.com/RedRoxProjects</a>
+  </p>
+  <p class="tags"><span>#Accessibility</span><span>#UserExeprience</span><span>#OpenSource</span></p>
+</div>
 </div>
