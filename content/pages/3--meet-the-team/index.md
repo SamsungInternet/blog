@@ -7,7 +7,7 @@ type: team
 <div class="profile">
   <h2>Daniel Appelquist</h2>
 
-  <p class="location">Based in the UK</p>
+  <p class="location">Based in the UK</p> 
 
   <img class="profile-img" src="/team/torgo.jpg" alt="Daniel Appelquist"/> 
   <p>Director of Web Advocacy and Open Source at Samsung Research UK. Co-chair of the <a href="https://w3.org/tag">Technical Architecture Group</a> at the W3C and a member of the UK Government  <a href="https://www.gov.uk/government/groups/open-standards-board">Open Standards Board</a> and the <a href="https://developer.mozilla.org/en-US/docs/MDN/MDN_Product_Advisory_Board">MDN Product Advisory Board</a>. Lives and breathes the open web.</p>
