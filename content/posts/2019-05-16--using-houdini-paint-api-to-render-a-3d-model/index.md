@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Using Houdini Paint API to Render a 3D Model"
 description: "The demo in this article show’s how to uses the Houdini paint API, which is a part of the larger Houdini spec. Houdini is still coming to browsers but is ready to try out."
-category: JavaScript
+category: Web APIs
 img: https://cdn-images-1.medium.com/max/1200/1*LDg7qFQP8I9h1dJjM7Vh0g.png
 author: Ada Rose Cannon
 authorImg: https://s.gravatar.com/avatar/e137ba0321f12ecb5340680815b42c26?s=400
