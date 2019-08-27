@@ -35,13 +35,13 @@ If you didn't hear about Samsung Internet before, here a few facts:
 
 After almost 4 months since the whole process started after I accepted the offer I’ve finally started working with the team and here are a few things that I will be focusing on:
 
-* **Progressive Web Apps: **Creating web apps that are high performance regardless of the device or network and re-create an app experience in the browser is a topic that most web developers need to keep in mind. For that reason, I will be sharing best practices, creating demos and material to support this.
+* **Progressive Web Apps:** Creating web apps that are high performance regardless of the device or network and re-create an app experience in the browser is a topic that most web developers need to keep in mind. For that reason, I will be sharing best practices, creating demos and material to support this.
 
-* **Accessibility: **I’ve been always interested in creating more inclusive products and if we talk about web a must is *accessibility.* Besides becoming involved in standards like W3C I will be researching how to apply accessibility in fields like PWA and trying to connect this subject with emerging technologies like voice. I’m a voice-first enthusiast and my previous research of conversational design and cognitive science gives me the opportunity to look for a way to combine both things which I’ve found really interesting.
+* **Accessibility:** I’ve been always interested in creating more inclusive products and if we talk about web a must is *accessibility.* Besides becoming involved in standards like W3C I will be researching how to apply accessibility in fields like PWA and trying to connect this subject with emerging technologies like voice. I’m a voice-first enthusiast and my previous research of conversational design and cognitive science gives me the opportunity to look for a way to combine both things which I’ve found really interesting.
 
-* **Developer Relations: **I will look to connect with other communities around the world to build a better web for everybody, maybe the most interesting part is that I will be around places with a different culture than mine including Asia and building strong relationships between each one. Listening to developers and analyzing which challenges they have when creating for web will be my mission.
+* **Developer Relations:** I will look to connect with other communities around the world to build a better web for everybody, maybe the most interesting part is that I will be around places with a different culture than mine including Asia and building strong relationships between each one. Listening to developers and analyzing which challenges they have when creating for web will be my mission.
 
-Those were just a few challenges that are related to my new role but most of all I am ready to *leave the web better than I found it *👩🏽‍💻🌟
+Those were just a few challenges that are related to my new role but most of all I am ready to *leave the web better than I found it* 👩🏽‍💻🌟
 
 
 
