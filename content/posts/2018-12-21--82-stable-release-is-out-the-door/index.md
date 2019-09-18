@@ -5,7 +5,7 @@ description: "We’ve been testing and refining the 8.2 release of Samsung Inter
 category: Browser Features
 img: https://cdn-images-1.medium.com/max/1200/1*-bUPGU4_hJb2fOkRBJw7BQ.jpeg
 author: Daniel Appelquist
-authorImg: undefined
+authorImg: https://miro.medium.com/fit/c/240/240/1*pbg6-ZjCLUyL76n5ja0S5Q.jpeg
 tags: [Samsung Internet, Mobile Web, Android, Bixby, Chromium]
 ---
 
