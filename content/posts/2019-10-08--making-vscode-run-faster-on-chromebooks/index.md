@@ -15,16 +15,16 @@ When Linux came to ChromeOS, I was very happy to start using Visual Studio code 
 
 This was because the visuals were being run in a Chrome instance on Linux then forwarded to ChromeOS which is an expensive thing to do on a HiDPI screen like the Pixelbook.
 
-This seems like a waste of resources to me considering we are already running a Chrome front end in ChromeOS itself. We can take advantage of this by running a version of VSCode which exposes the front end via a http server we can access from ChromeOS.
+This seems like a waste of resources to me considering we are already running a Chrome front end in ChromeOS itself. We can take advantage of this by running a version of VSCode which exposes the front end via a HTTP server we can access from ChromeOS.
 
 ### Getting started
 
 The project we are using to do this is called [code-server](https://github.com/cdr/code-server):
 
 > [**cdr/code-server**
-*code-server is VS Code running on a remote server, accessible through the browser. Try it out: docker run -it -p…*github.com](https://github.com/cdr/code-server)
+*code-server is VS Code running on a remote server, accessible through the browser. Try it out: docker...](https://github.com/cdr/code-server)
 
-Code server is a server which runs the VSCode backend and exposes the front end via http or https. We will run this back-end in crostini then access it through Chrome, so it works entirely offline but through the local browser.
+Code server is a server which runs the VSCode backend and exposes the front end via HTTP or HTTPS. We will run this back-end in crostini then access it through Chrome, so it works entirely offline but through the local browser.
 
 1. Download the latest linux release from [here](https://github.com/cdr/code-server/releases).
 
@@ -53,7 +53,7 @@ chmod +x "$DIR/code-server"
 
 ### Running Visual Studio Code
 
-Since we are running it locally and don’t want to make a https certificate we will run it as http, on port 8080.
+Since we are running it locally and don’t want to make a HTTPS certificate we will run it as HTTP, on port 8080.
 
 ./code-server -H -p 8080
 
@@ -91,7 +91,7 @@ Some tips to make things a bit better still:
 
 * Set the password in the command you use to open it so that you don’t have to enter a new password each time you run the command: PASSWORD=veryLongPassword ./code-server -H -p 8080
 
-* ChromeOS didn’t always treat penguin.linux.test as a secure origin, in this case you may need to use https with a self-signed certificate to hide the URL bar.
+* ChromeOS didn’t always treat penguin.linux.test as a secure origin, in this case you may need to use HTTPS with a self-signed certificate to hide the URL bar.
 
 * For advanced users, try making it as a systemd service so that it runs whenever Linux is running. Here is what my service looks likes:
 ```
