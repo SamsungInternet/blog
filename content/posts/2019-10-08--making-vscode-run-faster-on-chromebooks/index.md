@@ -2,7 +2,7 @@
 cover: img.jpg
 title: "Making VSCode run faster on Chromebooks"
 description: "When Linux came to ChromeOS, I was very happy to start using Visual Studio code again as my main text editor. Unfortunately my Chromebook isn’t very fast and Visual Studio code was running very slowly."
-category: Visual Studio Code
+category: Web Development
 img: https://miro.medium.com/max/1200/1*4qgpMAf4TadK6plhCdxnZg.png
 author: Ada Rose Cannon
 authorImg: https://miro.medium.com/fit/c/96/96/1*Dn8pr_cbYLtc_KfmUNhnBA.png
@@ -20,7 +20,8 @@ This seems like a waste of resources to me considering we are already running a 
 ### Getting started
 
 The project we are using to do this is called [code-server](https://github.com/cdr/code-server):
-[**cdr/code-server**
+
+> [**cdr/code-server**
 *code-server is VS Code running on a remote server, accessible through the browser. Try it out: docker run -it -p…*github.com](https://github.com/cdr/code-server)
 
 Code server is a server which runs the VSCode backend and exposes the front end via http or https. We will run this back-end in crostini then access it through Chrome, so it works entirely offline but through the local browser.
@@ -33,7 +34,22 @@ Code server is a server which runs the VSCode backend and exposes the front end 
 
 I wrote a short script to automate this process since it needs to be repeated each time it is updated. I download the executable to a folder ~/bin which I have added to my path.
 
+```bash
+#!/bin/bash
 
+DIR="$HOME/bin"
+
+cd /tmp
+
+curl -s https://api.github.com/repos/cdr/code-server/releases/latest \
+| grep "browser_download_url.\+linux-x64.tar.gz" \
+| cut -d : -f 2,3 \
+| tr -d \" \
+| wget --output-document=code-server.tar.gz -qi -
+
+tar xvzf /tmp/code-server.tar.gz --strip=1 --overwrite --wildcards --no-anchored -C "$DIR" 'code-server'
+chmod +x "$DIR/code-server"
+```
 
 ### Running Visual Studio Code
 
@@ -78,23 +94,23 @@ Some tips to make things a bit better still:
 * ChromeOS didn’t always treat penguin.linux.test as a secure origin, in this case you may need to use https with a self-signed certificate to hide the URL bar.
 
 * For advanced users, try making it as a systemd service so that it runs whenever Linux is running. Here is what my service looks likes:
+```
+[Unit]
+Description=Code Server Init
+After=network.target
+StartLimitIntervalSec=0
 
-    [Unit]
-    Description=Code Server Init
-    After=network.target
-    StartLimitIntervalSec=0
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=sobrietypi
+Environment=PASSWORD=veryLongPassword
+ExecStart=/home/sobrietypi/bin/code-server -H --port 8080  /home/sobrietypi/gitWorkingDir/
 
-    [Service]
-    Type=simple
-    Restart=always
-    RestartSec=1
-    User=sobrietypi
-    Environment=PASSWORD=veryLongPassword
-    ExecStart=/home/sobrietypi/bin/code-server -H --port 8080  /home/sobrietypi/gitWorkingDir/
-
-    [Install]
-    WantedBy=multi-user.target
-
+[Install]
+WantedBy=multi-user.target
+```
 
 
 By Ada Rose Cannon on October 8, 2019.
