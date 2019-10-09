@@ -1,7 +1,7 @@
 ---
 cover: img.jpg
 title: "Making VSCode run faster on Chromebooks"
-description: "When Linux came to ChromeOS, I was very happy to start using Visual Studio code again as my main text editor. Unfortunately my Chromebook isn’t very fast and Visual Studio code was running very slowly."
+description: "You can run Visual Studio Code on Chromebooks. Here is a way to run it with great performance."
 category: Web Development
 img: https://miro.medium.com/max/1200/1*4qgpMAf4TadK6plhCdxnZg.png
 author: Ada Rose Cannon
