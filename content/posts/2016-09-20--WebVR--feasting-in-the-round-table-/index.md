@@ -30,17 +30,17 @@ We will explore how easy it is to get up and running and creating our GUI compon
 
 While much deliberation is required to tackle depth in UIs, (and stay tuned… that is something we will be doing in the near future) this exercise will teach us about the basics of building WebVR apps using A-Frame. As we know, A-Frame is based in a Entity-Component-System pattern. If you’ve used Unity in the past, it’s very similar — if you haven’t, it’s very easy! Basically there is a scene, which has elements. These elements or ‘entities’ can have components attached that can specify looks, behavior, or actions.
 
-<!doctype html>  
-<html>  
-<head>  
-    <script src='js/aframe.min.js'></script>  
-</head>  
-<body>  
-    <a-scene>  
-        <!\-\- entities go here! -->  
-    </a-scene>  
-</body>  
-</html>
+    <!doctype html>  
+    <html>  
+    <head>  
+        <script src='js/aframe.min.js'></script>  
+    </head>  
+    <body>  
+        <a-scene>  
+            <!\-\- entities go here! -->  
+        </a-scene>  
+    </body>  
+    </html>
 
 We are going to initially create a basic button.What goes into envisioning a button? Lets define it as an entity that will need to have width, height, depth, a background and foreground color, and of course the label itself. It will need to react as well to the ‘click’ event, since it is the basic functionality we expect from buttons — we will add more functionality to the button in a future post though.
 

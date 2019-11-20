@@ -1,0 +1,12 @@
+<header class="header {% if page.path == "index.html" %}homepage{% endif %}">
+  <img className="logo-img" src="./images/"" alt={config.siteTitle} />
+</header>
+<script>
+  const header = document.currentScript.previousElementSibling;
+  new IntersectionObserver(entries => entries.forEach(function onIntersection({
+    isIntersecting,
+    target
+  }) {
+    target.classList.toggle('fixed', !isIntersecting);
+  })).observe(header);
+</script>
