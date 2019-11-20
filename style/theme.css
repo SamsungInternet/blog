@@ -101,4 +101,5 @@
   --header-height-default: 80px;
   --header-height-fixed: 50px;;
   --header-height-homepage: 100px;
+  --bg: url("/images/png/hero-background.png");
 }

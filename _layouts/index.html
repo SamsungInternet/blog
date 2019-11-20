@@ -12,10 +12,7 @@
     <meta property="og:type" content="website" />
     <meta property="fb:app_id" content={{ config.facebook.appId }} />
     <meta name="twitter:card" content="summary" />
-    <meta
-      name="twitter:creator"
-      content={{ site.authorTwitterAccount | default: "" }}
-    />
+    <meta name="twitter:creator" content={{ site.authorTwitterAccount | default: "" }} />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="#D0E0D8" />
     <meta name="apple-mobile-web-app-title" content="Lazywill" />
@@ -36,5 +33,8 @@
   </head>
   <body>
     {% include header.html %}
+    <main>
+      {% include hero.html %}
+    </main>
   </body>
 </html>
