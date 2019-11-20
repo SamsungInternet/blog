@@ -1,12 +1,17 @@
 <header class="header {% if page.path == "index.html" %}homepage{% endif %}">
-  <img className="logo-img" src="./images/"" alt={config.siteTitle} />
+  <a href="/" class="logo-link">
+    <img class="logo-img" src="/images/png/silogo.svg" alt="{{ site.siteTitle }}" />
+  </a>
+  <h1>Developer Hub</h1>
 </header>
+<div class="sensor"></div>
 <script>
-  const header = document.currentScript.previousElementSibling;
+  const sensor = document.currentScript.previousElementSibling;
+  const header = sensor.previousElementSibling;
   new IntersectionObserver(entries => entries.forEach(function onIntersection({
     isIntersecting,
     target
   }) {
-    target.classList.toggle('fixed', !isIntersecting);
-  })).observe(header);
+    header.classList.toggle('fixed', !isIntersecting);
+  })).observe(sensor);
 </script>

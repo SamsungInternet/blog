@@ -9,7 +9,8 @@ main {
   align-items: center;
   justify-content: center;
   display: flex;
-  height: var(--header-height-default);
+  --header-height: var(--header-height-default);
+  height: var(--header-height);
   position: relative;
   top: 0;
   padding: 0 1em;
@@ -20,7 +21,7 @@ main {
 
 header.homepage {
   position: absolute;
-  height: var(--header-height-homepage);
+  --header-height: var(--header-height-homepage);
 }
 
 h1 {
@@ -40,7 +41,7 @@ h1 {
 }
 
 .logo-img {
-  margin: ${theme.space.inline.default};
+  margin: var(--space-inline-default);
   overflow: hidden;
   transition: all 0.5s;
   height: 3em;
@@ -60,16 +61,16 @@ h1 {
   left: 0;
   right: 0;
   height: 1px;
-  top: ${path === "/" ? theme.header.height-homepage var(--header-height-default);
+  top: var(--header-height);
 }
 
-@from-width tablet {
+@media only screen and (min-width: 600px) {
   .header {
-    padding: ${theme.space.inset.l};
+    padding: var(--space-inset-l);
+  }
 
-    &.homepage {
-      height: 100px;
-    }
+  .header.homepage {
+    height: 100px;
   }
   h1 {
     font-size: 32px;
@@ -79,21 +80,17 @@ h1 {
   }
 }
 
-@below desktop {
-  .header.homepage {
-    .logo {
-      border: none;
-    }
+@media only screen and (max-width: 1023px) {
+  .header.homepage .logo {
+    border: none;
+  }
 
-    :global(a.logo-link),
-
-    h1 {
-      color: ${theme.color.neutral.white};
-    }
+  .header.homepage :global(a.logo-link), .header.homepage  h1 {
+    color: var(--color-neutral-white);
   }
 }
 
-@from-width desktop {
+@media only screen and (min-width: 1024px) {
   .header {
     align-items: center;
     display: flex;
@@ -102,30 +99,26 @@ h1 {
     width: 100%;
     justify-content: space-between;
     transition: padding 0.5s;
+  }
 
-    &.fixed {
-      height: ${theme.header.height.fixed};
-      left: 0;
-      padding: 0 ${theme.space.m};
-      position: fixed;
-      top: 0;
-      width: 100%;
-      z-index: 3;
-      background-image: url(${Bg});
+  .header.fixed {
+    height: var(--header-height-fixed);
+    left: 0;
+    padding: 0 var(--space-m);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+    background-image: var(--bg);
+  }
 
-      h1 {
-        display: none;
-      }
-    }
+  .header.fixed h1 {
+    display: none;
+  }
 
-    &.homepage:not(.fixed) {
-      :global(a.logo-link),
-
-      h1 {
-        color: ${theme.color.neutral.gray.d};
-      }
-
-    }
+  .header.homepage:not(.fixed) :global(a.logo-link),
+  .header.homepage:not(.fixed) h1 {
+    color: var(--color-neutral-gray-d);
   }
 
   .header :global(a.logo-link) {
@@ -134,19 +127,19 @@ h1 {
   }
 
   .logo-img {
-    margin: ${theme.space.inline.default};
+    margin: var(--space-inline-default);
+  }
 
-    .fixed & {
-      height: 36px;
-    }
+  .fixed .logo-img {
+    height: 36px;
+  }
 
-    .header.homepage:not(.fixed) & {
-      border: none;
-    }
+  .header.homepage:not(.fixed) .logo-img {
+    border: none;
   }
 
   h1 {
-    animation-duration: ${theme.time.duration.default};
+    animation-duration: var(--time-duration-default);
     animation-name: h2Entry;
   }
 

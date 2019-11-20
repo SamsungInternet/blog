@@ -1,5 +1,7 @@
 @import 'theme.css';
 @import 'global.css';
+@import 'header.css';
+@import 'typeface-samsungone/index.css';
 
 main {
     min-height: 80vh;
