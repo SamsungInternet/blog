@@ -7,6 +7,7 @@ img: https://cdn-images-1.medium.com/max/1200/1*xMtlprKkwrZc2BQMPagGgA.jpeg
 author: Diego González
 authorImg: https://cdn-images-1.medium.com/fit/c/64/64/1*iHQjSIXGkXm6tp-AXz1vXg.png
 tags: [Design, One Ui, Web Development, CSS, Samsung]
+featuredArticle: true
 ---
 
 # One UI to rule them all.

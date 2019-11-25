@@ -1,3 +1,6 @@
+@import 'feature.css';
+@import 'corner.css';
+
 .hero {
   background: var(--bg) var(--hero-backgroundColor) repeat;
   overflow: hidden;

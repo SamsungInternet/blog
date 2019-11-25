@@ -4,15 +4,15 @@
     <meta httpEquiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{page.title}}</title>
-    <meta name="description" content={{ page.description }} />
-    <meta property="og:url" content={{ site.siteUrl }} />
-    <meta property="og:title" content={{ page.title }} />
-    <meta property="og:description" content={{ page.description }} />
-    <meta property="og:image" content={{ page.redirectUrl }}{{ page.image }} />
+    <meta name="description" content="{{ page.description }}" />
+    <meta property="og:url" content="{{ site.siteUrl }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" content="{{ page.redirectUrl }}""{{ page.image }}" />
     <meta property="og:type" content="website" />
-    <meta property="fb:app_id" content={{ config.facebook.appId }} />
+    <meta property="fb:app_id" content="{{ config.facebook.appId }}" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:creator" content={{ site.authorTwitterAccount | default: "" }} />
+    <meta name="twitter:creator" content="{{ site.authorTwitterAccount | default: "" }}" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="#D0E0D8" />
     <meta name="apple-mobile-web-app-title" content="Lazywill" />
@@ -29,9 +29,15 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="96x96" href="/images/icons/favicon-96x96.png" />
 
-    <link rel="stylesheet" href="/style/main.css">
+    <link rel="stylesheet" href="/style/page.css">
   </head>
   <body>
     {% include header.html %}
   </body>
+  <main>
+    <article class="article {{ page.type }}">
+      <h1 class="headline">{{ page.title }}</h1>
+      <div class="bodytext">{{ content }}</div>
+    </article>
+  </main>
 </html>

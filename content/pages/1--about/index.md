@@ -1,6 +1,8 @@
 ---
 title: About
-type: pages
+type: about
+inheader: true
+layout: page
 ---
 
 <div class="about-intro">

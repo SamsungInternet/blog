@@ -3,8 +3,13 @@
 @import 'global.css';
 @import 'header.css';
 @import 'hero.css';
-@import 'main.css';
+@import 'blog.css';
 
 main {
     min-height: 80vh;
+}
+
+.blog-image {
+  border-radius: 10px;
+  max-width: 100%;
 }

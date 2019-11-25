@@ -1,6 +1,8 @@
 ---
 title: Documentation
 type: docs
+layout: page
+inheader: true
 ---
 <ul class="doclist">
 	<li class="doclist-item">

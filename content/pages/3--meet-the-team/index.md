@@ -1,6 +1,8 @@
 ---
 title: Meet the Team
 type: team
+layout: page
+inheader: true
 ---
 
 <div class="profiles">

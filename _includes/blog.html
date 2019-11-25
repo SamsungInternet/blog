@@ -1,0 +1,36 @@
+<main class="blog">
+  <ul>
+    {% assign sorted = site.pages | reverse %}
+    {% for page in sorted %}
+    {% assign folder = page.url | split: "/" %}
+    {% assign date = folder[3] | split: "--" | first | date: "%a, %b %d, %y"  %}
+    {% assign length = folder[3] | split: "--" | size %}
+    {% if length == 2 %}{% if folder[2] == "posts" %}
+    <li class="item">
+      <a href="{{page.url}}" class="link">
+        <img class="blog-image" src="{{page.url}}{{page.cover}}">
+        <h1>
+          {{page.title}} <FaArrowRight class="arrow" />
+        </h1>
+        {% assign type = page.category %}
+        {% assign icon = page.category | remove: " " | downcase  %}
+        {% include corner.html %}
+        <p class="meta">
+          <span class="author-info">
+            {{page.author}}
+            <img class="author-img" src="{{ page.authorImg }}" />
+          </span>
+          <span>
+            {% include facalendar.html %} {{date}}
+          </span>
+          <span>
+            {% include fatag.html %} {{page.category}}
+          </span>
+        </p>
+        {% assign paragraphs = page.content | markdownify | strip_html | newline_to_br | strip_newlines | split: '<br />' %}
+        <p>{{ paragraphs[2] | truncatewords: 75 }}</p>
+      </a>
+    </li>
+    {% endif %}{% endif %}{% endfor %}
+  </ul>
+</main>
