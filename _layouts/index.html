@@ -4,15 +4,15 @@
     <meta httpEquiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{page.title}}</title>
-    <meta name="description" content={{ page.description }} />
-    <meta property="og:url" content={{ site.siteUrl }} />
-    <meta property="og:title" content={{ page.title }} />
-    <meta property="og:description" content={{ page.description }} />
-    <meta property="og:image" content={{ page.redirectUrl }}{{ page.image }} />
+    <meta name="description" content="{{ page.description }}" />
+    <meta property="og:url" content="{{ site.siteUrl }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" content="{{ page.redirectUrl }}""{{ page.image }}" />
     <meta property="og:type" content="website" />
-    <meta property="fb:app_id" content={{ config.facebook.appId }} />
+    <meta property="fb:app_id" content="{{ config.facebook.appId }}" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:creator" content={{ site.authorTwitterAccount | default: "" }} />
+    <meta name="twitter:creator" content="{{ site.authorTwitterAccount | default: "" }}" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="#D0E0D8" />
     <meta name="apple-mobile-web-app-title" content="Lazywill" />

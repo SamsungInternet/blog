@@ -1,8 +1,9 @@
 <header class="header {% if page.path == "index.html" %}homepage{% endif %}">
-  <a href="/" class="logo-link">
+  <a href="/" class="link logo-link">
     <img class="logo-img" src="/images/png/silogo.svg" alt="{{ site.siteTitle }}" />
   </a>
   <h1>Developer Hub</h1>
+  {% include menu.html %}
 </header>
 <div class="sensor"></div>
 <script>

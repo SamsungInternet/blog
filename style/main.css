@@ -3,6 +3,7 @@
 @import 'global.css';
 @import 'header.css';
 @import 'hero.css';
+@import 'main.css';
 
 main {
     min-height: 80vh;

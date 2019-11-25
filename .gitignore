@@ -69,3 +69,4 @@ yarn-error.log
 # Jekyll
 _site
 .jekyll-cache
+.jekyll-metadata

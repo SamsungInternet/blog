@@ -1,0 +1,100 @@
+@import 'item.css';
+@import 'link.css';
+.menu {
+  --open-height: 1000px;
+  --closed-height:50px;
+  --current-height: var(--closed-height);
+  bottom: 0;
+  flex-grow: 1;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  transition: all var(--time-duration-default);
+}
+
+.menu.open {
+  --current-height: var(--open-height);
+}
+
+.itemList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0; /* 0 var(--space-s}; */
+  position: relative;
+  width: 100%;
+}
+
+@media (max-width: 1024px) {
+  .menu {
+    padding: 10px;
+    background-color: #fafafa;
+    border-top: 1px solid #ccc;
+    color: #ccc;
+  }
+
+  .menu::after {
+    position: absolute;
+    content: "";
+    left: var(--space-m);
+    right: var(--space-m);
+    top: 0;
+    height: 1px;
+  }
+  .menu.open {
+    max-height: 300px;
+  }
+  :global(.homepage):not(.fixed) .menu {
+    bottom: -100px;
+  }
+}
+@media (min-width: 1024px) {
+  .menu {
+    border-top: none;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    transition: none;
+  }
+
+  .menu .itemList {
+    padding: 0;
+    justify-content: flex-end;
+  }
+
+  .menu .hiddenItemList {
+    list-style: none;
+    margin: 0;
+    position: absolute;
+    background: var(--background-color-primary);
+    border: 1px solid var(--line-color);
+    top: 40px;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    z-index: 3;
+  }
+  .menu .hiddenItemList:after {
+    content: "";
+    background: var(--background-color-primary);
+    z-index: 10;
+    top: -10px;
+    right: -1px;
+    width: 44px;
+    height: 10px;
+    position: absolute;
+    border-left: 1px solid var(--line-color);
+    border-right: 1px solid var(--line-color);
+  }
+  .fixed .hiddenItemList {
+    top: 44px;
+  }
+
+  .menu a {
+    text-shadow: 0;
+  }
+}
