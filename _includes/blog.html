@@ -5,7 +5,7 @@
     {% assign folder = page.url | split: "/" %}
     {% assign date = folder[3] | split: "--" | first | date: "%a, %b %d, %y"  %}
     {% assign length = folder[3] | split: "--" | size %}
-    {% if length == 2 %}{% if folder[2] == "posts" %}
+    {% if length == 2 %}{% if folder[1] == "posts" %}
     <li class="item">
       <a href="{{page.url}}" class="link">
         <div class="blog-image-container">
