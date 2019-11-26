@@ -1,6 +1,6 @@
 <main class="blog">
   <ul>
-    {% assign sorted = site.pages | reverse %}
+    {% assign sorted = (site.pages | sort: 'path') | reverse %}
     {% for page in sorted %}
     {% assign folder = page.url | split: "/" %}
     {% assign date = folder[3] | split: "--" | first | date: "%a, %b %d, %y"  %}
