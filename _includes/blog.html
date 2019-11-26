@@ -8,7 +8,9 @@
     {% if length == 2 %}{% if folder[2] == "posts" %}
     <li class="item">
       <a href="{{page.url}}" class="link">
+        <div class="blog-image-container">
         <img class="blog-image" src="{{page.url}}{{page.cover}}">
+        </div>
         <h1>
           {{page.title}} <FaArrowRight class="arrow" />
         </h1>
