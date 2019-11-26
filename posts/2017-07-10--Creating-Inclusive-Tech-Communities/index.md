@@ -1,4 +1,5 @@
 ---
+permalink: "/Creating-Inclusive-Tech-Communities/"
 title: Creating Inclusive Tech Communities
 category: "Communities"
 cover: img.jpg

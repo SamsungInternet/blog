@@ -1,4 +1,5 @@
 ---
+permalink: "/Yes/"
 title: Yes, mobile VR \*is\* real VR
 category: "Immersive Web"
 cover: img.jpg

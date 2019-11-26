@@ -1,4 +1,5 @@
 ---
+permalink: "/Things-I-learned-making-a-Progressive-Web-App-for/"
 title: Things I learned making a Progressive Web App for “super selfies”
 category: "PWA"
 cover: img.jpg

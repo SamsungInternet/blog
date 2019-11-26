@@ -1,4 +1,5 @@
 ---
+permalink: "/happy-hacktoberfest-from-samsung-internet/"
 cover: img.jpg
 title: "Happy Hacktoberfest from Samsung Internet🎃 👻 💻"
 description: "Can you believe that it is nearly October already?! I know we’d all love time to slow down but I’m pretty hyped for October & here’s why…"

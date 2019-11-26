@@ -1,4 +1,5 @@
 ---
+permalink: "/Native-form-validation/"
 title: Native form validation — part 1
 category: "Web Development"
 cover: img.jpg

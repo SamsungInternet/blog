@@ -1,4 +1,5 @@
 ---
+permalink: "/Introducing-Samsung-Internet-for-developers/"
 title: Introducing Samsung Internet for developers
 category: "Web Development"
 cover: img.png

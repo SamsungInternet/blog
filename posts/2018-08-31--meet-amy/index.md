@@ -1,4 +1,5 @@
 ---
+permalink: "/meet-amy/"
 cover: img.jpg
 title: "Hello Samsung Internet — I’m Amy, Nice to Meet you 👋"
 description: "This is my first week at Samsung; I’ve done my induction, been shown the fire exits and been given a desk — it’s official! I’m joining the Samsung Internet Web Developer Advocacy team for a six month internship and cannot wait to get started in my first “tech” industry role. 💻"

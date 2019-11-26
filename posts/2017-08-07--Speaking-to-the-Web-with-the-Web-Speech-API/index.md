@@ -1,4 +1,5 @@
 ---
+permalink: "/Speaking-to-the-Web-with-the-Web-Speech-API/"
 title: Speaking to the Web with the Web Speech API
 category: "PWA"
 cover: img.jpg

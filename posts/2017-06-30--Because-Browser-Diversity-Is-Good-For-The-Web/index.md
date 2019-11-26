@@ -1,4 +1,5 @@
 ---
+permalink: "/Because-Browser-Diversity-Is-Good-For-The-Web/"
 title: Because Browser Diversity Is Good For The Web
 category: "PWA"
 cover: img.jpg

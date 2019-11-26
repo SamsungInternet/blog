@@ -1,4 +1,5 @@
 ---
+permalink: "/making-vscode-run-faster-on-chromebooks/"
 cover: img.jpg
 title: "Making VSCode run faster on Chromebooks"
 description: "You can run Visual Studio Code on Chromebooks. Here is a way to run it with great performance."

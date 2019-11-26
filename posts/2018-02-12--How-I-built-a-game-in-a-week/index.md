@@ -1,4 +1,5 @@
 ---
+permalink: "/How-I-built-a-game-in-a-week/"
 title: How I built a game in a week
 category: "Web Development"
 cover: img.jpg

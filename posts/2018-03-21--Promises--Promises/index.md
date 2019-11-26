@@ -1,4 +1,5 @@
 ---
+permalink: "/Promises/"
 title: Promises, Promises
 category: "Web Development"
 cover: img.jpg

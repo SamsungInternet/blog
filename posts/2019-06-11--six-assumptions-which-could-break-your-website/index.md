@@ -1,4 +1,5 @@
 ---
+permalink: "/six-assumptions-which-could-break-your-website/"
 cover: img.jpg
 title: "Six assumptions which could break your website"
 description: "A mistake consistently made by some of the biggest websites shows they are thinking about responsive web design incorrectly."

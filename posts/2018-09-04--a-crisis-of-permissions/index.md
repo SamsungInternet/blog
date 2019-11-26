@@ -1,4 +1,5 @@
 ---
+permalink: "/a-crisis-of-permissions/"
 cover: img.jpg
 title: "A Crisis of Permissions"
 description: "I ❤ the internet. By visiting a URL I can have access to information, learn new skills, interact with friends, shop, watch movies, play games, you name it. Not only that but new APIs are constantly being created to allow us to interact with the web in new and exciting ways."

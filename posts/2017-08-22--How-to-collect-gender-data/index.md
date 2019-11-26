@@ -1,4 +1,5 @@
 ---
+permalink: "/How-to-collect-gender-data/"
 title: How to collect gender data
 category: "PWA"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Eleven-examples-of-how-WebVR-is-being-used-today/"
 title: Eleven examples of how WebVR is being used today
 category: "Immersive Web"
 cover: img.jpg

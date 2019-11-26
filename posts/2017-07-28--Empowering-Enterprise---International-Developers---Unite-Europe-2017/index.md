@@ -1,4 +1,5 @@
 ---
+permalink: "/Empowering-Enterprise/"
 title: Empowering Enterprise & International Developers - Unite Europe 2017
 category: "PWA"
 cover: img.jpg

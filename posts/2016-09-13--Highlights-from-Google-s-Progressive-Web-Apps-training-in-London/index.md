@@ -1,4 +1,5 @@
 ---
+permalink: "/Highlights-from-Google-s-Progressive-Web-Apps-training-in-London/"
 title: Highlights from Google’s Progressive Web Apps training in London
 category: "Web Development"
 cover: img.jpg

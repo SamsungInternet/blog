@@ -1,4 +1,5 @@
 ---
+permalink: "/Introducing-our-new-Tracking-Blocker/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Web Performance"
 cover: img.jpg

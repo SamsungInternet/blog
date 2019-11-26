@@ -1,4 +1,5 @@
 ---
+permalink: "/VJ-On-The-Go/"
 title: VJ On The Go
 category: "Web APIs"
 cover: img.jpg

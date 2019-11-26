@@ -1,4 +1,5 @@
 ---
+permalink: "/Virtual-Hackathon-Let-s-make-VR-Together/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Immersive Web"
 cover: img.jpg

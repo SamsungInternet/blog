@@ -1,4 +1,5 @@
 ---
+permalink: "/Common-Responsive-Layouts-with-CSS-Grid/"
 title: Common Responsive Layouts with CSS Grid (and some without!)
 category: "PWA"
 cover: img.jpg

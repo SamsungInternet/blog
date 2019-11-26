@@ -1,4 +1,5 @@
 ---
+permalink: "/web-driver-chrome-driver/"
 cover: img.jpg
 title: "How to use WebDriver and ChromeDriver to automate Samsung Internet"
 description: "Good news! Since v8 of Samsung Internet, now available in Beta, it is possible to automate the browser using ChromeDriver, the Selenium WebDriver protocol implementation for Chromium browsers."

@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-and-the-Polyfill-Service/"
 title: Samsung and the Polyfill Service
 category: "Web Development"
 cover: img.png

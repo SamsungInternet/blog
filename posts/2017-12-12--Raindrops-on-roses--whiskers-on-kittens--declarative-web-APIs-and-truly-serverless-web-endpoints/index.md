@@ -1,4 +1,5 @@
 ---
+permalink: "/Raindrops-on-roses/"
 title: Raindrops on roses, whiskers on kittens, declarative web APIs and truly serverless web endpoints
 category: "Web Development"
 cover: img.jpg

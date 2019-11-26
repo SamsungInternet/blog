@@ -1,4 +1,5 @@
 ---
+permalink: "/A-thought-about-VR-beyond-VR/"
 title: A thought about VR beyond VR
 category: "Immersive Web"
 cover: img.jpg

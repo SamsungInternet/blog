@@ -1,4 +1,5 @@
 ---
+permalink: "/Gamepad-API-to-control-parts-of-an-SVG/"
 title: Gamepad API to control parts of an SVG
 category: "PWA"
 cover: img.jpg

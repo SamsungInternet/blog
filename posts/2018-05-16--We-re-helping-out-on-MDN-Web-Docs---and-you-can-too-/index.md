@@ -1,4 +1,5 @@
 ---
+permalink: "/We-re-helping-out-on-MDN-Web-Docs/"
 title: We’re helping out on MDN Web Docs — and you can too!
 category: "Web Development"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/LDNWebPerf-Talk-Notes/"
 title: LDNWebPerf Talk Notes
 category: "Web Performance"
 cover: img.jpg

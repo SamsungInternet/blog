@@ -1,4 +1,5 @@
 ---
+permalink: "/Progressing-the-Story-of-Progressive-Web-Apps/"
 title: Progressing the Story of Progressive Web Apps
 category: "PWA"
 cover: img.jpg

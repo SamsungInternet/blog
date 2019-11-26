@@ -1,4 +1,5 @@
 ---
+permalink: "/Success-with-CSS/"
 title: Success with CSS
 category: "Web Development"
 cover: img.jpg

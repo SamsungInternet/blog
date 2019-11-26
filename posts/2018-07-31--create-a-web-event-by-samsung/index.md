@@ -1,4 +1,5 @@
 ---
+permalink: "/create-a-web-event-by-samsung/"
 cover: img.jpg
 title: "Create, a web event from Samsung"
 description: "A major component to my work over the years has been creating connections. Connections between various industries and immersive technologies, the flat web with 3D, and connections between people. In retrospect I know this was a major variable for why when the opportunity to organize a web developer conference for Samsung came up earlier this year I jumped on the chance. Given this realization came later, I’m labeling it reason #**3** for why I had to participate in making a web developer conference happen."

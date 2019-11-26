@@ -1,4 +1,5 @@
 ---
+permalink: "/NYC/"
 title: NYC, if I can make WebVR here…
 category: "Communities"
 cover: img.jpg

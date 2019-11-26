@@ -1,4 +1,5 @@
 ---
+permalink: "/Announcing-the-W3C-Workshop-on-WebVR-Authoring/"
 title: Announcing the W3C Workshop on WebVR Authoring
 category: "Immersive Web"
 cover: img.jpg

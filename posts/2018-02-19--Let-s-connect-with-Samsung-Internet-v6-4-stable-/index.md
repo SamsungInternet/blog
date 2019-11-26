@@ -1,4 +1,5 @@
 ---
+permalink: "/Let-s-connect-with-Samsung-Internet-v6-4-stable-/"
 title: Let’s connect with Samsung Internet v6.4 stable!
 category: "Browser Features"
 cover: img.jpg

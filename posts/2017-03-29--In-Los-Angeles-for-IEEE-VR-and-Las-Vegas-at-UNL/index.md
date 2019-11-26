@@ -1,4 +1,5 @@
 ---
+permalink: "/In-Los-Angeles-for-IEEE-VR-and-Las-Vegas-at-UNL/"
 title: In Los Angeles for IEEE VR and Las Vegas at UNLV
 category: "Immersive Web"
 cover: img.jpg

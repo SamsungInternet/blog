@@ -1,4 +1,5 @@
 ---
+permalink: "/How-to-take-payments-on-the-web-with-the-Payment-Request-API/"
 title: How to take payments on the web with the Payment Request API
 category: "PWA"
 cover: img.jpg

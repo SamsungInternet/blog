@@ -1,4 +1,5 @@
 ---
+permalink: "/Hedgehog-Curling-with-WebBluetooth-and-WebVR/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Web APIs"
 cover: img.jpg

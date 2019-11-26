@@ -1,4 +1,5 @@
 ---
+permalink: "/WebVR/"
 title: WebVR - Connecting People, Pandas and You
 category: "PWA"
 cover: img.jpg

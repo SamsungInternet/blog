@@ -2,17 +2,18 @@
   <ul>
     {% assign sorted = (site.pages | sort: 'path') | reverse %}
     {% for page in sorted %}
-    {% assign folder = page.url | split: "/" %}
-    {% assign date = folder[3] | split: "--" | first | date: "%a, %b %d, %y"  %}
-    {% assign length = folder[3] | split: "--" | size %}
-    {% if length == 2 %}{% if folder[1] == "posts" %}
+    {% assign folder = page.path | split: "/" %}
+    {% assign date = folder[1] | split: "--" | first | date: "%a, %b %d, %y"  %}
+    {% assign stub = folder[1] | split: "--" | last | handleize  %}
+    {% assign length = folder[1] | split: "--" | size %}
+    {% if length == 2 %}{% if folder[0] == "posts" %}
     <li class="item">
-      <a href="{{page.url}}" class="link">
+      <a href="{{ page.url }}" class="link">
         <div class="blog-image-container">
-        <img class="blog-image" src="{{page.url}}{{page.cover}}">
+        <img class="blog-image" src="/{{folder[0]}}/{{folder[1]/}}/{{page.cover}}">
         </div>
         <h1>
-          {{page.title}} <FaArrowRight class="arrow" />
+          {{page.title}}{% include faarrow.html %}
         </h1>
         {% assign type = page.category %}
         {% assign icon = page.category | remove: " " | downcase  %}

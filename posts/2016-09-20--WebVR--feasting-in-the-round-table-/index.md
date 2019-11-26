@@ -1,4 +1,5 @@
 ---
+permalink: "/WebVR/"
 title: WebVR, feasting in the round table
 category: "Immersive Web"
 cover: img.jpg

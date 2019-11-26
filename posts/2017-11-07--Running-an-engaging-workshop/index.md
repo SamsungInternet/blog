@@ -1,4 +1,5 @@
 ---
+permalink: "/Running-an-engaging-workshop/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Communities"
 cover: img.jpg

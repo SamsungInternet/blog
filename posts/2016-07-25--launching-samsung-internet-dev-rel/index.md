@@ -1,4 +1,5 @@
 ---
+permalink: "/launching-samsung-internet-dev-rel/"
 title: Launching Samsung Internet Dev Rel
 category: "Web Development"
 cover: 1_Fs1Z2eolFwmr1oWAxO1qsw.png

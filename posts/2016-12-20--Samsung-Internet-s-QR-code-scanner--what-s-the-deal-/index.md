@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-Internet-s-QR-code-scanner/"
 title: "Samsung Internet’s QR code scanner: what’s the deal?"
 category: "Browser Features"
 cover: img.jpg

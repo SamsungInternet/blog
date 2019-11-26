@@ -1,4 +1,5 @@
 ---
+permalink: "/WebVR-Navigation-in-Samsung-Internet-for-GearVR/"
 title: WebVR Navigation in Samsung Internet for GearVR
 category: "Immersive Web"
 cover: img.jpg

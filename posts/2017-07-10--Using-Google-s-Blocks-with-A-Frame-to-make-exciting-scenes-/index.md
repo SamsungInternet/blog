@@ -1,4 +1,5 @@
 ---
+permalink: "/Using-Google-s-Blocks-with-A-Frame-to-make-exciting-scenes-/"
 title: Using Google’s Blocks with A-Frame to make exciting scenes!
 category: "PWA"
 cover: img.jpg

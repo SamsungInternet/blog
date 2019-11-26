@@ -1,4 +1,5 @@
 ---
+permalink: "/dentro-de-la-burbuja/"
 title: Dentro de la Burbuja
 category: "Immersive Web"
 cover: img.jpg

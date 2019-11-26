@@ -1,7 +1,7 @@
 <section class="feature">
   {% for page in (site.pages | sort: 'date' | reverse) %}
   {% assign folder = page.url | split: "/" %}
-  {% if folder[2] == "posts" %}
+  {% if folder[1] == "posts" %}
   {% if page.featuredArticle %}
   <a href="{{page.url}}">
     <img class="blog-image" src="{{page.url}}{{page.cover}}"" alt="{{page.coverAlt}}" />

@@ -1,4 +1,5 @@
 ---
+permalink: "/Introducing-Disconnect-for-Samsung-Internet/"
 title: Introducing Disconnect for Samsung Internet
 category: "Browser Features"
 cover: img.jpg

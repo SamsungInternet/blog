@@ -1,4 +1,5 @@
 ---
+permalink: "/Big-news-for-our-new-Samsung-Internet-beta-v6-2-/"
 title: Big news for our new Samsung Internet beta v6.2!
 category: "Browser Features"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-Internet-v6-2-now-Stable-/"
 title: Samsung Internet v6.2 now Stable
 category: "Browser Features"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Bringing-the-real-world-to-your-browser-with-CloseBy/"
 title: Bringing the real world to your browser with CloseBy
 category: "WoT"
 cover: img.jpg

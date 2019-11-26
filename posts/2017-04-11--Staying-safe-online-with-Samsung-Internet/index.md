@@ -1,4 +1,5 @@
 ---
+permalink: "/Staying-safe-online-with-Samsung-Internet/"
 title: Staying safe online with Samsung Internet
 category: "PWA"
 cover: img.jpg

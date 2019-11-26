@@ -1,4 +1,5 @@
 ---
+permalink: "/4-ways-Virtual-Reality-can-now-step-up-and-help-the-world/"
 title: 4 ways Virtual Reality can now step up and help the world
 category: "Immersive Web"
 cover: img.jpg

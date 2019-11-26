@@ -1,4 +1,5 @@
 ---
+permalink: "/web-workers-in-the-real-world/"
 cover: img.jpg
 title: "Web Workers in the Real World"
 description: "I wrote this article whilst building a demo website which uses both expensive physics and an expensive SVG filter. It was important that it felt really tactile on mobile devices, so it had to run very smoothly."

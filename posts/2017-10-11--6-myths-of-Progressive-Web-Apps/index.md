@@ -1,4 +1,5 @@
 ---
+permalink: "/6-myths-of-Progressive-Web-Apps/"
 title: 6 myths of Progressive Web Apps
 category: "PWA"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Making-VR-fast-and-for-everyone/"
 title: Making VR fast and for everyone - What we can learn from The Web
 category: "Immersive Web"
 cover: img.jpg

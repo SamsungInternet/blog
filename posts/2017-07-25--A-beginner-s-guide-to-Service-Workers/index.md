@@ -1,4 +1,5 @@
 ---
+permalink: "/A-beginner-s-guide-to-Service-Workers/"
 title: A beginner’s guide to Service Workers
 category: "PWA"
 cover: img.jpg

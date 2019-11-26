@@ -1,4 +1,5 @@
 ---
+permalink: "/Isomorphic-ES-Modules/"
 title: Isomorphic ES Modules
 category: "Web Development"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/How-exclusive-tech-events-can-foster-an-inclusive-tech-community/"
 title: How exclusive tech events can foster an inclusive tech community
 category: "Communities"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-Internet/"
 title: Samsung Internet @ Mobile World Congress 2017
 category: "Immersive Web"
 cover: img.jpg

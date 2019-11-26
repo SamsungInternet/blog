@@ -1,4 +1,5 @@
 ---
+permalink: "/Creando-un-Componente-Web-simple-para-usar-un-mando/"
 title: Creando un Componente Web simple para usar un mando
 category: "Web APIs"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/W3C-WebVR-Workshop-Follow-Up/"
 title: W3C WebVR Workshop Follow Up
 category: "Immersive Web"
 cover: img.jpg

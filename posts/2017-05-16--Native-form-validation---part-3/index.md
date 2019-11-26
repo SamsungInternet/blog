@@ -1,4 +1,5 @@
 ---
+permalink: "/Native-form-validation/"
 title: Native form validation — part 3
 category: "Browser Features"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Tweet-My-Wedding-Dress/"
 cover: img.jpg
 title: "Tweet My Wedding Dress"
 description: "Coming up on two years ago, I attended EMF Camp, ‘a non-profit UK camping festival for those with an inquisitive mind or an interest in making things’, the best way I can describe it is ‘It’s like Glastonbury for nerds’. One of the many incredible pieces on display was a giant inflatable rabbit, that you could change the colour of by tweeting."

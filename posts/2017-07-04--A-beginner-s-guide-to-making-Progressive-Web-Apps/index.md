@@ -1,4 +1,5 @@
 ---
+permalink: "/A-beginner-s-guide-to-making-Progressive-Web-Apps/"
 title: A beginner’s guide to making Progressive Web Apps
 category: "PWA"
 cover: img.jpg

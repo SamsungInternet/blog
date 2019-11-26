@@ -1,4 +1,5 @@
 ---
+permalink: "/Try-our-download-improvements-with-Samsung-Internet-Beta-v6-4/"
 title: Try our download improvements with Samsung Internet Beta v6.4
 category: "Browser Features"
 cover: img.jpg

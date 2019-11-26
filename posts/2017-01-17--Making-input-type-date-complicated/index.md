@@ -1,4 +1,5 @@
 ---
+permalink: "/Making-input-type-date-complicated/"
 title: Making input type=date complicated
 category: "Web Development"
 cover: img.jpg

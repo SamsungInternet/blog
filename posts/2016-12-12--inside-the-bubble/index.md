@@ -1,4 +1,5 @@
 ---
+permalink: "/inside-the-bubble/"
 title: Inside the Bubble
 category: "Immersive Web"
 cover: img.jpg

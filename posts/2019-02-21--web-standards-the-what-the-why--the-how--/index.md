@@ -1,4 +1,5 @@
 ---
+permalink: "/web-standards-the-what-the-why/"
 cover: img.jpg
 title: "Web Standards: the What, the Why & the How? 🕸 📋"
 description: "This article was featured in Smashing Magazine on the 14th January 2019. You can find more content like this on Medium through Smashing Magazine & on the Smashing Magazine website."

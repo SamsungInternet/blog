@@ -1,4 +1,5 @@
 ---
+permalink: "/Is/"
 title: Is “browser” still the right word?
 category: "PWA"
 cover: img.jpg

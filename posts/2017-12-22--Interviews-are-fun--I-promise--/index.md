@@ -1,4 +1,5 @@
 ---
+permalink: "/Interviews-are-fun/"
 title: Interviews are fun (I promise!)
 category: "Communities"
 cover: img.jpg

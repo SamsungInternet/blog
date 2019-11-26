@@ -1,4 +1,5 @@
 ---
+permalink: "/I-made-my-first-PR-to-A-Frame/"
 title: I made my first PR to A-Frame!
 category: "Immersive Web"
 cover: img.jpg

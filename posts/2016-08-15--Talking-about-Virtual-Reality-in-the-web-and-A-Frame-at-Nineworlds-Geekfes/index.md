@@ -1,4 +1,5 @@
 ---
+permalink: "/Talking-about-Virtual-Reality-in-the-web-and-A-Frame-at-Nineworlds-Geekfes/"
 title: Talking about Virtual Reality in the web and A-Frame at Nineworlds Geekfest
 category: "Immersive Web"
 cover: img.png

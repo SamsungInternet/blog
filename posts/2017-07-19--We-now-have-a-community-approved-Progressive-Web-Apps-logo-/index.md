@@ -1,4 +1,5 @@
 ---
+permalink: "/We-now-have-a-community-approved-Progressive-Web-Apps-logo-/"
 title: We now have a community-approved Progressive Web Apps logo!
 category: "PWA"
 cover: img.jpg

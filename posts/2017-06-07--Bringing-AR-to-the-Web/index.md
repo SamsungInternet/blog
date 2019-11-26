@@ -1,4 +1,5 @@
 ---
+permalink: "/Bringing-AR-to-the-Web/"
 title:  Bringing AR to the Web
 category: "Immersive Web"
 cover: img.jpg

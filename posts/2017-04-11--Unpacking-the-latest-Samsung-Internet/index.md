@@ -1,4 +1,5 @@
 ---
+permalink: "/Unpacking-the-latest-Samsung-Internet/"
 title: Unpacking the latest Samsung Internet
 category: "Browser Features"
 cover: img.jpg

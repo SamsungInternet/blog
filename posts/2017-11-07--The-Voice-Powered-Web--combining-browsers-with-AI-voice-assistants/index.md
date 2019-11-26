@@ -1,4 +1,5 @@
 ---
+permalink: "/The-Voice-Powered-Web/"
 title: The Voice-Powered Web - combining browsers with AI voice assistants
 category: "Browser Features"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/New-Samsung-Internet-Beta/"
 title: New Samsung Internet Beta, Introduces Protected Browsing!
 category: "Browser Features"
 cover: img.jpg

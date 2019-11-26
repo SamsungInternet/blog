@@ -1,4 +1,5 @@
 ---
+permalink: "/Iris-Scanning-Comes-to-the-Web/"
 title: Iris Scanning Comes to the Web
 category: "Browser Features"
 cover: img.jpg

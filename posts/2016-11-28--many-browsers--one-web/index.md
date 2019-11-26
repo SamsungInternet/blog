@@ -1,4 +1,5 @@
 ---
+permalink: "/many-browsers/"
 title: Many Browsers, One Web
 category: "Web Development"
 cover: img.jpg

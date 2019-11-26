@@ -1,4 +1,5 @@
 ---
+permalink: "/hello-web-community-this-is-laura-the-new-member-of-samsung-internet/"
 cover: img.jpg
 title: "Hello Web Community, this is Laura, the new member of Samsung Internet!"
 description: "Since this week I am proud to say that I am officially joining Samsung Internet as a web developer advocate!! This is one of the most important moves in my career and here are some reasons why:"

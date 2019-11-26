@@ -1,4 +1,5 @@
 ---
+permalink: "/Wow-that-was-some-night-in-VR-/"
 title: Wow that was some night in VR!
 category: "Immersive Web"
 cover: img.jpg

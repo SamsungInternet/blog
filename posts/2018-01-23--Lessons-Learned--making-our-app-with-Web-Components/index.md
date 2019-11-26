@@ -1,4 +1,5 @@
 ---
+permalink: "/Lessons-Learned/"
 title: Lessons Learned, making our app with Web Components
 category: "PWA"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/ethically-sourced-software/"
 cover: img.jpg
 title: "Ethically Sourced Software at #EMF2018"
 description: "Just over a week ago I rolled out the camping gear to join friends & colleagues at a Tech Festival in the gorgeous setting of Eastnor Castle in the UK. This festival is called Electromagnetic Field (EMF) and it runs every two years, much to the delight of many tech communities across the world."

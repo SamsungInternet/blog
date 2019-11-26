@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-Internet-at-MozFest-/"
 title: Samsung Internet at MozFest!
 category: "Web Development"
 cover: img.jpg

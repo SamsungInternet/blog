@@ -1,4 +1,5 @@
 ---
+permalink: "/-Help/"
 title: Help! someone has pointed out my conference has diversity issues!
 category: "Communities"
 cover: img.jpg

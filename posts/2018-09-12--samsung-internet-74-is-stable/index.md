@@ -1,4 +1,5 @@
 ---
+permalink: "/samsung-internet-74-is-stable/"
 cover: img.jpg
 title: "Samsung Internet 7.4 is stable — let’s check-out what’s new 🛒"
 description: "Featuring the improvements from the 7.4 Beta, including special news and shopping additions in the US"

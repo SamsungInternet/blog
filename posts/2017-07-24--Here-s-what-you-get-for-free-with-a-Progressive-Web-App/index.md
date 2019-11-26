@@ -1,4 +1,5 @@
 ---
+permalink: "/Here-s-what-you-get-for-free-with-a-Progressive-Web-App/"
 title: Here’s what you get for free with a Progressive Web App
 category: "PWA"
 cover: img.jpg

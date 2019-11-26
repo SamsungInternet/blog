@@ -1,4 +1,5 @@
 ---
+permalink: "/Public-Speaking-for-Beginners/"
 title: Public Speaking for Beginners
 category: "Communities"
 cover: img.jpg

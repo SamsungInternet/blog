@@ -1,4 +1,5 @@
 ---
+permalink: "/Release-of-Samsung-Internet-Chrome-Extension-v2/"
 title: Release of Samsung Internet Chrome Extension v2
 category: "Browser Features"
 cover: img.jpg

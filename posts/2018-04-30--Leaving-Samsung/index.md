@@ -1,4 +1,5 @@
 ---
+permalink: "/Leaving-Samsung/"
 title: Leaving Samsung
 category: "Communities"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Gamepad-API-para-controlar-partes-de-un-SVG/"
 title: Gamepad API para controlar partes de un SVG
 category: "Web APIs"
 cover: img.jpg

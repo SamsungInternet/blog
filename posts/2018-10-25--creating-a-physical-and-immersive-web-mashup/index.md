@@ -1,4 +1,5 @@
 ---
+permalink: "/creating-a-physical-and-immersive-web-mashup/"
 cover: img.jpg
 title: "Creating a physical and immersive web mashup"
 description: "It’s an exciting time for interacting with physical devices via the web — and also for the Immersive Web. The former just received a boost last week with Web Bluetooth support arriving in the stable Chrome browser on Windows. For the latter, last month saw the announcement of the formation of the W3C Immersive Web Working Group, to continue the work bringing high-performance Virtual Reality and Augmented Reality to the open Web."

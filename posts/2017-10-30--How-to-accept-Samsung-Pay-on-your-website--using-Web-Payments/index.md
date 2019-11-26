@@ -1,4 +1,5 @@
 ---
+permalink: "/How-to-accept-Samsung-Pay-on-your-website/"
 title: How to accept Samsung Pay on your website, using Web Payments
 category: "Web APIs"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Opening-Up-the-Beta/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Web Development"
 cover: img.jpg

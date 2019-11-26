@@ -1,4 +1,5 @@
 ---
+permalink: "/Hacking-Storms-in-Antigua-with-the-UN/"
 title:  Hacking Storms in Antigua with the UN
 category: "Communities"
 cover: img.jpg

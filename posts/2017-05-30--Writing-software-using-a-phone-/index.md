@@ -1,4 +1,5 @@
 ---
+permalink: "/Writing-software-using-a-phone-/"
 title: Writing software using a phone!
 category: "PWA"
 cover: img.jpg

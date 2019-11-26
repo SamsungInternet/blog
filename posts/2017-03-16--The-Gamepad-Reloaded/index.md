@@ -1,4 +1,5 @@
 ---
+permalink: "/The-Gamepad-Reloaded/"
 title: The Gamepad Reloaded
 category: "PWA"
 cover: img.jpg

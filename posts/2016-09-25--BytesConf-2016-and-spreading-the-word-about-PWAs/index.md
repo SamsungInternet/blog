@@ -1,4 +1,5 @@
 ---
+permalink: "/BytesConf-2016-and-spreading-the-word-about-PWAs/"
 title: BytesConf 2016 and spreading the word about PWAs
 category: "PWA"
 cover: img.jpg

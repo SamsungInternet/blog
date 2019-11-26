@@ -1,4 +1,5 @@
 ---
+permalink: "/Look-Forward/"
 title: Look Forward, Fashion Tech
 category: "WoT"
 cover: img.jpg

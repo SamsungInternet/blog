@@ -1,4 +1,5 @@
 ---
+permalink: "/Browsing-for-better-battery-life/"
 title: Browsing for better battery life
 category: "Browser Features"
 cover: img.jpg

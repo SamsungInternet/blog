@@ -1,4 +1,5 @@
 ---
+permalink: "/Ethics-in/"
 title: Ethics in (web) VR
 category: "Immersive Web"
 cover: img.jpg

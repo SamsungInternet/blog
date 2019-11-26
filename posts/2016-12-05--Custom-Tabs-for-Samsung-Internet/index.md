@@ -1,4 +1,5 @@
 ---
+permalink: "/Custom-Tabs-for-Samsung-Internet/"
 title: Custom Tabs for Samsung Internet
 category: "Browser Features"
 cover: img.jpg

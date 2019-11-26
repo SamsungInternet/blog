@@ -1,4 +1,5 @@
 ---
+permalink: "/the-economics-of-empathy/"
 cover: img.jpg
 title: "The Economics of Empathy"
 description: "A short while ago I sent out a tweet saying that in order to remain relevant as software engineers then we needed to focus on our skills of empathy, cognitive diversity and self-care."

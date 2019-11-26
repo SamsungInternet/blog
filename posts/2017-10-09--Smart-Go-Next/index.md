@@ -1,4 +1,5 @@
 ---
+permalink: "/Smart-Go-Next/"
 title: Smart Go Next
 category: "Browser Features"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Ready/"
 title: Ready. Set. Gamepad. \[Updated\]
 category: "Immersive Web"
 cover: img.jpg

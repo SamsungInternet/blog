@@ -1,4 +1,5 @@
 ---
+permalink: "/-are-you-accessible/"
 cover: img.jpg
 title: "👉 Are you accessible? 👈 — A Primer on Web Accessibility"
 description: "Accessibility of the world wide web hasn’t always been a number one priority for web developers (much to detriment of internet users). Whilst very few people set out to design a website that is inaccessible, many studies have documented partially or completely inaccessible websites [1]."

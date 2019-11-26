@@ -1,4 +1,5 @@
 ---
+permalink: "/create-keynotes/"
 cover: img.jpg
 title: "All the Keynote talks from Samsung Create 2018"
 description: "Starting off with our series of Create conference videos are the keynotes from the event. There is really no better way to set the theme of a conference and inspire attendees than with a good opening keynote. At the Create conference, we were fortunate to have the following keynote speakers."

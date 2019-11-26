@@ -1,4 +1,5 @@
 ---
+permalink: "/Web-Communities/"
 title: Web Communities - For the People
 category: "Communities"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Perfectionism/"
 title: Perfectionism, anxiety and learning to be kind to yourself
 category: "Communities"
 cover: img.jpg

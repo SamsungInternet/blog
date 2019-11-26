@@ -1,4 +1,5 @@
 ---
+permalink: "/quick-suggest/"
 cover: img.jpg
 title: "Introducing Quick Suggest, your personal shopping assistant from Samsung Internet!"
 description: "As holiday shopping season is approaching fast, we are very excited to announce Quick Suggest, a shopping assistant built right into Samsung Internet browser."

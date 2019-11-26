@@ -1,4 +1,5 @@
 ---
+permalink: "/introducing-news-push/"
 cover: img.jpg
 title: "Introducing News Push, the first of our news offerings"
 description: "News Push, Be the First to Know"

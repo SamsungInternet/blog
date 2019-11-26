@@ -1,4 +1,5 @@
 ---
+permalink: "/introducing-llama-vision-a-website-that-detects-llamas-through-your-camera/"
 cover: img.jpg
 title: "Introducing Llama Vision, a website that detects llamas through your camera"
 description: "A few months ago, I first tried out Tensorflow.js, the machine learning library for JavaScript. I took a pre-trained model I found called MobileNet and copied some of the example code. One of the lines said “replace this with your image”, but I thought I’d try it out on a video instead. I grabbed a Creative Commons video of some llamas and… I was astonished!"

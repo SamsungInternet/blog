@@ -1,4 +1,5 @@
 ---
+permalink: "/using-basis-textures-in-threejs/"
 cover: img.jpg
 title: "Using Basis Textures in Three.js"
 description: "Basis Universal is a new image format designed to produce very small file sizes and to be decoded on graphics cards instead of on the CPU, making it very fast to decode and perfect for WebGL scenes. Support for this is very new and requires the latest THREE.js 106."

@@ -1,4 +1,5 @@
 ---
+permalink: "/adding-3d-models-to-your-website/"
 cover: img.jpg
 title: "Adding 3D Models to your Website"
 description: "When we start thinking about assets to include in our websites we run into the usual suspects. Images, fonts, videos and audio — if you’re on the edgier side. But we are in the dawn of a new type of immersive computing, where 3D models will become a typical asset we will be able to find on websites. We can already find great repositories of objects in sites like Remix3D (a favorite of mine) or Poly, and right now we will take a look at how to easily build — and incorporate — them into our websites."

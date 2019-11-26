@@ -1,4 +1,5 @@
 ---
+permalink: "/Announcing-Samsung-Internet-v5-4-stable-/"
 title: Announcing Samsung Internet v5.4 stable!
 category: "Web Development"
 cover: img.jpg

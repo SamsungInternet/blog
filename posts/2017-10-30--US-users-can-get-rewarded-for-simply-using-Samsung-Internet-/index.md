@@ -1,4 +1,5 @@
 ---
+permalink: "/US-users-can-get-rewarded-for-simply-using-Samsung-Internet-/"
 title: US users can get rewarded for simply using Samsung Internet!
 category: "Browser Features"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/What-does-it-mean-to-be-an-App-/"
 title: What does it mean to be an App?
 category: "PWA"
 cover: img.jpg

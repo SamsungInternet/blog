@@ -1,4 +1,5 @@
 ---
+permalink: "/Making-my-first-WebVR-game-using-A-Frame/"
 title:  Making my first WebVR game using A-Frame
 category: "Immersive Web"
 cover: img.jpg

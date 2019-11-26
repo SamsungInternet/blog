@@ -1,4 +1,5 @@
 ---
+permalink: "/samsung-internet-102-beta/"
 cover: img.jpg
 title: "Samsung Internet 10.2 Beta"
 description: "Broken ring error screen, new tab presentation & reining in spammy apps are all part of the story. Plus: video assistant is reborn!"

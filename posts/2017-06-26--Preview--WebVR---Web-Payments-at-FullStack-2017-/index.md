@@ -1,4 +1,5 @@
 ---
+permalink: "/Preview/"
 title: Preview - WebVR & Web Payments at FullStack 2017!
 category: "PWA"
 cover: img.jpg

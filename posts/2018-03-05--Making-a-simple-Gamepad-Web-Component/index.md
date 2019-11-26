@@ -1,4 +1,5 @@
 ---
+permalink: "/Making-a-simple-Gamepad-Web-Component/"
 title: Making a simple Gamepad Web Component
 category: "Web APIs"
 cover: img.jpg

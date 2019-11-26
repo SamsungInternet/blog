@@ -1,4 +1,5 @@
 ---
+permalink: "/Human-Friendly-Colours-using-HSL/"
 title: Human Friendly Colours using HSL
 category: "Web Development"
 cover: img.jpg

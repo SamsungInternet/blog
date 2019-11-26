@@ -1,4 +1,5 @@
 ---
+permalink: "/HyperTextual-Reality/"
 title: HyperTextual Reality
 category: "Immersive Web"
 cover: img.jpg

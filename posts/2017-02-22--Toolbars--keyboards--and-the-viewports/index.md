@@ -1,4 +1,5 @@
 ---
+permalink: "/Toolbars/"
 title: Toolbars, keyboards, and the viewports
 category: "Web Development"
 cover: img.jpg

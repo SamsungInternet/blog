@@ -1,4 +1,5 @@
 ---
+permalink: "/Performance-Testing-Web-Assembly-vs-JavaScript/"
 title: Performance Testing Web Assembly vs JavaScript
 category: "Web Development"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/WebXR-for-Social-Good/"
 title: WebXR for Social Good
 category: "Immersive Web"
 cover: img.jpg

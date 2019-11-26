@@ -1,4 +1,5 @@
 ---
+permalink: "/the-secret-to-devtools-for-mobile-web-developers/"
 cover: img.jpg
 title: "The “Secret” to DevTools for Mobile Web developers"
 description: "A special guest post from Samsung Internet engineering group team member, Adil!"

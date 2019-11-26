@@ -1,4 +1,5 @@
 ---
+permalink: "/Web-Audio-en-distintas-plataformas/"
 title: Web Audio en distintas plataformas
 category: "Web APIs"
 cover: img.jpg

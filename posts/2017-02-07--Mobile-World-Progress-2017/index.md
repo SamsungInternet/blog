@@ -1,4 +1,5 @@
 ---
+permalink: "/Mobile-World-Progress-2017/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Web Development"
 cover: img.jpg

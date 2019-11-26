@@ -1,4 +1,5 @@
 ---
+permalink: "/Prototyping-a-VR-web-app-with-the-world-s-leading-tourism-company/"
 title: Prototyping a VR web app with the world’s leading tourism company
 category: "Immersive Web"
 cover: img.jpg

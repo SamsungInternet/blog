@@ -1,4 +1,5 @@
 ---
+permalink: "/Desempacando-el/"
 title: Desempacando el último Samsung Internet
 category: "Immersive Web"
 cover: img.jpg

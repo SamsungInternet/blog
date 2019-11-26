@@ -1,4 +1,5 @@
 ---
+permalink: "/Reducing-the-friction-of-online-payments/"
 title: Reducing the friction of online payments
 category: "Web APIs"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Progressive-Web-Apps-are-a-toolkit/"
 title:  Progressive Web Apps are a toolkit, not a recipe
 category: "PWA"
 cover: img.jpg

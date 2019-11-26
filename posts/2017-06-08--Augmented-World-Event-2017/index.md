@@ -1,4 +1,5 @@
 ---
+permalink: "/Augmented-World-Event-2017/"
 title: Augmented World Event 2017
 category: "Immersive Web"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-Internet-v7-4-Beta-is-here-/"
 title: Samsung Internet v7.4 Beta is here!
 category: "Browser Features"
 cover: img.jpg

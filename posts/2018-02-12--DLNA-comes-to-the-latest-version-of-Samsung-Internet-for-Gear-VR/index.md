@@ -1,4 +1,5 @@
 ---
+permalink: "/DLNA-comes-to-the-latest-version-of-Samsung-Internet-for-Gear-VR/"
 title: DLNA comes to the latest version of Samsung Internet for Gear VR
 category: "Immersive Web"
 cover: img.jpg

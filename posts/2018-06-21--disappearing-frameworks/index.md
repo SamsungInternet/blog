@@ -1,4 +1,5 @@
 ---
+permalink: "/disappearing-frameworks/"
 cover: img.jpg
 title: "Disappearing Frameworks"
 description: "Frameworks like Angular, React and Ember are par-for-the-course for complex web development these days. Over this decade (Angular was first released in 2010) they have grown to become defacto standards for many of us, helping countless organisations to structure their code, manage state and build complex UIs, based on reusable components."

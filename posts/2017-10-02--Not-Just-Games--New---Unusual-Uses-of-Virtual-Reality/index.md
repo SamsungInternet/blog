@@ -1,4 +1,5 @@
 ---
+permalink: "/Not-Just-Games/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Immersive Web"
 cover: img.jpg

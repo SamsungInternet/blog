@@ -1,4 +1,5 @@
 ---
+permalink: "/speed-up-your-work-flow-by-turning-command-line-tools-into-interactive-dashboards/"
 cover: img.jpg
 title: "Speed up your work flow by turning command line tools into interactive dashboards"
 description: "Ever feel like you live in a terminal?"

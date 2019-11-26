@@ -1,4 +1,5 @@
 ---
+permalink: "/Being-fast-and-light/"
 title: Being fast and light - Using binary data to optimise libraries on the client and the server.
 category: "Web Performance"
 cover: img.jpg

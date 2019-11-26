@@ -1,4 +1,5 @@
 ---
+permalink: "/Ava/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "PWA"
 cover: img.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: "/muchos-navegadores/"
 title: muchos navegadores, una web
 category: "Web Development"
 cover: img.jpg

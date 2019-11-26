@@ -1,4 +1,5 @@
 ---
+permalink: "/How-to-make-Sky-Boxes-from-A-Frame-Scenes/"
 title: How to make Sky Boxes from A-Frame Scenes
 category: "Immersive Web"
 cover: img.jpg

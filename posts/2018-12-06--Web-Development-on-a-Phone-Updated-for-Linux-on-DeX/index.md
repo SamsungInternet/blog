@@ -1,4 +1,5 @@
 ---
+permalink: "/Web-Development-on-a-Phone-Updated-for-Linux-on-DeX/"
 cover: Untitled-12a71479-25be-4760-8091-8bac687ea14f.png
 title: Web Development on a Phone. Updated for Linux on DeX
 description: "Last year I wrote about how you can use a phone for web development using an Android Linux Terminal, now it's possible to have full desktop linux on the phone, lets see how that changes things."

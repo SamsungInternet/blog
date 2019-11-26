@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-Internet-Beta-now-available-without-sign-up/"
 title: Samsung Internet Beta now available without sign up
 category: "Browser Features"
 cover: img.jpg

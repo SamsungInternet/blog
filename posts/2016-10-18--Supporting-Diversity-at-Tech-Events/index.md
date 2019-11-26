@@ -1,4 +1,5 @@
 ---
+permalink: "/Supporting-Diversity-at-Tech-Events/"
 title: Supporting Diversity at Tech Events
 category: "Communities"
 cover: img.jpg

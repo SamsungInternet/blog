@@ -1,4 +1,5 @@
 ---
+permalink: "/Web-Payments-update/"
 title: Web Payments update - new payment apps on their way — and more!
 category: "Web APIs"
 cover: img.jpg

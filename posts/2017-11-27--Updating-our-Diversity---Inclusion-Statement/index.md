@@ -1,4 +1,5 @@
 ---
+permalink: "/Updating-our-Diversity/"
 title: Updating our Diversity & Inclusion Statement
 category: "Communities"
 cover: img.jpg

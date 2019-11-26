@@ -1,4 +1,5 @@
 ---
+permalink: "/Samsung-DeX-brings-a-new-Dimension-to-the-Mobile-Web/"
 title: Samsung DeX brings a new Dimension to the Mobile Web
 category: "Browser Features"
 cover: img.jpg

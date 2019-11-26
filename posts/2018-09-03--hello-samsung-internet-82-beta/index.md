@@ -1,4 +1,5 @@
 ---
+permalink: "/hello-samsung-internet-82-beta/"
 cover: img.jpg
 title: "Hello Samsung Internet 8.2 Beta 👋"
 description: "The next major version of Samsung’s browser for Android is now being released for beta testing"

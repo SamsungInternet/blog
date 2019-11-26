@@ -1,4 +1,5 @@
 ---
+permalink: "/Updating-the-polyfill-service-/"
 title: Optimising A-Frame Assets for Faster Starts
 category: "Web Development"
 cover: img.jpg

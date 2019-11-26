@@ -1,4 +1,5 @@
 ---
+permalink: "/94-is-here/"
 cover: img.jpg
 title: "9.4 is Here!"
 description: "We are very excited for the new features in Samsung Internet 9.4 which is rolling out now to all installed devices and available on the Play and Galaxy stores. We first announced it back in our blog post on the Beta release in May, but to recap: 9.4 is based on Chromium M67, we’ve revamped the experience of push notifications, how tabs look on tablet sized devices and added some new features and improvements."

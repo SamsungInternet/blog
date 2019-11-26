@@ -1,4 +1,5 @@
 ---
+permalink: "/we-need-a-more-ethical-web/"
 cover: img.jpg
 title: "We Need a More Ethical Web"
 description: "This week, we have been celebrating the 30th anniversary of the invention of the web. However, the celebration is tinged with anxiety about the current state of the world and the role the web has unwitting played in making it that way. The misuse of social media to control public opinion through the spread of propaganda, bot-enabled harassment campaigns and over-reliance on biased and simplistic algorithms for content promotion are some of the unexpected consequences of a world wide “web of information nodes in which the user can browse at will”."

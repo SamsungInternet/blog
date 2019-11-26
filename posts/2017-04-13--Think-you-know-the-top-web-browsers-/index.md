@@ -1,4 +1,5 @@
 ---
+permalink: "/Think-you-know-the-top-web-browsers-/"
 title: Think you know the top web browsers?
 category: "Browser Features"
 cover: img.jpg

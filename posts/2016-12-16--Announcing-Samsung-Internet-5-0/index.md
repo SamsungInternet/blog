@@ -1,4 +1,5 @@
 ---
+permalink: "/Announcing-Samsung-Internet-5-0/"
 title: Announcing Samsung Internet 5.0
 category: "Browser Features"
 cover: img.jpg
