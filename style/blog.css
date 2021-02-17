@@ -1,0 +1,178 @@
+.blog {
+  padding: 0;
+}
+
+.blog ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: calc(var(--space-default) * 1.5) 0 calc(var(--space-default) * 0.5);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.blog .bodytext li {
+  margin: 0.7em 0;
+  line-height: 1.5;
+}
+
+@media only screen and (min-width: 600px) {
+  .blog {
+    padding: 0 0 calc(var(--space-default) * 1.5);
+  }
+
+  .blog ul {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .blog ul {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  }
+}
+/* item css*/
+.blog .item .link {
+  width: 100%;
+  color: var(--text-color-primary);
+}
+.blog li.item {
+  border: 1px solid transparent;
+  border-radius: var(--size-radius-default);
+  margin: calc(var(--space-default)) 20px calc(var(--space-default) * 2);
+  position: relative;
+  transition: all var(--time-duration-default);
+  background: transparent;
+}
+.blog li.item .gatsby-image-outer-wrapper {
+  border-radius: var(--size-radius-default);
+  border: 1px solid var(--line-color);
+  overflow: hidden;
+}
+.blog li.item .gatsby-image-outer-wrapper img {
+  z-index: -1;
+}
+.blog li.item::after {
+  border-top: 1px solid var(--line-color);
+  content: "";
+  height: 0;
+  position: absolute;
+  bottom: calc(var(--space-default) * -1.5);
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all var(--time-duration-default);
+  width: 50%;
+}
+.blog .item h1 {
+  padding: var(--space-m) var(--space-s) 0;
+  font-size: var(--blog-h1-size);
+  text-remove-gap: both;
+}
+.blog .item h1 .arrow {
+  display: none;
+}
+.blog .item h2 {
+  font-size: var(--blog-h2-size);
+}
+.blog .item .meta {
+  display: flex;
+  flex-flow: row wrap;
+  font-size: 0.8em;
+  padding: var(--space-m) var(--space-s);
+  background: transparent;
+}
+.blog .item .meta svg {
+  fill: var(--icon-color);
+  margin: var(--space-inline-xs);
+}
+.blog .item .meta span {
+  align-items: center;
+  display: flex;
+  text-transform: uppercase;
+  margin: var(--space-xs) var(--space-s) var(--space-xs) 0;
+}
+.blog .item p {
+  line-height: 1.5;
+  padding: 0 var(--space-s);
+  text-remove-gap: both;
+}
+@from-width tablet {
+  .blog li.item::after {
+    bottom: calc(var(--space-default) * -2);
+  }
+  .blog .item h1 {
+    font-size: calc(var(--blog-h1-size) * 1.2);
+    padding: calc(var(--space-default) * 1.5) var(--space-default) 0;
+    transition: all 0.5s;
+  }
+  .blog .item .meta {
+    padding: calc(var(--space-m) * 1.5) var(--space-m);
+  }
+  .blog .item p {
+    padding: 0 var(--space-default);
+  }
+}
+@from-width desktop {
+  .blog li.item {
+    margin: calc(var(--space-default) * 2) 20px calc(var(--space-default) * 3);
+    padding: 0 0 calc(var(--space-default) * 2);
+  }
+  .blog li.item::after {
+    bottom: calc(var(--space-default) * -1.5);
+  }
+  .blog .item .blogItemLink:first-child > li::before {
+    top: calc(var(--space-default) * -2.75);
+  }
+  .blog .item h1 {
+    font-size: 1.6em;
+    padding: calc(var(--space-default) * 1.2) calc(var(--space-default) * 1.5) 0;
+  }
+  .blog .item .meta,
+.blog .item p {
+    padding: 0 calc(var(--space-default) * 1.5);
+  }
+  .blog li.item:hover {
+    border: 1px solid var(--line-color);
+    box-shadow: 0px 3px 2px rgba(0, 0, 0, 0.03);
+  }
+  .blog li.item:hover:after {
+    bottom: calc(var(--space-default) * -2.5);
+  }
+  .blog li.item:hover .gatsby-image-wrapper {
+    transform: scale(1.1);
+    transition: all var(--time-duration-default);
+  }
+  .blog li.item:hover h1 {
+    color: var(--blog-h1-hoverColor);
+  }
+  .blog li.item:hover .arrow {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  .blog li.item .arrow {
+    display: inline-block;
+    fill: var(--color-special-attention);
+    opacity: 0;
+    transition: all 0.5s;
+    transform: translateX(-50%);
+  }
+}
+
+.blog .item .feature-text {
+  text-indent: -999px;
+  display: block;
+  float: left;
+}
+.blog .item .icon {
+  margin: 10px;
+}
+.blog .item .author-info {
+  width: 100%;
+  text-align: right;
+}
+.blog .item .author-img {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+  border-radius: 50%;
+  z-index: 1;
+}

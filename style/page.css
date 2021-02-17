@@ -1,0 +1,174 @@
+@import 'typeface-samsungone/index.css';
+@import 'theme.css';
+@import 'global.css';
+@import 'header.css';
+@import 'article.css';
+
+h1.headline {
+  font-size: var(--font-size-xxl);
+  margin: var(--space-stack-l);
+  animation-name: headlineEntry;
+  animation-duration: var(--time-duration-long);
+}
+h1.headline span {
+  font-weight: var(--font-weight-standard);
+  display: block;
+  font-size: 0.5em;
+  letter-spacing: 0;
+  margin: var(--space-stack-xs);
+}
+h1.headline svg {
+  height: 0.75em;
+  fill: var(--color-brand-primary);
+}
+
+@keyframes headlineEntry {
+  from {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media only screen and (min-width: 600px) {
+  h1.headline {
+    font-size: calc(var(--font-size-xl * 1.2));
+  }
+}
+@media only screen and (min-width: 1024px) {
+  h1.headline {
+    font-size: calc(var(--font-size-xl) * 1.4);
+  }
+}
+.bodytext {
+  animation-name: bodytextEntry;
+  animation-duration: var(--time-duration-long);
+}
+.bodytext h2,
+.bodytext h3 {
+  margin: 1.5em 0 1em;
+}
+.bodytext h2 {
+  line-height: var(--font-lineHeight-s);
+  font-size: var(--font-size-l);
+}
+.bodytext h3 {
+  font-size: var(--font-size-m);
+  line-height: var(--font-lineHeight-m);
+}
+.bodytext p {
+  font-size: var(--font-size-s);
+  line-height: var(--font-lineHeight-xxl);
+  margin: 0 0 1.5em;
+}
+.bodytext a {
+  font-weight: var(--font-weight-bold);
+  color: var(--color-brand-primary);
+  text-decoration: underline;
+}
+.bodytext a.gatsby-resp-image-link {
+  border: 0;
+  display: block;
+  margin: 2.5em 0;
+  border-radius: var(--size-radius-default);
+  overflow: hidden;
+  border: 1px solid var(--line-color);
+}
+.bodytext .language-text {
+  text-shadow: none;
+  padding: 0.1em 0.3em 0.2em;
+  border-radius: 0.1em;
+  word-wrap: wrap;
+  background-color: #f2f2f2;
+  color: #666;
+  font-family: Monaco, "Courier New", Courier, monospace;
+}
+.bodytext pre.language-text {
+  padding: 10px;
+}
+.bodytext img {
+  max-width: 100%;
+}
+.bodytext img.profile-img {
+  max-width: 40%;
+}
+.bodytext pre {
+  max-width: 100%;
+}
+.bodytext blockquote {
+  border-left: 8px solid #ccc;
+  padding-left: 10px;
+  font-style: italic;
+}
+.bodytext .doclist {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-gap: 20px;
+  padding: 20px;
+  background-color: white;
+}
+.bodytext .doclist-item {
+  text-align: center;
+}
+.bodytext .doclist-link img {
+  display: block;
+  margin: 20px auto;
+  max-width: 120px;
+}
+.bodytext .green {
+  background-color: #22646d;
+}
+.bodytext .green:hover {
+  background-color: #2e8894;
+}
+.bodytext .blue {
+  background-color: #282c81;
+}
+.bodytext .blue:hover {
+  background-color: #2e3394;
+}
+.bodytext .standard {
+  background-color: #2d2069;
+}
+.bodytext .standard:hover {
+  background-color: #3f2e94;
+}
+.bodytext .purple {
+  background-color: #53267d;
+}
+.bodytext .purple:hover {
+  background-color: #632e94;
+}
+.bodytext .turquoise {
+  background-color: #245575;
+}
+.bodytext .turquoise:hover {
+  background-color: #2e6b94;
+}
+.bodytext .doclist-link {
+  color: white;
+  text-decoration: none;
+  padding: 20px 20px 40px;
+  display: block;
+}
+
+.bodytext li {
+  margin: 0.2em 1.2em 0.6em;
+}
+
+@media only screen and (min-width: 1024px) {
+  img.profile-img {
+    width: 200px;
+    float: right;
+    margin: 0 0 2em 2em;
+  }
+}
+@keyframes bodytextEntry {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

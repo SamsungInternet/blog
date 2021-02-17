@@ -1,0 +1,155 @@
+@import 'theme.css';
+@import 'menu.css';
+@import 'link.css';
+main {
+    min-height: 80vh;
+}
+
+.header {
+  z-index: 2;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  --header-height: var(--header-height-default);
+  height: var(--header-height);
+  position: relative;
+  top: 0;
+  padding: 0 1em;
+  width: 100%;
+  align-items: center;
+  background-image: var(--bg);
+}
+
+header.homepage {
+  position: absolute;
+  --header-height: var(--header-height-homepage);
+}
+
+.header h1 {
+  width: max-content;
+  text-align: right;
+  font-size: 6vw;
+  margin: 0 30px;
+  flex-shrink: 0;
+  font-family: SamsungSharpSans-Regular;
+  color: white;
+  letter-spacing: 0;
+  text-shadow:
+  -1px -1px 2px  var(--hero-backgroundColor),
+  1px -1px 2px var(--hero-backgroundColor),
+  -1px 1px 2px  var(--hero-backgroundColor),
+  1px 1px 2px  var(--hero-backgroundColor);
+}
+
+.header .logo-img {
+  margin: var(--space-inline-default);
+  overflow: hidden;
+  transition: all 0.5s;
+  height: 3em;
+}
+
+.logo-link {
+  display: block;
+  width: 50px;
+  overflow: hidden;
+}
+
+.sensor {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  height: 1px;
+  top: var(--header-height);
+}
+
+@media only screen and (min-width: 600px) {
+  .header {
+    padding: var(--space-inset-l);
+  }
+
+  .header.homepage {
+    height: 100px;
+  }
+  .header h1 {
+    font-size: 32px;
+  }
+  .header .logo-link {
+    width: auto;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .header.homepage .logo {
+    border: none;
+  }
+
+  .header.homepage a.logo-link, .header.homepage  h1 {
+    color: var(--color-neutral-white);
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .header {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    transition: padding 0.5s;
+  }
+
+  .header.fixed {
+    height: var(--header-height-fixed);
+    left: 0;
+    padding: 0 var(--space-m);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+    background-image: var(--bg);
+  }
+
+  .header.fixed h1 {
+    display: none;
+  }
+
+  .header.homepage:not(.fixed) a.logo-link,
+  .header.homepage:not(.fixed) h1 {
+    color: var(--color-neutral-gray-d);
+  }
+
+  .header a.logo-link {
+    text-align: left;
+    flex-shrink: 0;
+  }
+
+  .logo-img {
+    margin: var(--space-inline-default);
+  }
+
+  .fixed .logo-img {
+    height: 36px;
+  }
+
+  .header.homepage:not(.fixed) .logo-img {
+    border: none;
+  }
+
+  h1 {
+    animation-duration: var(--time-duration-default);
+    animation-name: h2Entry;
+  }
+
+  @keyframes h2Entry {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}

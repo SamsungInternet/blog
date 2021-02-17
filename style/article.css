@@ -1,0 +1,64 @@
+
+.article {
+  padding: var(--space-inset-default);
+  margin: 0 auto;
+}
+
+.profile {
+  background-color: white;
+  padding: 0.1em 2em;
+}
+
+.docs, .team {
+  padding-left: 0;
+  padding-right: 0;
+  max-width: 100%;
+  background: var(--bg) var(--hero-backgroundColor) repeat;
+  background-attachment: fixed;
+}
+
+.docs h1,
+.team h1 {
+  text-align: center;
+  color: white;
+}
+
+@media only screen and (min-width: 600px) {
+  .article {
+    padding: ${`calc(var(--space-default)) calc(var(--space-default) * 2)`};
+    max-width: var(--text-maxWidth-tablet);
+  }
+  .docs, .team {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 100%;
+  }
+  .team .profiles {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 40px;
+    padding: 40px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .article {
+    padding: calc(var(--space-default) * 2 + 90px) 0 calc(var(--space-default) * 2);
+    max-width: 960px;
+  }
+  .docs, .team {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 100%;
+  }
+  .team {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .team .profiles {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
+    padding: 0;
+  }
+}

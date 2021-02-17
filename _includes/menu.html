@@ -1,0 +1,31 @@
+<nav class="menu open">
+  <ul class="itemList">
+      <!-- <li class="item">
+        <a href="/category/" class="link">
+          Categories
+        </a>
+      </li> -->
+      {% for page in site.pages %}{% if page.inheader %}
+      <li class="item">
+        <a href="{{page.url}}" class="link">
+          {{page.title}}
+        </a>
+      </li>
+      {% endif %}{% endfor %}
+      <li class="item">
+        <a href="https://medium.com/samsung-internet-dev" class="link">
+          Blog
+        </a>
+      </li>
+      <li class="item">
+        <a href="https://github.com/SamsungInternet/support/issues" class="link">
+          Support
+        </a>
+      </li>
+      <li class="item">
+        <a href="https://github.com/SamsungInternet" class="link">
+          Demos
+        </a>
+      </li>
+  </ul>
+</nav>

@@ -1,0 +1,15 @@
+<section class="feature">
+  {% for page in (site.pages | sort: 'date' | reverse) %}
+  {% assign folder = page.path | split: "/" %}
+  {% if folder[0] == "posts" %}
+  {% if page.featuredArticle %}
+  <a href="{{page.url}}">
+    <img class="blog-image" src="/{{folder[0]}}/{{folder[1]/}}/{{page.cover}}" alt="{{page.coverAlt}}" />
+    <h2>{{page.title}}</h2>
+    {% assign type="feature" %}
+    {% assign icon="star" %}
+    {% include corner.html %}
+  </a>
+  {% break %}
+  {% endif %}{% endif %}{% endfor %}
+</section>

@@ -1,0 +1,30 @@
+---
+defaults:
+- scope:
+    path: "" # an empty string here means all files in the project
+  values:
+    layout: "page"
+siteTitle: Samsung Internet Dev Hub - Resources for developers
+shortSiteTitle: Samsung Internet Dev Hub - Resources for developers
+siteDescription: Samsung Internet Dev Hub, blog, resources, demos and documentation
+siteUrl: https://samsunginter.net
+pathPrefix: ''
+siteImage: "/icons/icon.png"
+siteLanguage: en
+authorName: Samsung Internet
+authorTwitterAccount: samsunginternet
+headerTitle: SamsungInternet
+headerSubTitle: DevHub
+manifestName: Samsung Internet Dev Hub
+manifestShortName: Samsung Internet Dev Hub
+manifestStartUrl: "/index.html"
+manifestBackgroundColor: white
+manifestThemeColor: "#666"
+manifestDisplay: standalone
+authorSocialLinks:
+- name: github
+  url: https://github.com/samsunginternet
+- name: twitter
+  url: https://twitter.com/samsunginternet
+- name: facebook
+  url: http://facebook.com/samsunginternet

@@ -65,3 +65,8 @@ yarn-error.log
 # editors
 .idea/
 .vscode
+
+# Jekyll
+_site
+.jekyll-cache
+.jekyll-metadata
