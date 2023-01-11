@@ -29,7 +29,7 @@
     "gatsby-remark-smartypants": "^1.4.12",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-source-medium": "^1.0.14",
-    "gatsby-transformer-remark": "^1.7.44",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^1.6.27",
     "js-yaml": "^3.13.0",
     "normalize.css": "^8.0.1",
